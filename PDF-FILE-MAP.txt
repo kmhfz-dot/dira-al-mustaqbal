@@ -1,0 +1,113 @@
+CATALOGUE PDF FILE MAP
+======================
+
+IAG SENTRY Armored Personnel Carrier [INCLUDED]
+  -> assets/brochures/iag-sentry-armored-personnel-carrier.pdf
+
+RILA 6x6-B Infantry Fighting Vehicle [INCLUDED]
+  -> assets/brochures/rila-6x6-b-infantry-fighting-vehicle.pdf
+
+RILA 8x8-A Infantry Fighting Vehicle [INCLUDED]
+  -> assets/brochures/rila-8x8-a-infantry-fighting-vehicle.pdf
+
+Armored Anti-Riot Truck [PENDING UPLOAD]
+  -> assets/brochures/armored-anti-riot-truck.pdf
+
+Armored Water Cannon [INCLUDED]
+  -> assets/brochures/armored-water-cannon.pdf
+
+PHAZZER Enforcer Overview [INCLUDED]
+  -> assets/brochures/phazzer-enforcer-overview.pdf
+
+PHAZZER Enforcer Specifications [INCLUDED]
+  -> assets/brochures/phazzer-enforcer-specifications.pdf
+
+M300T Hearing Protector [INCLUDED]
+  -> assets/brochures/m300t-hearing-protector.pdf
+
+YF Protector Catalogue [INCLUDED]
+  -> assets/brochures/yf-protector-catalogue.pdf
+
+WOLFCOM Solutions Overview [INCLUDED]
+  -> assets/brochures/wolfcom-solutions-overview.pdf
+
+EDI-USA Tactical Catalogue 2026 [PENDING UPLOAD]
+  -> assets/brochures/edi-usa-tactical-catalogue-2026.pdf
+
+T-3 Multifunctional Airsoft Baton [PENDING UPLOAD]
+  -> assets/brochures/t-3-multifunctional-airsoft-baton.pdf
+
+Catch Me Net Gun [PENDING UPLOAD]
+  -> assets/brochures/catch-me-net-gun.pdf
+
+APS Multifunctional Line Launcher [PENDING UPLOAD]
+  -> assets/brochures/aps-multifunctional-line-launcher.pdf
+
+Cobra Cuffs Advantage [PENDING UPLOAD]
+  -> assets/brochures/cobra-cuffs-advantage.pdf
+
+MKU Protection Systems [INCLUDED]
+  -> assets/brochures/mku-protection-systems.pdf
+
+Integrated Air & Missile Defence [PENDING UPLOAD]
+  -> assets/brochures/integrated-air-and-missile-defence.pdf
+
+ATOS Airborne Tactical Observation System [PENDING UPLOAD]
+  -> assets/brochures/atos-airborne-tactical-observation-system.pdf
+
+HITFIST 30 UL Remote Turret [INCLUDED]
+  -> assets/brochures/hitfist-30-ul-remote-turret.pdf
+
+MIRACH 100/5 Aerial Target System [INCLUDED]
+  -> assets/brochures/mirach-100-5-aerial-target-system.pdf
+
+ECOMAT-M Product Presentation [PENDING UPLOAD]
+  -> assets/brochures/ecomat-m-product-presentation.pdf
+
+ECOMAT-M Company Presentation [PENDING UPLOAD]
+  -> assets/brochures/ecomat-m-company-presentation.pdf
+
+Pito Aviation Product Brochure 2024 [INCLUDED]
+  -> assets/brochures/pito-aviation-product-brochure-2024.pdf
+
+KINTEX Defence Catalogue [PENDING UPLOAD]
+  -> assets/brochures/kintex-defence-catalogue.pdf
+
+PHOBOS by SkyForce [INCLUDED]
+  -> assets/brochures/phobos-by-skyforce.pdf
+
+ASLON Ammunition Systems [PENDING UPLOAD]
+  -> assets/brochures/aslon-ammunition-systems.pdf
+
+ASLON Masks & Protective Equipment [PENDING UPLOAD]
+  -> assets/brochures/aslon-masks-and-protective-equipment.pdf
+
+ASLON Precision Rifles [PENDING UPLOAD]
+  -> assets/brochures/aslon-precision-rifles.pdf
+
+ASLON Pyrotechnics [PENDING UPLOAD]
+  -> assets/brochures/aslon-pyrotechnics.pdf
+
+ASLON Rocket Systems [PENDING UPLOAD]
+  -> assets/brochures/aslon-rocket-systems.pdf
+
+ASLON Small Arms Ammunition [PENDING UPLOAD]
+  -> assets/brochures/aslon-small-arms-ammunition.pdf
+
+ASLON Small Arms [PENDING UPLOAD]
+  -> assets/brochures/aslon-small-arms.pdf
+
+KONG Rescue Catalogue 2025 [INCLUDED]
+  -> assets/brochures/kong-rescue-catalogue-2025.pdf
+
+KONG Tactical Catalogue [INCLUDED]
+  -> assets/brochures/kong-tactical-catalogue.pdf
+
+Def-Tec Defense Product Manual [INCLUDED]
+  -> assets/brochures/def-tec-defense-product-manual.pdf
+
+Falcon 95 Unmanned Reconnaissance & Attack System [INCLUDED]
+  -> assets/brochures/falcon-95-unmanned-reconnaissance-attack-system.pdf
+
+H-BAR Pop-Up Target System [INCLUDED]
+  -> assets/brochures/h-bar-pop-up-target-system.pdf

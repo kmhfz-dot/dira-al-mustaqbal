@@ -1,0 +1,23 @@
+(() => {
+  const data=Array.isArray(window.PRODUCT_DATA)?window.PRODUCT_DATA:[];
+  const $=s=>document.querySelector(s), esc=v=>String(v??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;');
+  const search=$('#productSearch'), sector=$('#sectorFilter'), category=$('#categoryFilter'), brand=$('#brandFilter'), groups=$('#productGroups'), count=$('#productCount'), empty=$('#productEmpty');
+  const params=new URLSearchParams(location.search);
+  const unique=key=>[...new Set(data.map(x=>x[key]).filter(Boolean))].sort((a,b)=>a.localeCompare(b));
+  const fill=(el,items,label)=>{items.forEach(v=>el.insertAdjacentHTML('beforeend',`<option value="${esc(v)}">${esc(v)}</option>`));};
+  fill(sector,unique('sector')); fill(category,unique('category')); fill(brand,unique('brand'));
+  if(params.get('sector')) sector.value=params.get('sector'); if(params.get('category')) category.value=params.get('category'); if(params.get('brand')) brand.value=params.get('brand'); if(params.get('q')) search.value=params.get('q');
+  $('#productTotal').textContent=data.length;
+  const quick=['Helmets','Body Armour & Vests','Masks & CBRN','Ballistic Shields','Body Cameras','Armored Vehicles','UAV Platforms','Small Arms Ammunition'];
+  $('#quickCategories').innerHTML=quick.map(c=>`<button type="button" data-category="${esc(c)}">${esc(c)}</button>`).join('');
+  $('#quickCategories').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;category.value=b.dataset.category;render();});
+  const card=x=>`<article class="product-card" tabindex="0" data-id="${esc(x.id)}"><div class="product-card-image"><img src="assets/products/${esc(x.image)}" alt="${esc(x.title)}" loading="lazy"><span>${esc(x.brand)}</span></div><div class="product-card-copy"><p>${esc(x.category)}</p><h3>${esc(x.title)}</h3><span class="view-product" data-en="View product →" data-ar="عرض المنتج ←">View product →</span></div></article>`;
+  function filtered(){const q=search.value.trim().toLowerCase();return data.filter(x=>(sector.value==='all'||x.sector===sector.value)&&(category.value==='all'||x.category===category.value)&&(brand.value==='all'||x.brand===brand.value)&&(!q||x.search.toLowerCase().includes(q)));}
+  function render(){const list=filtered();const by={};list.forEach(x=>(by[x.category]??=[]).push(x));groups.innerHTML=Object.entries(by).sort(([a],[b])=>a.localeCompare(b)).map(([cat,items])=>`<section class="product-category-section" id="cat-${cat.toLowerCase().replace(/[^a-z0-9]+/g,'-')}"><div class="product-category-head"><div><p class="eyebrow">${esc(items[0].sector)}</p><h2>${esc(cat)}</h2></div><strong>${items.length}</strong></div><div class="product-grid-browser">${items.map(card).join('')}</div></section>`).join('');count.textContent=`${list.length} of ${data.length} products`;empty.hidden=list.length!==0;groups.hidden=list.length===0;document.querySelectorAll('[data-en]').forEach(el=>{if(document.body.classList.contains('ar'))el.textContent=el.dataset.ar;});}
+  [search,sector,category,brand].forEach(el=>el.addEventListener(el===search?'input':'change',render));
+  function openModal(item){$('#modalImage').src=`assets/products/${item.image}`;$('#modalImage').alt=item.title;$('#modalTitle').textContent=item.title;$('#modalBrand').textContent=item.brand;$('#modalSector').textContent=item.sector;$('#modalCategory').textContent=item.category;$('#modalDescription').textContent=item.description;$('#modalSource').textContent=item.source_title;$('#modalPage').textContent=item.page;$('#modalEnquire').href=`mailto:mahfz@hotmail.com?subject=${encodeURIComponent('Product enquiry: '+item.title)}`;$('#productModal').hidden=false;document.body.classList.add('modal-open');}
+  groups.addEventListener('click',e=>{const c=e.target.closest('.product-card');if(c)openModal(data.find(x=>x.id===c.dataset.id));});groups.addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target.matches('.product-card')){e.preventDefault();openModal(data.find(x=>x.id===e.target.dataset.id));}});
+  document.querySelectorAll('[data-close]').forEach(b=>b.addEventListener('click',()=>{$('#productModal').hidden=true;document.body.classList.remove('modal-open');}));document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#productModal').hidden){$('#productModal').hidden=true;document.body.classList.remove('modal-open');}});
+  $('#langButton')?.addEventListener('click',()=>setTimeout(()=>{search.placeholder=document.body.classList.contains('ar')?search.dataset.placeholderAr:search.dataset.placeholderEn;render();},0));
+  render();
+})();

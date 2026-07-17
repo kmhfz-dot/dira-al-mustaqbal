@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Browse full product catalogues from Dira Al Mustaqbal Trading." />
+  <title>Catalogue Viewer | Dira Al Mustaqbal Trading</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Kufi+Arabic:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="viewer-page">
+  <header class="nav scrolled" id="top">
+    <a class="brand" href="index.html" aria-label="Dira Al Mustaqbal home">
+      <span class="shield">D</span>
+      <span><strong data-en="DIRA AL MUSTAQBAL" data-ar="درع المستقبل">DIRA AL MUSTAQBAL</strong><small data-en="TRADING" data-ar="للتجارة">TRADING</small></span>
+    </a>
+    <button class="menu" aria-label="Open menu">☰</button>
+    <nav>
+      <a href="index.html" data-en="Home" data-ar="الرئيسية">Home</a>
+      <a href="products.html" data-en="Products" data-ar="المنتجات">Products</a>
+      <a href="catalogue.html" data-en="Source Brochures" data-ar="الكتيبات الأصلية">Source Brochures</a>
+      <a href="index.html#contact" data-en="Contact" data-ar="اتصل بنا">Contact</a>
+      <button class="lang" id="langButton">العربية</button>
+    </nav>
+  </header>
+
+  <main class="viewer-main">
+    <section class="viewer-header">
+      <a class="viewer-back" id="viewerBack" href="catalogue.html" data-en="← Back to source brochures" data-ar="العودة إلى الكتيبات الأصلية ←">← Back to source brochures</a>
+      <div class="viewer-heading-grid">
+        <div>
+          <p class="eyebrow" id="viewerCategory">PRODUCT CATALOGUE</p>
+          <p class="viewer-brand" id="viewerBrand"></p>
+          <h1 id="viewerTitle">Catalogue</h1>
+          <p id="viewerDescription"></p>
+        </div>
+        <div class="viewer-meta">
+          <div><span data-en="Format" data-ar="الصيغة">Format</span><strong>PDF</strong></div>
+          <div><span data-en="Pages" data-ar="الصفحات">Pages</span><strong id="viewerPages">—</strong></div>
+        </div>
+      </div>
+      <div class="viewer-actions">
+        <a class="btn primary" id="openPdf" href="#" target="_blank" rel="noopener" data-en="Open full screen" data-ar="فتح بملء الشاشة">Open full screen</a>
+        <a class="btn viewer-download" id="downloadPdf" href="#" download data-en="Download PDF" data-ar="تحميل PDF">Download PDF</a>
+      </div>
+    </section>
+
+    <section class="viewer-layout">
+      <div class="pdf-shell">
+        <iframe id="pdfFrame" title="Full catalogue PDF" loading="eager"></iframe>
+        <div class="pdf-fallback">
+          <strong data-en="The catalogue should appear above." data-ar="يجب أن يظهر الكتالوج أعلاه.">The catalogue should appear above.</strong>
+          <p data-en="If your browser does not display PDFs inside the page, use Open full screen or Download PDF." data-ar="إذا لم يعرض المتصفح ملفات PDF داخل الصفحة، استخدم فتح بملء الشاشة أو تحميل PDF.">If your browser does not display PDFs inside the page, use Open full screen or Download PDF.</p>
+        </div>
+      </div>
+
+      <aside class="related-catalogues">
+        <p class="eyebrow" data-en="RELATED CATALOGUES" data-ar="كتالوجات ذات صلة">RELATED CATALOGUES</p>
+        <h2 data-en="More in this section" data-ar="المزيد في هذا القسم">More in this section</h2>
+        <div id="relatedList"></div>
+      </aside>
+    </section>
+
+    <section class="pdf-install-note" id="pdfInstallNote">
+      <strong data-en="Website setup note" data-ar="ملاحظة إعداد الموقع">Website setup note</strong>
+      <p data-en="For this viewer to work on the published website, the matching PDF must be stored inside assets/brochures using the exact filename shown below." data-ar="لكي يعمل هذا العارض على الموقع المنشور، يجب حفظ ملف PDF المطابق داخل assets/brochures باستخدام اسم الملف الدقيق الموضح أدناه.">For this viewer to work on the published website, the matching PDF must be stored inside assets/brochures using the exact filename shown below.</p>
+      <code id="requiredFilename"></code>
+    </section>
+  </main>
+
+  <footer><div class="brand"><span class="shield">D</span><span><strong>DIRA AL MUSTAQBAL</strong><small>TRADING</small></span></div><p>© <span id="year"></span> Dira Al Mustaqbal Trading. All rights reserved.</p></footer>
+  <script src="catalogue-data.js"></script>
+  <script src="viewer.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
