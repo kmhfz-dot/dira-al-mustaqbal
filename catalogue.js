@@ -93,5 +93,16 @@
     if(input)input.placeholder=document.body.classList.contains('ar')?input.dataset.placeholderAr:input.dataset.placeholderEn;
     update();
   },0));
+  // Catalogue enquiry buttons: prefilled WhatsApp plus email to the contact details shown on the website.
+  cards.forEach((card,index)=>{
+    const item=data[index]; if(!item)return;
+    const actions=card.querySelector('.catalogue-actions'); if(!actions)return;
+    let enquire=actions.querySelector('a:nth-child(2)');
+    const msg=`Hello Dira Al Mustaqbal Trading, I would like information about the ${item.title} catalogue by ${item.brand}.`;
+    if(enquire){enquire.href=`https://wa.me/97477889531?text=${encodeURIComponent(msg)}`;enquire.target='_blank';enquire.rel='noopener';enquire.dataset.en='WhatsApp enquiry';enquire.dataset.ar='استفسار واتساب';enquire.textContent='WhatsApp enquiry';}
+    if(!actions.querySelector('.catalogue-email-enquiry')){
+      const email=document.createElement('a');email.className='catalogue-email-enquiry';email.dataset.en='Email enquiry';email.dataset.ar='استفسار بالبريد';email.textContent='Email enquiry';email.href=`mailto:mahfz@hotmail.com?subject=${encodeURIComponent('Catalogue enquiry: '+item.title)}&body=${encodeURIComponent(msg)}`;actions.appendChild(email);
+    }
+  });
   update();
 })();

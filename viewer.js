@@ -48,7 +48,7 @@
 
   const sectorMap = {
     'Land Systems': 'land', 'Public Order Vehicles': 'land', 'Weapon Stations': 'land',
-    'Tactical Equipment': 'tactical', 'Protective Equipment': 'tactical', 'CBRN & Protective Equipment': 'tactical', 'Protective & Defence Equipment': 'tactical', 'Specialist Systems': 'tactical',
+    'Body Armour & Vests': 'tactical', 'Tactical Equipment': 'tactical', 'Protective Equipment': 'tactical', 'CBRN & Protective Equipment': 'tactical', 'Protective & Defence Equipment': 'tactical', 'Specialist Systems': 'tactical',
     'Small Arms': 'weapons', 'Ammunition Systems': 'weapons', 'Pyrotechnics': 'weapons',
     'Law Enforcement': 'law-enforcement', 'Less-Lethal & Rescue': 'law-enforcement', 'Surveillance & Evidence': 'law-enforcement',
     'Unmanned Systems': 'unmanned', 'Unmanned & Target Systems': 'unmanned', 'ISR & Surveillance': 'unmanned',

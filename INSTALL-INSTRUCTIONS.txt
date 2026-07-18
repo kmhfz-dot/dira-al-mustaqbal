@@ -1,0 +1,15 @@
+DIRA AL MUSTAQBAL — SPLIT DOWNLOAD INSTALLATION
+
+This website was split into 9 normal ZIP files because the complete 512 MB package exceeds the chat download limit.
+
+HOW TO INSTALL
+1. Download ALL 9 ZIP files.
+2. Put all ZIP files in the same folder.
+3. Extract Part 01 first.
+4. Extract Parts 02 through 09 into THE SAME folder.
+5. When Windows asks whether to merge folders, choose Yes.
+6. The finished folder will be named: dira-al-mustaqbal-final-complete-organized
+7. Open index.html to test it.
+8. Replace the contents of your GitHub repository with the contents of that finished folder, then Commit to main and Push origin.
+
+Do not rename or omit any part. These are standard independent ZIP files, so Windows can extract them without 7-Zip.

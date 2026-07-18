@@ -1,0 +1,1 @@
+Added a complete EMS & Medical Response solution, Dragon Medical emergency and tactical first-aid products, medical accessories, stretchers, ambulances and patient-care equipment. Vehicle cards were rebuilt with local JPG images for reliable browsing.

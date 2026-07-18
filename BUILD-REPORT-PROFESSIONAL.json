@@ -1,0 +1,24 @@
+{
+  "products": 695,
+  "manufacturers": 42,
+  "official_manufacturer_sites": 31,
+  "company_profiles": 4,
+  "catalogue_only_sources": 7,
+  "official_web_media_products": 10,
+  "sectors": {
+    "Land & Vehicle Systems": 28,
+    "Tactical & Protective": 92,
+    "Small Arms & Ammunition": 163,
+    "Law Enforcement & Evidence": 54,
+    "Unmanned & Surveillance": 78,
+    "Air & Missile Defence": 4,
+    "Rescue & Emergency": 51,
+    "Hunting Gear & Guns": 69,
+    "Scopes, Thermal & Night Vision": 74,
+    "Clothing, Bags & Load-Carrying": 70,
+    "Firefighting & Rescue": 11,
+    "Training Systems": 1
+  },
+  "categories": 106,
+  "duplicate_ids": 0
+}

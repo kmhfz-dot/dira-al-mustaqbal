@@ -1,0 +1,20 @@
+{
+  "products": 511,
+  "sectors": [
+    "Air & Missile Defence",
+    "Firefighting & Rescue",
+    "Hunting Gear & Guns",
+    "Land & Vehicle Systems",
+    "Law Enforcement & Evidence",
+    "Rescue & Emergency",
+    "Scopes, Thermal & Night Vision",
+    "Small Arms & Ammunition",
+    "Tactical & Protective",
+    "Training Systems",
+    "Unmanned & Surveillance"
+  ],
+  "categories": 119,
+  "duplicate_ids": 0,
+  "missing_images": [],
+  "firefighting_filter_products": 15
+}

@@ -1,0 +1,1 @@
+V16 fixes: reliable URL filters, clear-filters control, complete ECOMAT-M model cards with official manufacturer imagery, corrected Def-Tec UAV images, unified binoculars/observation section, expanded clothing, unified vehicles, and corrected rescue access/ladders. Original site design retained.

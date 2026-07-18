@@ -1,0 +1,1 @@
+V15 reorganises the browsing sections while preserving the existing website design. It adds a Clothing, Bags & Load-Carrying solution and fixes harness, helicopter rescue, helmets, lifting/evacuation, stretchers, gloves, ropes, targets, UAV, firefighting, small-arms aliases and ECOMAT-M product organisation.
