@@ -1139,16 +1139,16 @@ window.PRODUCT_DATA = [
     "category": "Body Armour & Vests",
     "ar_category": "الدروع والسترات الواقية",
     "pdf": "ecomat-m-product-presentation.pdf",
-    "page": 1,
-    "description": "Low-profile ballistic T-shirt providing front, back and partial side protection for discreet wear.",
-    "ar_description": "Low-profile ballistic T-shirt providing front, back and partial side protection for discreet wear.",
+    "page": 2,
+    "description": "Low-profile ballistic T-shirt providing front, back and partial side protection for discreet wear. Official ECOMAT-M catalogue front and rear product views are displayed.",
+    "ar_description": "Low-profile ballistic T-shirt providing front, back and partial side protection for discreet wear. Official ECOMAT-M catalogue front and rear product views are displayed.",
     "image": "final/ecomat-model-13.webp",
-    "fallback_image": "supplied/ecomat-m-product-presentation.jpg",
+    "fallback_image": "final/ecomat-model-13.webp",
     "gallery": [
       "final/ecomat-model-13.webp",
-      "supplied/ecomat-m-product-presentation.jpg"
+      "final/ecomat-model-13-back.webp"
     ],
-    "source_title": "ECOMAT-M Product Presentation / MARS Armor",
+    "source_title": "ECOMAT-M Product Presentation",
     "source_url": "https://www.marsarmor.com/products/ballistic-vests/covert/model-13/",
     "tags": [],
     "solutions": [
@@ -1158,8 +1158,8 @@ window.PRODUCT_DATA = [
     "search": "model 13 ballistic t-shirt ecomat-m tactical & protective body armour & vests low-profile ballistic t-shirt providing front, back and partial side protection for discreet wear. tactical & protective body armour & ballistic protection",
     "brand_url": null,
     "brand_source_status": "catalogue",
-    "media_credit": "Supplied manufacturer catalogue",
-    "official_media": false
+    "media_credit": "ECOMAT-M product presentation catalogue image",
+    "official_media": true
   },
   {
     "id": "ecomat-model-21",
@@ -1171,16 +1171,16 @@ window.PRODUCT_DATA = [
     "category": "Body Armour & Vests",
     "ar_category": "الدروع والسترات الواقية",
     "pdf": "ecomat-m-product-presentation.pdf",
-    "page": 2,
-    "description": "Overt guard vest combining front and back protection, low weight and broad torso coverage.",
-    "ar_description": "Overt guard vest combining front and back protection, low weight and broad torso coverage.",
+    "page": 3,
+    "description": "Overt guard vest combining front and back protection, low weight and broad torso coverage. Official ECOMAT-M catalogue front and rear product views are displayed.",
+    "ar_description": "Overt guard vest combining front and back protection, low weight and broad torso coverage. Official ECOMAT-M catalogue front and rear product views are displayed.",
     "image": "final/ecomat-model-21.webp",
-    "fallback_image": "supplied/ecomat-m-product-presentation.jpg",
+    "fallback_image": "final/ecomat-model-21.webp",
     "gallery": [
       "final/ecomat-model-21.webp",
-      "supplied/ecomat-m-product-presentation.jpg"
+      "final/ecomat-model-21-back.webp"
     ],
-    "source_title": "ECOMAT-M Product Presentation / MARS Armor",
+    "source_title": "ECOMAT-M Product Presentation",
     "source_url": "https://www.marsarmor.com/products/ballistic-vests/overt/model-21/",
     "tags": [],
     "solutions": [
@@ -1190,8 +1190,8 @@ window.PRODUCT_DATA = [
     "search": "model 21 guard vest ecomat-m tactical & protective body armour & vests overt guard vest combining front and back protection, low weight and broad torso coverage. tactical & protective body armour & ballistic protection",
     "brand_url": null,
     "brand_source_status": "catalogue",
-    "media_credit": "Supplied manufacturer catalogue",
-    "official_media": false
+    "media_credit": "ECOMAT-M product presentation catalogue image",
+    "official_media": true
   },
   {
     "id": "ecomat-model-22",
@@ -1203,16 +1203,16 @@ window.PRODUCT_DATA = [
     "category": "Body Armour & Vests",
     "ar_category": "الدروع والسترات الواقية",
     "pdf": "ecomat-m-product-presentation.pdf",
-    "page": 3,
-    "description": "Security-police vest with flexible overlapping front, back and side protection.",
-    "ar_description": "Security-police vest with flexible overlapping front, back and side protection.",
+    "page": 4,
+    "description": "Security-police vest with flexible overlapping front, back and side protection. Official ECOMAT-M catalogue front and rear product views are displayed.",
+    "ar_description": "Security-police vest with flexible overlapping front, back and side protection. Official ECOMAT-M catalogue front and rear product views are displayed.",
     "image": "final/ecomat-model-22.webp",
-    "fallback_image": "supplied/ecomat-m-product-presentation.jpg",
+    "fallback_image": "final/ecomat-model-22.webp",
     "gallery": [
       "final/ecomat-model-22.webp",
-      "supplied/ecomat-m-product-presentation.jpg"
+      "final/ecomat-model-22-back.webp"
     ],
-    "source_title": "ECOMAT-M Product Presentation / MARS Armor",
+    "source_title": "ECOMAT-M Product Presentation",
     "source_url": "https://www.marsarmor.com/products/ballistic-vests/overt/model-22/",
     "tags": [],
     "solutions": [
@@ -1222,8 +1222,8 @@ window.PRODUCT_DATA = [
     "search": "model 22 security police vest ecomat-m tactical & protective body armour & vests security-police vest with flexible overlapping front, back and side protection. tactical & protective body armour & ballistic protection",
     "brand_url": null,
     "brand_source_status": "catalogue",
-    "media_credit": "Supplied manufacturer catalogue",
-    "official_media": false
+    "media_credit": "ECOMAT-M product presentation catalogue image",
+    "official_media": true
   },
   {
     "id": "ecomat-model-31",
@@ -1235,16 +1235,16 @@ window.PRODUCT_DATA = [
     "category": "Body Armour & Vests",
     "ar_category": "الدروع والسترات الواقية",
     "pdf": "ecomat-m-product-presentation.pdf",
-    "page": 4,
-    "description": "Ergonomic women’s ballistic vest providing front and back protection with improved comfort and mobility.",
-    "ar_description": "Ergonomic women’s ballistic vest providing front and back protection with improved comfort and mobility.",
+    "page": 5,
+    "description": "Ergonomic women’s ballistic vest providing front and back protection with improved comfort and mobility. Official ECOMAT-M catalogue front and rear product views are displayed.",
+    "ar_description": "Ergonomic women’s ballistic vest providing front and back protection with improved comfort and mobility. Official ECOMAT-M catalogue front and rear product views are displayed.",
     "image": "final/ecomat-model-31.webp",
-    "fallback_image": "supplied/ecomat-m-product-presentation.jpg",
+    "fallback_image": "final/ecomat-model-31.webp",
     "gallery": [
       "final/ecomat-model-31.webp",
-      "supplied/ecomat-m-product-presentation.jpg"
+      "final/ecomat-model-31-back.webp"
     ],
-    "source_title": "ECOMAT-M Product Presentation / MARS Armor",
+    "source_title": "ECOMAT-M Product Presentation",
     "source_url": "https://www.marsarmor.com/products/ballistic-vests/ladys/model-31/",
     "tags": [],
     "solutions": [
@@ -1254,8 +1254,8 @@ window.PRODUCT_DATA = [
     "search": "model 31 optimum lady’s protection vest ecomat-m tactical & protective body armour & vests ergonomic women’s ballistic vest providing front and back protection with improved comfort and mobility. tactical & protective body armour & ballistic protection",
     "brand_url": null,
     "brand_source_status": "catalogue",
-    "media_credit": "Supplied manufacturer catalogue",
-    "official_media": false
+    "media_credit": "ECOMAT-M product presentation catalogue image",
+    "official_media": true
   },
   {
     "id": "ecomat-model-41",
@@ -1267,16 +1267,16 @@ window.PRODUCT_DATA = [
     "category": "Body Armour & Vests",
     "ar_category": "الدروع والسترات الواقية",
     "pdf": "ecomat-m-product-presentation.pdf",
-    "page": 5,
-    "description": "Discreet VIP ballistic vest styled as a conventional waistcoat for concealed front and back protection.",
-    "ar_description": "Discreet VIP ballistic vest styled as a conventional waistcoat for concealed front and back protection.",
+    "page": 6,
+    "description": "Discreet VIP ballistic vest styled as a conventional waistcoat for concealed front and back protection. Official ECOMAT-M catalogue front and rear product views are displayed.",
+    "ar_description": "Discreet VIP ballistic vest styled as a conventional waistcoat for concealed front and back protection. Official ECOMAT-M catalogue front and rear product views are displayed.",
     "image": "final/ecomat-model-41.webp",
-    "fallback_image": "supplied/ecomat-m-product-presentation.jpg",
+    "fallback_image": "final/ecomat-model-41.webp",
     "gallery": [
       "final/ecomat-model-41.webp",
-      "supplied/ecomat-m-product-presentation.jpg"
+      "final/ecomat-model-41-back.webp"
     ],
-    "source_title": "ECOMAT-M Product Presentation / MARS Armor",
+    "source_title": "ECOMAT-M Product Presentation",
     "source_url": "https://www.marsarmor.com/products/ballistic-vests/vip/model-41/",
     "tags": [],
     "solutions": [
@@ -1286,8 +1286,8 @@ window.PRODUCT_DATA = [
     "search": "model 41 diplomat concealable vest ecomat-m tactical & protective body armour & vests discreet vip ballistic vest styled as a conventional waistcoat for concealed front and back protection. tactical & protective body armour & ballistic protection",
     "brand_url": null,
     "brand_source_status": "catalogue",
-    "media_credit": "Supplied manufacturer catalogue",
-    "official_media": false
+    "media_credit": "ECOMAT-M product presentation catalogue image",
+    "official_media": true
   },
   {
     "id": "ecomat-model-55",
@@ -1299,16 +1299,16 @@ window.PRODUCT_DATA = [
     "category": "Body Armour & Vests",
     "ar_category": "الدروع والسترات الواقية",
     "pdf": "ecomat-m-product-presentation.pdf",
-    "page": 6,
-    "description": "Modular police vest with overlapping torso coverage, neck protection and front MOLLE webbing.",
-    "ar_description": "Modular police vest with overlapping torso coverage, neck protection and front MOLLE webbing.",
+    "page": 7,
+    "description": "Modular police vest with overlapping torso coverage, neck protection and front MOLLE webbing. Official ECOMAT-M catalogue front and rear product views are displayed.",
+    "ar_description": "Modular police vest with overlapping torso coverage, neck protection and front MOLLE webbing. Official ECOMAT-M catalogue front and rear product views are displayed.",
     "image": "final/ecomat-model-55.webp",
-    "fallback_image": "supplied/ecomat-m-product-presentation.jpg",
+    "fallback_image": "final/ecomat-model-55.webp",
     "gallery": [
       "final/ecomat-model-55.webp",
-      "supplied/ecomat-m-product-presentation.jpg"
+      "final/ecomat-model-55-back.webp"
     ],
-    "source_title": "ECOMAT-M Product Presentation / MARS Armor",
+    "source_title": "ECOMAT-M Product Presentation",
     "source_url": "https://www.marsarmor.com/products/ballistic-vests/tactical/model-55/",
     "tags": [],
     "solutions": [
@@ -1318,8 +1318,8 @@ window.PRODUCT_DATA = [
     "search": "model 55 modular police vest ecomat-m tactical & protective body armour & vests modular police vest with overlapping torso coverage, neck protection and front molle webbing. tactical & protective body armour & ballistic protection",
     "brand_url": null,
     "brand_source_status": "catalogue",
-    "media_credit": "Supplied manufacturer catalogue",
-    "official_media": false
+    "media_credit": "ECOMAT-M product presentation catalogue image",
+    "official_media": true
   },
   {
     "id": "ecomat-model-57",
@@ -1331,16 +1331,16 @@ window.PRODUCT_DATA = [
     "category": "Body Armour & Vests",
     "ar_category": "الدروع والسترات الواقية",
     "pdf": "ecomat-m-product-presentation.pdf",
-    "page": 7,
-    "description": "Safeguard tactical vest with front, back, side, neck, shoulder and groin protection.",
-    "ar_description": "Safeguard tactical vest with front, back, side, neck, shoulder and groin protection.",
+    "page": 9,
+    "description": "Safeguard tactical vest with front, back, side, neck, shoulder and groin protection. Official ECOMAT-M catalogue front and rear product views are displayed.",
+    "ar_description": "Safeguard tactical vest with front, back, side, neck, shoulder and groin protection. Official ECOMAT-M catalogue front and rear product views are displayed.",
     "image": "final/ecomat-model-57.webp",
-    "fallback_image": "supplied/ecomat-m-product-presentation.jpg",
+    "fallback_image": "final/ecomat-model-57.webp",
     "gallery": [
       "final/ecomat-model-57.webp",
-      "supplied/ecomat-m-product-presentation.jpg"
+      "final/ecomat-model-57-back.webp"
     ],
-    "source_title": "ECOMAT-M Product Presentation / MARS Armor",
+    "source_title": "ECOMAT-M Product Presentation",
     "source_url": "https://www.marsarmor.com/products/ballistic-vests/tactical/model-57/",
     "tags": [],
     "solutions": [
@@ -1350,8 +1350,8 @@ window.PRODUCT_DATA = [
     "search": "model 57 safeguard vest ecomat-m tactical & protective body armour & vests safeguard tactical vest with front, back, side, neck, shoulder and groin protection. tactical & protective body armour & ballistic protection",
     "brand_url": null,
     "brand_source_status": "catalogue",
-    "media_credit": "Supplied manufacturer catalogue",
-    "official_media": false
+    "media_credit": "ECOMAT-M product presentation catalogue image",
+    "official_media": true
   },
   {
     "id": "ecomat-model-77",
@@ -1363,16 +1363,16 @@ window.PRODUCT_DATA = [
     "category": "Body Armour & Vests",
     "ar_category": "الدروع والسترات الواقية",
     "pdf": "ecomat-m-product-presentation.pdf",
-    "page": 8,
-    "description": "Military tactical vest with full torso coverage and removable neck, shoulder and groin protection.",
-    "ar_description": "Military tactical vest with full torso coverage and removable neck, shoulder and groin protection.",
+    "page": 17,
+    "description": "Military tactical vest with full torso coverage and removable neck, shoulder and groin protection. Official ECOMAT-M catalogue front and rear product views are displayed.",
+    "ar_description": "Military tactical vest with full torso coverage and removable neck, shoulder and groin protection. Official ECOMAT-M catalogue front and rear product views are displayed.",
     "image": "final/ecomat-model-77.webp",
-    "fallback_image": "supplied/ecomat-m-product-presentation.jpg",
+    "fallback_image": "final/ecomat-model-77.webp",
     "gallery": [
       "final/ecomat-model-77.webp",
-      "supplied/ecomat-m-product-presentation.jpg"
+      "final/ecomat-model-77-back.webp"
     ],
-    "source_title": "ECOMAT-M Product Presentation / MARS Armor",
+    "source_title": "ECOMAT-M Product Presentation",
     "source_url": "https://www.marsarmor.com/products/ballistic-vests/military/model-77/",
     "tags": [],
     "solutions": [
@@ -1382,8 +1382,8 @@ window.PRODUCT_DATA = [
     "search": "model 77 comfortable tactical vest ecomat-m tactical & protective body armour & vests military tactical vest with full torso coverage and removable neck, shoulder and groin protection. tactical & protective body armour & ballistic protection",
     "brand_url": null,
     "brand_source_status": "catalogue",
-    "media_credit": "Supplied manufacturer catalogue",
-    "official_media": false
+    "media_credit": "ECOMAT-M product presentation catalogue image",
+    "official_media": true
   },
   {
     "id": "edi-concealable-inner-vest",
