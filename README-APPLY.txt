@@ -1,1 +1,5 @@
-This patch fixes all eight ECOMAT-M vest images using unique front and rear catalogue views. It also replaces the homepage About image with the clear first-page Dira artwork and replaces the D icon with the shield logo across the website. Copy everything inside this folder into the repository root and replace existing files.
+Apply this after the ECOMAT/home/logo patch.
+
+Changes:
+- Header and footer shield logo now uses the same 39 x 46 px footprint as the old D shield.
+- About-section picture is smaller, square, centered and displayed with contain so the complete image remains visible.
