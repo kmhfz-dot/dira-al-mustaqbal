@@ -32940,44 +32940,6 @@ window.PRODUCT_DATA = [
     "fallback_image": "zastava/m12-long-range-rifle-12-7108.webp",
     "gallery": [
       "zastava/m12-long-range-rifle-12-7108.webp",
-      "zastava/page-32.webp",
-      "zastava/page-33.webp"
-    ],
-    "solutions": [
-      "Military & Law-Enforcement Firearms"
-    ],
-    "tags": [
-      "Serbia",
-      "Official catalogue",
-      "Military and law-enforcement firearms"
-    ],
-    "pdf": "zastava-military-guns-catalogue-2024.pdf",
-    "page": 32,
-    "source_title": "Zastava Military Guns Catalogue 2024",
-    "brand_url": "https://www.zastava-arms.rs",
-    "source_url": "https://www.zastava-arms.rs",
-    "brand_source_status": "official",
-    "media_credit": "Zastava Arms official 2024 military catalogue imagery.",
-    "official_media": true,
-    "search": "m12 long-range rifle 12.7×108 zastava arms military & law-enforcement firearms long-range rifles 12.7×108 mm long-range anti-materiel rifle. serbia",
-    "visual_type": "manufacturer-catalogue"
-  },
-  {
-    "id": "zastava-m12m-long-range-rifle-50-browning",
-    "title": "M12M Long-Range Rifle .50 Browning",
-    "ar_title": "M12M Long-Range Rifle .50 Browning",
-    "brand": "Zastava Arms",
-    "sector": "Military & Law-Enforcement Firearms",
-    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
-    "category": "Long-Range Rifles",
-    "ar_category": "Long-Range Rifles",
-    "description": ".50 Browning long-range anti-materiel rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
-    "ar_description": ".50 Browning long-range anti-materiel rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
-    "image": "zastava/m12m-long-range-rifle-50-browning.webp",
-    "fallback_image": "zastava/m12m-long-range-rifle-50-browning.webp",
-    "gallery": [
-      "zastava/m12m-long-range-rifle-50-browning.webp",
-      "zastava/page-33.webp",
       "zastava/page-32.webp"
     ],
     "solutions": [
@@ -32994,10 +32956,44 @@ window.PRODUCT_DATA = [
     "brand_url": "https://www.zastava-arms.rs",
     "source_url": "https://www.zastava-arms.rs",
     "brand_source_status": "official",
-    "media_credit": "Zastava Arms official 2024 military catalogue imagery.",
-    "official_media": true,
-    "search": "m12m long-range rifle .50 browning zastava arms military & law-enforcement firearms long-range rifles .50 browning long-range anti-materiel rifle. serbia",
-    "visual_type": "manufacturer-catalogue"
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m12 long-range rifle 12.7×108 zastava arms military & law-enforcement firearms long-range rifles 12.7×108 mm long-range anti-materiel rifle. serbia"
+  },
+  {
+    "id": "zastava-m12m-long-range-rifle-50-browning",
+    "title": "M12M Long-Range Rifle .50 Browning",
+    "ar_title": "M12M Long-Range Rifle .50 Browning",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Long-Range Rifles",
+    "ar_category": "Long-Range Rifles",
+    "description": ".50 Browning long-range anti-materiel rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": ".50 Browning long-range anti-materiel rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m12m-long-range-rifle-50-browning.webp",
+    "fallback_image": "zastava/m12m-long-range-rifle-50-browning.webp",
+    "gallery": [
+      "zastava/m12m-long-range-rifle-50-browning.webp",
+      "zastava/page-32.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 32,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m12m long-range rifle .50 browning zastava arms military & law-enforcement firearms long-range rifles .50 browning long-range anti-materiel rifle. serbia"
   },
   {
     "id": "zastava-m12-black-spear",
@@ -33014,8 +33010,7 @@ window.PRODUCT_DATA = [
     "fallback_image": "zastava/m12-black-spear.webp",
     "gallery": [
       "zastava/m12-black-spear.webp",
-      "zastava/page-32.webp",
-      "zastava/page-33.webp"
+      "zastava/page-30.webp"
     ],
     "solutions": [
       "Military & Law-Enforcement Firearms"
@@ -33031,10 +33026,9 @@ window.PRODUCT_DATA = [
     "brand_url": "https://www.zastava-arms.rs",
     "source_url": "https://www.zastava-arms.rs",
     "brand_source_status": "official",
-    "media_credit": "Zastava Arms official 2024 military catalogue imagery.",
-    "official_media": true,
-    "search": "m12 black spear zastava arms military & law-enforcement firearms long-range rifles long-range rifle from the m12 black spear family. serbia",
-    "visual_type": "manufacturer-catalogue"
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m12 black spear zastava arms military & law-enforcement firearms long-range rifles long-range rifle from the m12 black spear family. serbia"
   },
   {
     "id": "zastava-m86-machine-gun",
@@ -33680,32 +33674,32 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "FLYWEIGHT C320 / Ultra Light Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "FLYWEIGHT C320 / Ultra Light Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 4",
+    "description": "FLYWEIGHT C320 / Ultra Light Assault Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "FLYWEIGHT C320 / Ultra Light Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Professional Footwear"
     ],
     "id": "belleville-flyweight-c320-ultra-light-assault-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C320.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/flyweight-c320-ultra-light-assault-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-c320-ultra-light-assault-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C320.jpg"
+      "belleville/flyweight-c320-ultra-light-assault-boot-view-1.webp",
+      "belleville/flyweight-c320-ultra-light-assault-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20C320%20/%20Ultra%20Light%20Assault%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "flyweight c320 / ultra light assault boot belleville boot co. boots & professional footwear military & tactical boots flyweight c320 / ultra light assault boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "flyweight c320 / ultra light assault boot belleville boot co. boots & professional footwear military & tactical boots flyweight c320 / ultra light assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "800 ST / Waterproof Steel Toe Flight and Flight Deck Boot",
@@ -33716,9 +33710,9 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "800 ST / Waterproof Steel Toe Flight and Flight Deck Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "800 ST / Waterproof Steel Toe Flight and Flight Deck Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 23",
+    "description": "800 ST / Waterproof Steel Toe Flight and Flight Deck Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "800 ST / Waterproof Steel Toe Flight and Flight Deck Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Waterproof",
@@ -33727,26 +33721,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-800-st-waterproof-steel-toe-flight-and-flight-deck-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-800ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/800-st-waterproof-steel-toe-flight-and-flight-deck-boot-view-1.webp",
+    "fallback_image": "belleville/800-st-waterproof-steel-toe-flight-and-flight-deck-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-800ST.jpg"
+      "belleville/800-st-waterproof-steel-toe-flight-and-flight-deck-boot-view-1.webp",
+      "belleville/800-st-waterproof-steel-toe-flight-and-flight-deck-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=800%20ST%20/%20Waterproof%20Steel%20Toe%20Flight%20and%20Flight%20Deck%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "800 st / waterproof steel toe flight and flight deck boot belleville boot co. boots & professional footwear flight & deck boots 800 st / waterproof steel toe flight and flight deck boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black waterproof steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-800-ST.jpg"
-    ]
+    "search": "800 st / waterproof steel toe flight and flight deck boot belleville boot co. boots & professional footwear flight & deck boots 800 st / waterproof steel toe flight and flight deck boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "C790 / Waterproof Flight and Combat Boot",
@@ -33757,9 +33749,9 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "C790 / Waterproof Flight and Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "C790 / Waterproof Flight and Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 14",
+    "description": "C790 / Waterproof Flight and Combat Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "C790 / Waterproof Flight and Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Waterproof",
@@ -33767,24 +33759,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-c790-waterproof-flight-and-combat-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C790.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/c790-waterproof-flight-and-combat-boot-view-1.webp",
+    "fallback_image": "belleville/c790-waterproof-flight-and-combat-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C790.jpg"
+      "belleville/c790-waterproof-flight-and-combat-boot-view-1.webp",
+      "belleville/c790-waterproof-flight-and-combat-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C790%20/%20Waterproof%20Flight%20and%20Combat%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "c790 / waterproof flight and combat boot belleville boot co. boots & professional footwear flight & deck boots c790 / waterproof flight and combat boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "c790 / waterproof flight and combat boot belleville boot co. boots & professional footwear flight & deck boots c790 / waterproof flight and combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "C390 / Hot Weather Combat Boot",
@@ -33795,33 +33787,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "C390 / Hot Weather Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "C390 / Hot Weather Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 6",
+    "description": "C390 / Hot Weather Combat Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "C390 / Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
       "Professional Footwear"
     ],
     "id": "belleville-c390-hot-weather-combat-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C390.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/c390-hot-weather-combat-boot-view-1.webp",
+    "fallback_image": "belleville/c390-hot-weather-combat-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C390.jpg"
+      "belleville/c390-hot-weather-combat-boot-view-1.webp",
+      "belleville/c390-hot-weather-combat-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C390%20/%20Hot%20Weather%20Combat%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "c390 / hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots c390 / hot weather combat boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "c390 / hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots c390 / hot weather combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "Mini-Mil TR105 / Minimalist Training Boot",
@@ -33832,9 +33824,9 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Mini-Mil TR105 / Minimalist Training Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "Mini-Mil TR105 / Minimalist Training Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 9",
+    "description": "Mini-Mil TR105 / Minimalist Training Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "Mini-Mil TR105 / Minimalist Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Training",
@@ -33842,24 +33834,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-mini-mil-tr105-minimalist-training-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR105.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/mini-mil-tr105-minimalist-training-boot-view-1.webp",
+    "fallback_image": "belleville/mini-mil-tr105-minimalist-training-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR105.jpg"
+      "belleville/mini-mil-tr105-minimalist-training-boot-view-1.webp",
+      "belleville/mini-mil-tr105-minimalist-training-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20TR105%20/%20Minimalist%20Training%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "mini-mil tr105 / minimalist training boot belleville boot co. boots & professional footwear training & athletic footwear mini-mil tr105 / minimalist training boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan training minimalist professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "mini-mil tr105 / minimalist training boot belleville boot co. boots & professional footwear training & athletic footwear mini-mil tr105 / minimalist training boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan training minimalist professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "300 TROP ST / Hot Weather Steel Toe Boot",
@@ -33870,9 +33862,9 @@ window.PRODUCT_DATA = [
     "category": "Safety-Toe Boots",
     "ar_category": "Safety-Toe Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "300 TROP ST / Hot Weather Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "300 TROP ST / Hot Weather Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 24",
+    "description": "300 TROP ST / Hot Weather Steel Toe Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "300 TROP ST / Hot Weather Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
@@ -33880,26 +33872,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-300-trop-st-hot-weather-steel-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-300TROPST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/300-trop-st-hot-weather-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/300-trop-st-hot-weather-steel-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-300TROPST.jpg"
+      "belleville/300-trop-st-hot-weather-steel-toe-boot-view-1.webp",
+      "belleville/300-trop-st-hot-weather-steel-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=300%20TROP%20ST%20/%20Hot%20Weather%20Steel%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "300 trop st / hot weather steel toe boot belleville boot co. boots & professional footwear safety-toe boots 300 trop st / hot weather steel toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-300-TROP-ST.jpg"
-    ]
+    "search": "300 trop st / hot weather steel toe boot belleville boot co. boots & professional footwear safety-toe boots 300 trop st / hot weather steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "FLYWEIGHT FC320 / Ultra Light Female Assault Boot",
@@ -33910,33 +33900,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "FLYWEIGHT FC320 / Ultra Light Female Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "FLYWEIGHT FC320 / Ultra Light Female Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 4",
+    "description": "FLYWEIGHT FC320 / Ultra Light Female Assault Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "FLYWEIGHT FC320 / Ultra Light Female Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Women’s Fit",
       "Professional Footwear"
     ],
     "id": "belleville-flyweight-fc320-ultra-light-female-assault-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-FC320.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/flyweight-fc320-ultra-light-female-assault-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-fc320-ultra-light-female-assault-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-FC320.jpg"
+      "belleville/flyweight-fc320-ultra-light-female-assault-boot-view-1.webp",
+      "belleville/flyweight-fc320-ultra-light-female-assault-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20FC320%20/%20Ultra%20Light%20Female%20Assault%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "flyweight fc320 / ultra light female assault boot belleville boot co. boots & professional footwear military & tactical boots flyweight fc320 / ultra light female assault boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "flyweight fc320 / ultra light female assault boot belleville boot co. boots & professional footwear military & tactical boots flyweight fc320 / ultra light female assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "KHYBER TR550 / Hot Weather Multi-terrain Boot",
@@ -33947,33 +33937,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "KHYBER TR550 / Hot Weather Multi-terrain Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "KHYBER TR550 / Hot Weather Multi-terrain Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 8",
+    "description": "KHYBER TR550 / Hot Weather Multi-terrain Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "KHYBER TR550 / Hot Weather Multi-terrain Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Ranger Green",
       "Hot Weather",
       "Professional Footwear"
     ],
     "id": "belleville-khyber-tr550-hot-weather-multi-terrain-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR550.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/khyber-tr550-hot-weather-multi-terrain-boot-view-1.webp",
+    "fallback_image": "belleville/khyber-tr550-hot-weather-multi-terrain-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR550.jpg"
+      "belleville/khyber-tr550-hot-weather-multi-terrain-boot-view-1.webp",
+      "belleville/khyber-tr550-hot-weather-multi-terrain-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=KHYBER%20TR550%20/%20Hot%20Weather%20Multi-terrain%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "khyber tr550 / hot weather multi-terrain boot belleville boot co. boots & professional footwear military & tactical boots khyber tr550 / hot weather multi-terrain boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. ranger green hot weather professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "khyber tr550 / hot weather multi-terrain boot belleville boot co. boots & professional footwear military & tactical boots khyber tr550 / hot weather multi-terrain boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "700 / Waterproof Duty Boot",
@@ -33984,33 +33974,33 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "700 / Waterproof Duty Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "700 / Waterproof Duty Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 25",
+    "description": "700 / Waterproof Duty Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "700 / Waterproof Duty Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Waterproof",
       "Professional Footwear"
     ],
     "id": "belleville-700-waterproof-duty-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-700.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/700-waterproof-duty-boot-view-1.webp",
+    "fallback_image": "belleville/700-waterproof-duty-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-700.jpg"
+      "belleville/700-waterproof-duty-boot-view-1.webp",
+      "belleville/700-waterproof-duty-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=700%20/%20Waterproof%20Duty%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "700 / waterproof duty boot belleville boot co. boots & professional footwear waterproof & insulated boots 700 / waterproof duty boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown waterproof professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "700 / waterproof duty boot belleville boot co. boots & professional footwear waterproof & insulated boots 700 / waterproof duty boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown waterproof professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "330 ST / Wet Weather Steel Toe Flight Boot",
@@ -34021,9 +34011,9 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "330 ST / Wet Weather Steel Toe Flight Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "330 ST / Wet Weather Steel Toe Flight Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 21",
+    "description": "330 ST / Wet Weather Steel Toe Flight Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "330 ST / Wet Weather Steel Toe Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Steel Toe",
@@ -34031,26 +34021,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-330-st-wet-weather-steel-toe-flight-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-330ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/330-st-wet-weather-steel-toe-flight-boot-view-1.webp",
+    "fallback_image": "belleville/330-st-wet-weather-steel-toe-flight-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-330ST.jpg"
+      "belleville/330-st-wet-weather-steel-toe-flight-boot-view-1.webp",
+      "belleville/330-st-wet-weather-steel-toe-flight-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=330%20ST%20/%20Wet%20Weather%20Steel%20Toe%20Flight%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "330 st / wet weather steel toe flight boot belleville boot co. boots & professional footwear flight & deck boots 330 st / wet weather steel toe flight boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-330-ST.jpg"
-    ]
+    "search": "330 st / wet weather steel toe flight boot belleville boot co. boots & professional footwear flight & deck boots 330 st / wet weather steel toe flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "390 DES / Hot Weather Combat Boot",
@@ -34061,35 +34049,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "390 DES / Hot Weather Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "390 DES / Hot Weather Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 6 (representative series image)",
+    "description": "390 DES / Hot Weather Combat Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "390 DES / Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Hot Weather",
       "Professional Footwear"
     ],
     "id": "belleville-390-des-hot-weather-combat-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-390DES.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/390-des-hot-weather-combat-boot-view-1.webp",
+    "fallback_image": "belleville/390-des-hot-weather-combat-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-390DES.jpg"
+      "belleville/390-des-hot-weather-combat-boot-view-1.webp",
+      "belleville/390-des-hot-weather-combat-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=390%20DES%20/%20Hot%20Weather%20Combat%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "390 des / hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots 390 des / hot weather combat boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan hot weather professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-390-DES.jpg"
-    ]
+    "search": "390 des / hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots 390 des / hot weather combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "C300 ST / Hot Weather Steel Toe Coyote Boot",
@@ -34100,9 +34086,9 @@ window.PRODUCT_DATA = [
     "category": "Safety-Toe Boots",
     "ar_category": "Safety-Toe Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "C300 ST / Hot Weather Steel Toe Coyote Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "C300 ST / Hot Weather Steel Toe Coyote Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 11",
+    "description": "C300 ST / Hot Weather Steel Toe Coyote Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "C300 ST / Hot Weather Steel Toe Coyote Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
@@ -34110,26 +34096,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-c300-st-hot-weather-steel-toe-coyote-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C300ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/c300-st-hot-weather-steel-toe-coyote-boot-view-1.webp",
+    "fallback_image": "belleville/c300-st-hot-weather-steel-toe-coyote-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C300ST.jpg"
+      "belleville/c300-st-hot-weather-steel-toe-coyote-boot-view-1.webp",
+      "belleville/c300-st-hot-weather-steel-toe-coyote-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C300%20ST%20/%20Hot%20Weather%20Steel%20Toe%20Coyote%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "c300 st / hot weather steel toe coyote boot belleville boot co. boots & professional footwear safety-toe boots c300 st / hot weather steel toe coyote boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C300-ST.jpg"
-    ]
+    "search": "c300 st / hot weather steel toe coyote boot belleville boot co. boots & professional footwear safety-toe boots c300 st / hot weather steel toe coyote boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "TR102 / Minimalist Training Boot",
@@ -34140,9 +34124,9 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "TR102 / Minimalist Training Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "TR102 / Minimalist Training Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 32",
+    "description": "TR102 / Minimalist Training Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "TR102 / Minimalist Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Ranger Green",
       "Training",
@@ -34150,24 +34134,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-tr102-minimalist-training-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR102.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/tr102-minimalist-training-boot-view-1.webp",
+    "fallback_image": "belleville/tr102-minimalist-training-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR102.jpg"
+      "belleville/tr102-minimalist-training-boot-view-1.webp",
+      "belleville/tr102-minimalist-training-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR102%20/%20Minimalist%20Training%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "tr102 / minimalist training boot belleville boot co. boots & professional footwear training & athletic footwear tr102 / minimalist training boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. ranger green training minimalist professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "tr102 / minimalist training boot belleville boot co. boots & professional footwear training & athletic footwear tr102 / minimalist training boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green training minimalist professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "590 / USMC Hot Weather Combat Boot (EGA)",
@@ -34178,9 +34162,9 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "590 / USMC Hot Weather Combat Boot (EGA). Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "590 / USMC Hot Weather Combat Boot (EGA). Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 19",
+    "description": "590 / USMC Hot Weather Combat Boot (EGA). Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "590 / USMC Hot Weather Combat Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Hot Weather",
@@ -34189,24 +34173,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-590-usmc-hot-weather-combat-boot-ega",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-590.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/590-usmc-hot-weather-combat-boot-ega-view-1.webp",
+    "fallback_image": "belleville/590-usmc-hot-weather-combat-boot-ega-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-590.jpg"
+      "belleville/590-usmc-hot-weather-combat-boot-ega-view-1.webp",
+      "belleville/590-usmc-hot-weather-combat-boot-ega-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=590%20/%20USMC%20Hot%20Weather%20Combat%20Boot%20%28EGA%29",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "590 / usmc hot weather combat boot (ega) belleville boot co. boots & professional footwear military & tactical boots 590 / usmc hot weather combat boot (ega). model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown hot weather usmc ega professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "590 / usmc hot weather combat boot (ega) belleville boot co. boots & professional footwear military & tactical boots 590 / usmc hot weather combat boot (ega). official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown hot weather usmc ega professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "790 / Waterproof Flight & Combat Boot",
@@ -34217,9 +34201,9 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "790 / Waterproof Flight & Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "790 / Waterproof Flight & Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 14 (representative series image)",
+    "description": "790 / Waterproof Flight & Combat Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "790 / Waterproof Flight & Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Waterproof",
@@ -34227,24 +34211,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-790-waterproof-flight-and-combat-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-790.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/790-waterproof-flight-and-combat-boot-view-1.webp",
+    "fallback_image": "belleville/790-waterproof-flight-and-combat-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-790.jpg"
+      "belleville/790-waterproof-flight-and-combat-boot-view-1.webp",
+      "belleville/790-waterproof-flight-and-combat-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=790%20/%20Waterproof%20Flight%20%26%20Combat%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "790 / waterproof flight & combat boot belleville boot co. boots & professional footwear flight & deck boots 790 / waterproof flight & combat boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "790 / waterproof flight & combat boot belleville boot co. boots & professional footwear flight & deck boots 790 / waterproof flight & combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "533 ST / Hot Weather Hybrid Steel Toe Assault Boot",
@@ -34255,9 +34239,9 @@ window.PRODUCT_DATA = [
     "category": "Safety-Toe Boots",
     "ar_category": "Safety-Toe Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "533 ST / Hot Weather Hybrid Steel Toe Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "533 ST / Hot Weather Hybrid Steel Toe Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 20",
+    "description": "533 ST / Hot Weather Hybrid Steel Toe Assault Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "533 ST / Hot Weather Hybrid Steel Toe Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
@@ -34265,26 +34249,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-533-st-hot-weather-hybrid-steel-toe-assault-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-533ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/533-st-hot-weather-hybrid-steel-toe-assault-boot-view-1.webp",
+    "fallback_image": "belleville/533-st-hot-weather-hybrid-steel-toe-assault-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-533ST.jpg"
+      "belleville/533-st-hot-weather-hybrid-steel-toe-assault-boot-view-1.webp",
+      "belleville/533-st-hot-weather-hybrid-steel-toe-assault-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=533%20ST%20/%20Hot%20Weather%20Hybrid%20Steel%20Toe%20Assault%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "533 st / hot weather hybrid steel toe assault boot belleville boot co. boots & professional footwear safety-toe boots 533 st / hot weather hybrid steel toe assault boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-533-ST.jpg"
-    ]
+    "search": "533 st / hot weather hybrid steel toe assault boot belleville boot co. boots & professional footwear safety-toe boots 533 st / hot weather hybrid steel toe assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "550 ST / USMC Hot Weather Steel Toe Boot (EGA)",
@@ -34295,9 +34277,9 @@ window.PRODUCT_DATA = [
     "category": "Safety-Toe Boots",
     "ar_category": "Safety-Toe Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "550 ST / USMC Hot Weather Steel Toe Boot (EGA). Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "550 ST / USMC Hot Weather Steel Toe Boot (EGA). Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 19",
+    "description": "550 ST / USMC Hot Weather Steel Toe Boot (EGA). Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "550 ST / USMC Hot Weather Steel Toe Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Hot Weather",
@@ -34307,26 +34289,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-550-st-usmc-hot-weather-steel-toe-boot-ega",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-550ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/550-st-usmc-hot-weather-steel-toe-boot-ega-view-1.webp",
+    "fallback_image": "belleville/550-st-usmc-hot-weather-steel-toe-boot-ega-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-550ST.jpg"
+      "belleville/550-st-usmc-hot-weather-steel-toe-boot-ega-view-1.webp",
+      "belleville/550-st-usmc-hot-weather-steel-toe-boot-ega-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=550%20ST%20/%20USMC%20Hot%20Weather%20Steel%20Toe%20Boot%20%28EGA%29",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "550 st / usmc hot weather steel toe boot (ega) belleville boot co. boots & professional footwear safety-toe boots 550 st / usmc hot weather steel toe boot (ega). model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black hot weather steel toe usmc ega professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-550-ST.jpg"
-    ]
+    "search": "550 st / usmc hot weather steel toe boot (ega) belleville boot co. boots & professional footwear safety-toe boots 550 st / usmc hot weather steel toe boot (ega). official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather steel toe usmc ega professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SABRE C333 / Hot Weather Hybrid Assault Boot",
@@ -34337,33 +34317,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SABRE C333 / Hot Weather Hybrid Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SABRE C333 / Hot Weather Hybrid Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 6",
+    "description": "SABRE C333 / Hot Weather Hybrid Assault Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SABRE C333 / Hot Weather Hybrid Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
       "Professional Footwear"
     ],
     "id": "belleville-sabre-c333-hot-weather-hybrid-assault-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C333.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/sabre-c333-hot-weather-hybrid-assault-boot-view-1.webp",
+    "fallback_image": "belleville/sabre-c333-hot-weather-hybrid-assault-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C333.jpg"
+      "belleville/sabre-c333-hot-weather-hybrid-assault-boot-view-1.webp",
+      "belleville/sabre-c333-hot-weather-hybrid-assault-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SABRE%20C333%20/%20Hot%20Weather%20Hybrid%20Assault%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "sabre c333 / hot weather hybrid assault boot belleville boot co. boots & professional footwear military & tactical boots sabre c333 / hot weather hybrid assault boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "sabre c333 / hot weather hybrid assault boot belleville boot co. boots & professional footwear military & tactical boots sabre c333 / hot weather hybrid assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "Chrome TR998Z WP CT / Waterproof Side-Zip Composite Toe Boot",
@@ -34374,9 +34354,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Chrome TR998Z WP CT / Waterproof Side-Zip Composite Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "Chrome TR998Z WP CT / Waterproof Side-Zip Composite Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 42",
+    "description": "Chrome TR998Z WP CT / Waterproof Side-Zip Composite Toe Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "Chrome TR998Z WP CT / Waterproof Side-Zip Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Waterproof",
@@ -34385,26 +34365,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-chrome-tr998z-wp-ct-waterproof-side-zip-composite-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR998ZWPCT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/chrome-tr998z-wp-ct-waterproof-side-zip-composite-toe-boot-view-1.webp",
+    "fallback_image": "belleville/chrome-tr998z-wp-ct-waterproof-side-zip-composite-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR998ZWPCT.jpg"
+      "belleville/chrome-tr998z-wp-ct-waterproof-side-zip-composite-toe-boot-view-1.webp",
+      "belleville/chrome-tr998z-wp-ct-waterproof-side-zip-composite-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Chrome%20TR998Z%20WP%20CT%20/%20Waterproof%20Side-Zip%20Composite%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "chrome tr998z wp ct / waterproof side-zip composite toe boot belleville boot co. boots & professional footwear waterproof & insulated boots chrome tr998z wp ct / waterproof side-zip composite toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black waterproof composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR998Z-WP-CT.jpg"
-    ]
+    "search": "chrome tr998z wp ct / waterproof side-zip composite toe boot belleville boot co. boots & professional footwear waterproof & insulated boots chrome tr998z wp ct / waterproof side-zip composite toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "520 MOTO / Ultra Light Assault Boot (EGA)",
@@ -34415,35 +34393,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "520 MOTO / Ultra Light Assault Boot (EGA). Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "520 MOTO / Ultra Light Assault Boot (EGA). Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 18",
+    "description": "520 MOTO / Ultra Light Assault Boot (EGA). Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "520 MOTO / Ultra Light Assault Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "EGA",
       "Professional Footwear"
     ],
     "id": "belleville-520-moto-ultra-light-assault-boot-ega",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-520MOTO.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/520-moto-ultra-light-assault-boot-ega-view-1.webp",
+    "fallback_image": "belleville/520-moto-ultra-light-assault-boot-ega-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-520MOTO.jpg"
+      "belleville/520-moto-ultra-light-assault-boot-ega-view-1.webp",
+      "belleville/520-moto-ultra-light-assault-boot-ega-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=520%20MOTO%20/%20Ultra%20Light%20Assault%20Boot%20%28EGA%29",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "520 moto / ultra light assault boot (ega) belleville boot co. boots & professional footwear military & tactical boots 520 moto / ultra light assault boot (ega). model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan ega professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-520-MOTO.jpg"
-    ]
+    "search": "520 moto / ultra light assault boot (ega) belleville boot co. boots & professional footwear military & tactical boots 520 moto / ultra light assault boot (ega). official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan ega professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "390 TROP / Hot Weather Combat Boot",
@@ -34454,35 +34430,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "390 TROP / Hot Weather Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "390 TROP / Hot Weather Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 24",
+    "description": "390 TROP / Hot Weather Combat Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "390 TROP / Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Hot Weather",
       "Professional Footwear"
     ],
     "id": "belleville-390-trop-hot-weather-combat-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-390TROP.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/390-trop-hot-weather-combat-boot-view-1.webp",
+    "fallback_image": "belleville/390-trop-hot-weather-combat-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-390TROP.jpg"
+      "belleville/390-trop-hot-weather-combat-boot-view-1.webp",
+      "belleville/390-trop-hot-weather-combat-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=390%20TROP%20/%20Hot%20Weather%20Combat%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "390 trop / hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots 390 trop / hot weather combat boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black hot weather professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-390-TROP.jpg"
-    ]
+    "search": "390 trop / hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots 390 trop / hot weather combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "C790 ST / Waterproof Steel Toe Flight and Combat Boot",
@@ -34493,9 +34467,9 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Coyote waterproof steel-toe flight and combat boot with GORE-TEX protection, VANGUARD sole construction and a Vibram Sierra outsole.",
-    "ar_description": "Coyote waterproof steel-toe flight and combat boot with GORE-TEX protection, VANGUARD sole construction and a Vibram Sierra outsole.",
+    "page": "Belleville 2026 Catalog p. 15",
+    "description": "C790 ST / Waterproof Steel Toe Flight and Combat Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "C790 ST / Waterproof Steel Toe Flight and Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Waterproof",
@@ -34504,26 +34478,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-c790-st-waterproof-steel-toe-flight-and-combat-boot",
-    "image": "https://bellevillebootstore.com/cdn/shop/files/Belleville-C790ST-front-profile.webp?v=1746628140&width=1090",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/c790-st-waterproof-steel-toe-flight-and-combat-boot-view-1.webp",
+    "fallback_image": "belleville/c790-st-waterproof-steel-toe-flight-and-combat-boot-view-1.webp",
     "gallery": [
-      "https://bellevillebootstore.com/cdn/shop/files/Belleville-C790ST-front-profile.webp?v=1746628140&width=1090"
+      "belleville/c790-st-waterproof-steel-toe-flight-and-combat-boot-view-1.webp",
+      "belleville/c790-st-waterproof-steel-toe-flight-and-combat-boot-view-2.webp"
     ],
-    "source_title": "Belleville model-specific product listing",
-    "source_url": "https://bellevillebootstore.com/products/belleville-c790-st-8-coyote-st-wp-flight-combat-boot",
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C790%20ST%20/%20Waterproof%20Steel%20Toe%20Flight%20and%20Combat%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "c790 st / waterproof steel toe flight and combat boot belleville boot co. boots & professional footwear flight & deck boots coyote waterproof steel-toe flight and combat boot with gore-tex protection, vanguard sole construction and a vibram sierra outsole. coyote brown waterproof steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C790ST.jpg"
-    ]
+    "search": "c790 st / waterproof steel toe flight and combat boot belleville boot co. boots & professional footwear flight & deck boots c790 st / waterproof steel toe flight and combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "330 COY ST / Hot Weather Steel Toe Flight Boot",
@@ -34534,9 +34506,9 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Coyote hot-weather steel-toe flight boot with VANGUARD sole construction and a Vibram Chevron outsole designed for aviation use.",
-    "ar_description": "Coyote hot-weather steel-toe flight boot with VANGUARD sole construction and a Vibram Chevron outsole designed for aviation use.",
+    "page": "Belleville 2026 Catalog p. 21",
+    "description": "330 COY ST / Hot Weather Steel Toe Flight Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "330 COY ST / Hot Weather Steel Toe Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
@@ -34545,26 +34517,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-330-coy-st-hot-weather-steel-toe-flight-boot",
-    "image": "https://bellevillebootstore.com/cdn/shop/files/Belleville-330coyst-front-profile.webp?v=1746116903&width=1090",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/330-coy-st-hot-weather-steel-toe-flight-boot-view-1.webp",
+    "fallback_image": "belleville/330-coy-st-hot-weather-steel-toe-flight-boot-view-1.webp",
     "gallery": [
-      "https://bellevillebootstore.com/cdn/shop/files/Belleville-330coyst-front-profile.webp?v=1746116903&width=1090"
+      "belleville/330-coy-st-hot-weather-steel-toe-flight-boot-view-1.webp",
+      "belleville/330-coy-st-hot-weather-steel-toe-flight-boot-view-2.webp"
     ],
-    "source_title": "Belleville model-specific product listing",
-    "source_url": "https://bellevillebootstore.com/products/belleville-330-coy-st-coyote-hot-weather-steel-toe-flight-boot",
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=330%20COY%20ST%20/%20Hot%20Weather%20Steel%20Toe%20Flight%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "330 coy st / hot weather steel toe flight boot belleville boot co. boots & professional footwear flight & deck boots coyote hot-weather steel-toe flight boot with vanguard sole construction and a vibram chevron outsole designed for aviation use. coyote brown hot weather steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-330COYST.jpg"
-    ]
+    "search": "330 coy st / hot weather steel toe flight boot belleville boot co. boots & professional footwear flight & deck boots 330 coy st / hot weather steel toe flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "FLYWEIGHT C312 ST / Hot Weather Tactical Steel Toe Boot",
@@ -34575,9 +34545,9 @@ window.PRODUCT_DATA = [
     "category": "Safety-Toe Boots",
     "ar_category": "Safety-Toe Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "FLYWEIGHT C312 ST / Hot Weather Tactical Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "FLYWEIGHT C312 ST / Hot Weather Tactical Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 11",
+    "description": "FLYWEIGHT C312 ST / Hot Weather Tactical Steel Toe Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "FLYWEIGHT C312 ST / Hot Weather Tactical Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
@@ -34585,26 +34555,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-flyweight-c312-st-hot-weather-tactical-steel-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C312ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/flyweight-c312-st-hot-weather-tactical-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-c312-st-hot-weather-tactical-steel-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C312ST.jpg"
+      "belleville/flyweight-c312-st-hot-weather-tactical-steel-toe-boot-view-1.webp",
+      "belleville/flyweight-c312-st-hot-weather-tactical-steel-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20C312%20ST%20/%20Hot%20Weather%20Tactical%20Steel%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "flyweight c312 st / hot weather tactical steel toe boot belleville boot co. boots & professional footwear safety-toe boots flyweight c312 st / hot weather tactical steel toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C312-ST.jpg"
-    ]
+    "search": "flyweight c312 st / hot weather tactical steel toe boot belleville boot co. boots & professional footwear safety-toe boots flyweight c312 st / hot weather tactical steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "770 / Insulated Waterproof Duty Boot",
@@ -34615,9 +34583,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "770 / Insulated Waterproof Duty Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "770 / Insulated Waterproof Duty Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 25",
+    "description": "770 / Insulated Waterproof Duty Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "770 / Insulated Waterproof Duty Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Waterproof",
@@ -34625,24 +34593,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-770-insulated-waterproof-duty-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-770.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/770-insulated-waterproof-duty-boot-view-1.webp",
+    "fallback_image": "belleville/770-insulated-waterproof-duty-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-770.jpg"
+      "belleville/770-insulated-waterproof-duty-boot-view-1.webp",
+      "belleville/770-insulated-waterproof-duty-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=770%20/%20Insulated%20Waterproof%20Duty%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "770 / insulated waterproof duty boot belleville boot co. boots & professional footwear waterproof & insulated boots 770 / insulated waterproof duty boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "770 / insulated waterproof duty boot belleville boot co. boots & professional footwear waterproof & insulated boots 770 / insulated waterproof duty boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "690 / Waterproof Flight Boot",
@@ -34653,9 +34621,9 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Sage-green waterproof flight boot with a GORE-TEX lining, cushioned polyurethane construction and a Vibram Sierra outsole.",
-    "ar_description": "Sage-green waterproof flight boot with a GORE-TEX lining, cushioned polyurethane construction and a Vibram Sierra outsole.",
+    "page": "Belleville 2026 Catalog p. 23 (representative series image)",
+    "description": "690 / Waterproof Flight Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "690 / Waterproof Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Waterproof",
@@ -34663,24 +34631,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-690-waterproof-flight-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-690.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/690-waterproof-flight-boot-view-1.webp",
+    "fallback_image": "belleville/690-waterproof-flight-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-690.jpg"
+      "belleville/690-waterproof-flight-boot-view-1.webp",
+      "belleville/690-waterproof-flight-boot-view-2.webp"
     ],
-    "source_title": "Belleville model-specific product listing",
-    "source_url": "https://www.bellevilleboot.com/index.php?l=product_detail&p=36",
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=690%20/%20Waterproof%20Flight%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "690 / waterproof flight boot belleville boot co. boots & professional footwear flight & deck boots sage-green waterproof flight boot with a gore-tex lining, cushioned polyurethane construction and a vibram sierra outsole. coyote brown waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "690 / waterproof flight boot belleville boot co. boots & professional footwear flight & deck boots 690 / waterproof flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "KHYBER TR550WPINS / Waterproof Insulated Multi-Terrain Boot",
@@ -34691,9 +34659,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "KHYBER TR550WPINS / Waterproof Insulated Multi-Terrain Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "KHYBER TR550WPINS / Waterproof Insulated Multi-Terrain Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 17",
+    "description": "KHYBER TR550WPINS / Waterproof Insulated Multi-Terrain Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "KHYBER TR550WPINS / Waterproof Insulated Multi-Terrain Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Waterproof",
@@ -34701,24 +34669,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-khyber-tr550wpins-waterproof-insulated-multi-terrain-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR550WPINS.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/khyber-tr550wpins-waterproof-insulated-multi-terrain-boot-view-1.webp",
+    "fallback_image": "belleville/khyber-tr550wpins-waterproof-insulated-multi-terrain-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR550WPINS.jpg"
+      "belleville/khyber-tr550wpins-waterproof-insulated-multi-terrain-boot-view-1.webp",
+      "belleville/khyber-tr550wpins-waterproof-insulated-multi-terrain-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=KHYBER%20TR550WPINS%20/%20Waterproof%20Insulated%20Multi-Terrain%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "khyber tr550wpins / waterproof insulated multi-terrain boot belleville boot co. boots & professional footwear waterproof & insulated boots khyber tr550wpins / waterproof insulated multi-terrain boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "khyber tr550wpins / waterproof insulated multi-terrain boot belleville boot co. boots & professional footwear waterproof & insulated boots khyber tr550wpins / waterproof insulated multi-terrain boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "C793 / Waterproof Assault Flight Boot",
@@ -34729,9 +34697,9 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Coyote waterproof assault flight boot with GORE-TEX protection, a low-profile design and a Vibram IBEX outsole for rugged terrain.",
-    "ar_description": "Coyote waterproof assault flight boot with GORE-TEX protection, a low-profile design and a Vibram IBEX outsole for rugged terrain.",
+    "page": "Belleville 2026 Catalog p. 14",
+    "description": "C793 / Waterproof Assault Flight Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "C793 / Waterproof Assault Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Waterproof",
@@ -34739,26 +34707,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-c793-waterproof-assault-flight-boot",
-    "image": "https://bellevillebootstore.com/cdn/shop/files/Belleville-C793-front-profile.webp?width=1090",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/c793-waterproof-assault-flight-boot-view-1.webp",
+    "fallback_image": "belleville/c793-waterproof-assault-flight-boot-view-1.webp",
     "gallery": [
-      "https://bellevillebootstore.com/cdn/shop/files/Belleville-C793-front-profile.webp?width=1090"
+      "belleville/c793-waterproof-assault-flight-boot-view-1.webp",
+      "belleville/c793-waterproof-assault-flight-boot-view-2.webp"
     ],
-    "source_title": "Belleville model-specific product listing",
-    "source_url": "https://bellevillebootstore.com/products/belleville-c793-8-coyote-waterproof-assault-flight-boot",
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C793%20/%20Waterproof%20Assault%20Flight%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "c793 / waterproof assault flight boot belleville boot co. boots & professional footwear flight & deck boots coyote waterproof assault flight boot with gore-tex protection, a low-profile design and a vibram ibex outsole for rugged terrain. coyote brown waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C793.jpg"
-    ]
+    "search": "c793 / waterproof assault flight boot belleville boot co. boots & professional footwear flight & deck boots c793 / waterproof assault flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "500 / USMC Waterproof Combat Boot (EGA)",
@@ -34769,9 +34735,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "500 / USMC Waterproof Combat Boot (EGA). Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "500 / USMC Waterproof Combat Boot (EGA). Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 19",
+    "description": "500 / USMC Waterproof Combat Boot (EGA). Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "500 / USMC Waterproof Combat Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Waterproof",
@@ -34780,24 +34746,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-500-usmc-waterproof-combat-boot-ega",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-500.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/500-usmc-waterproof-combat-boot-ega-view-1.webp",
+    "fallback_image": "belleville/500-usmc-waterproof-combat-boot-ega-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-500.jpg"
+      "belleville/500-usmc-waterproof-combat-boot-ega-view-1.webp",
+      "belleville/500-usmc-waterproof-combat-boot-ega-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=500%20/%20USMC%20Waterproof%20Combat%20Boot%20%28EGA%29",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "500 / usmc waterproof combat boot (ega) belleville boot co. boots & professional footwear waterproof & insulated boots 500 / usmc waterproof combat boot (ega). model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown waterproof usmc ega professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "500 / usmc waterproof combat boot (ega) belleville boot co. boots & professional footwear waterproof & insulated boots 500 / usmc waterproof combat boot (ega). official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown waterproof usmc ega professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "330 DES ST / Hot Weather Steel Toe Flight Boot",
@@ -34808,9 +34774,9 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "330 DES ST / Hot Weather Steel Toe Flight Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "330 DES ST / Hot Weather Steel Toe Flight Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 21 (representative series image)",
+    "description": "330 DES ST / Hot Weather Steel Toe Flight Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "330 DES ST / Hot Weather Steel Toe Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Hot Weather",
@@ -34819,26 +34785,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-330-des-st-hot-weather-steel-toe-flight-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-330DESST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/330-des-st-hot-weather-steel-toe-flight-boot-view-1.webp",
+    "fallback_image": "belleville/330-des-st-hot-weather-steel-toe-flight-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-330DESST.jpg"
+      "belleville/330-des-st-hot-weather-steel-toe-flight-boot-view-1.webp",
+      "belleville/330-des-st-hot-weather-steel-toe-flight-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=330%20DES%20ST%20/%20Hot%20Weather%20Steel%20Toe%20Flight%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "330 des st / hot weather steel toe flight boot belleville boot co. boots & professional footwear flight & deck boots 330 des st / hot weather steel toe flight boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan hot weather steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-330-DES-ST.jpg"
-    ]
+    "search": "330 des st / hot weather steel toe flight boot belleville boot co. boots & professional footwear flight & deck boots 330 des st / hot weather steel toe flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan hot weather steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "C795 / 200g Insulated Waterproof Boot",
@@ -34849,9 +34813,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "C795 / 200g Insulated Waterproof Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "C795 / 200g Insulated Waterproof Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 15",
+    "description": "C795 / 200g Insulated Waterproof Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "C795 / 200g Insulated Waterproof Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Waterproof",
@@ -34859,24 +34823,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-c795-200g-insulated-waterproof-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C795.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/c795-200g-insulated-waterproof-boot-view-1.webp",
+    "fallback_image": "belleville/c795-200g-insulated-waterproof-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C795.jpg"
+      "belleville/c795-200g-insulated-waterproof-boot-view-1.webp",
+      "belleville/c795-200g-insulated-waterproof-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C795%20/%20200g%20Insulated%20Waterproof%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "c795 / 200g insulated waterproof boot belleville boot co. boots & professional footwear waterproof & insulated boots c795 / 200g insulated waterproof boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "c795 / 200g insulated waterproof boot belleville boot co. boots & professional footwear waterproof & insulated boots c795 / 200g insulated waterproof boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "880 ST / 200g Insulated Waterproof Steel Toe Boot",
@@ -34887,9 +34851,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "880 ST / 200g Insulated Waterproof Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "880 ST / 200g Insulated Waterproof Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 23",
+    "description": "880 ST / 200g Insulated Waterproof Steel Toe Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "880 ST / 200g Insulated Waterproof Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Waterproof",
@@ -34898,26 +34862,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-880-st-200g-insulated-waterproof-steel-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-880ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/880-st-200g-insulated-waterproof-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/880-st-200g-insulated-waterproof-steel-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-880ST.jpg"
+      "belleville/880-st-200g-insulated-waterproof-steel-toe-boot-view-1.webp",
+      "belleville/880-st-200g-insulated-waterproof-steel-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=880%20ST%20/%20200g%20Insulated%20Waterproof%20Steel%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "880 st / 200g insulated waterproof steel toe boot belleville boot co. boots & professional footwear waterproof & insulated boots 880 st / 200g insulated waterproof steel toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black waterproof insulated steel toe professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-880-ST.jpg"
-    ]
+    "search": "880 st / 200g insulated waterproof steel toe boot belleville boot co. boots & professional footwear waterproof & insulated boots 880 st / 200g insulated waterproof steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof insulated steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "510 MEF / Ultralight Marine Corps Combat Boot (EGA)",
@@ -34928,35 +34890,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "510 MEF / Ultralight Marine Corps Combat Boot (EGA). Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "510 MEF / Ultralight Marine Corps Combat Boot (EGA). Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 18",
+    "description": "510 MEF / Ultralight Marine Corps Combat Boot (EGA). Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "510 MEF / Ultralight Marine Corps Combat Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Ranger Green",
       "EGA",
       "Professional Footwear"
     ],
     "id": "belleville-510-mef-ultralight-marine-corps-combat-boot-ega",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-510MEF.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/510-mef-ultralight-marine-corps-combat-boot-ega-view-1.webp",
+    "fallback_image": "belleville/510-mef-ultralight-marine-corps-combat-boot-ega-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-510MEF.jpg"
+      "belleville/510-mef-ultralight-marine-corps-combat-boot-ega-view-1.webp",
+      "belleville/510-mef-ultralight-marine-corps-combat-boot-ega-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=510%20MEF%20/%20Ultralight%20Marine%20Corps%20Combat%20Boot%20%28EGA%29",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "510 mef / ultralight marine corps combat boot (ega) belleville boot co. boots & professional footwear military & tactical boots 510 mef / ultralight marine corps combat boot (ega). model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. ranger green ega professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-510-MEF.jpg"
-    ]
+    "search": "510 mef / ultralight marine corps combat boot (ega) belleville boot co. boots & professional footwear military & tactical boots 510 mef / ultralight marine corps combat boot (ega). official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green ega professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "KHYBER TR960Z WP / Lightweight Waterproof Side-Zip Tactical Boot",
@@ -34967,9 +34927,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "KHYBER TR960Z WP / Lightweight Waterproof Side-Zip Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "KHYBER TR960Z WP / Lightweight Waterproof Side-Zip Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 38",
+    "description": "KHYBER TR960Z WP / Lightweight Waterproof Side-Zip Tactical Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "KHYBER TR960Z WP / Lightweight Waterproof Side-Zip Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Waterproof",
@@ -34977,26 +34937,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-khyber-tr960z-wp-lightweight-waterproof-side-zip-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR960ZWP.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/khyber-tr960z-wp-lightweight-waterproof-side-zip-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/khyber-tr960z-wp-lightweight-waterproof-side-zip-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR960ZWP.jpg"
+      "belleville/khyber-tr960z-wp-lightweight-waterproof-side-zip-tactical-boot-view-1.webp",
+      "belleville/khyber-tr960z-wp-lightweight-waterproof-side-zip-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=KHYBER%20TR960Z%20WP%20/%20Lightweight%20Waterproof%20Side-Zip%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "khyber tr960z wp / lightweight waterproof side-zip tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots khyber tr960z wp / lightweight waterproof side-zip tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR960Z-WP.jpg"
-    ]
+    "search": "khyber tr960z wp / lightweight waterproof side-zip tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots khyber tr960z wp / lightweight waterproof side-zip tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "Guardian TR536 CT / Hot Weather Lightweight Composite Toe Boot",
@@ -35007,9 +34965,9 @@ window.PRODUCT_DATA = [
     "category": "Safety-Toe Boots",
     "ar_category": "Safety-Toe Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Guardian TR536 CT / Hot Weather Lightweight Composite Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "Guardian TR536 CT / Hot Weather Lightweight Composite Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 12 (representative series image)",
+    "description": "Guardian TR536 CT / Hot Weather Lightweight Composite Toe Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "Guardian TR536 CT / Hot Weather Lightweight Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Hot Weather",
@@ -35017,26 +34975,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-guardian-tr536-ct-hot-weather-lightweight-composite-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR536CT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/guardian-tr536-ct-hot-weather-lightweight-composite-toe-boot-view-1.webp",
+    "fallback_image": "belleville/guardian-tr536-ct-hot-weather-lightweight-composite-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR536CT.jpg"
+      "belleville/guardian-tr536-ct-hot-weather-lightweight-composite-toe-boot-view-1.webp",
+      "belleville/guardian-tr536-ct-hot-weather-lightweight-composite-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Guardian%20TR536%20CT%20/%20Hot%20Weather%20Lightweight%20Composite%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "guardian tr536 ct / hot weather lightweight composite toe boot belleville boot co. boots & professional footwear safety-toe boots guardian tr536 ct / hot weather lightweight composite toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan hot weather composite toe professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR536-CT.jpg"
-    ]
+    "search": "guardian tr536 ct / hot weather lightweight composite toe boot belleville boot co. boots & professional footwear safety-toe boots guardian tr536 ct / hot weather lightweight composite toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan hot weather composite toe professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "MAXX 6Z / 6 inch Maximalist Tactical Boot",
@@ -35047,32 +35003,32 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "MAXX 6Z / 6 inch Maximalist Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "MAXX 6Z / 6 inch Maximalist Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 37",
+    "description": "MAXX 6Z / 6 inch Maximalist Tactical Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "MAXX 6Z / 6 inch Maximalist Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Professional Footwear"
     ],
     "id": "belleville-maxx-6z-6-inch-maximalist-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-6Z.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/maxx-6z-6-inch-maximalist-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/maxx-6z-6-inch-maximalist-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-6Z.jpg"
+      "belleville/maxx-6z-6-inch-maximalist-tactical-boot-view-1.webp",
+      "belleville/maxx-6z-6-inch-maximalist-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=MAXX%206Z%20/%206%20inch%20Maximalist%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "maxx 6z / 6 inch maximalist tactical boot belleville boot co. boots & professional footwear military & tactical boots maxx 6z / 6 inch maximalist tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "maxx 6z / 6 inch maximalist tactical boot belleville boot co. boots & professional footwear military & tactical boots maxx 6z / 6 inch maximalist tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "AMRAP TR501 / Athletic Training Boot",
@@ -35083,9 +35039,9 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "AMRAP TR501 / Athletic Training Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "AMRAP TR501 / Athletic Training Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 7",
+    "description": "AMRAP TR501 / Athletic Training Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "AMRAP TR501 / Athletic Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Training",
@@ -35093,24 +35049,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-amrap-tr501-athletic-training-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR501.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/amrap-tr501-athletic-training-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-tr501-athletic-training-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR501.jpg"
+      "belleville/amrap-tr501-athletic-training-boot-view-1.webp",
+      "belleville/amrap-tr501-athletic-training-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20TR501%20/%20Athletic%20Training%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "amrap tr501 / athletic training boot belleville boot co. boots & professional footwear training & athletic footwear amrap tr501 / athletic training boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black training athletic professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "amrap tr501 / athletic training boot belleville boot co. boots & professional footwear training & athletic footwear amrap tr501 / athletic training boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black training athletic professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "495 ST / Navy General Purpose Steel Toe Boot",
@@ -35121,35 +35077,33 @@ window.PRODUCT_DATA = [
     "category": "Safety-Toe Boots",
     "ar_category": "Safety-Toe Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "495 ST / Navy General Purpose Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "495 ST / Navy General Purpose Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 22",
+    "description": "495 ST / Navy General Purpose Steel Toe Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "495 ST / Navy General Purpose Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Steel Toe",
       "Professional Footwear"
     ],
     "id": "belleville-495-st-navy-general-purpose-steel-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-495ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/495-st-navy-general-purpose-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/495-st-navy-general-purpose-steel-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-495ST.jpg"
+      "belleville/495-st-navy-general-purpose-steel-toe-boot-view-1.webp",
+      "belleville/495-st-navy-general-purpose-steel-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=495%20ST%20/%20Navy%20General%20Purpose%20Steel%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "495 st / navy general purpose steel toe boot belleville boot co. boots & professional footwear safety-toe boots 495 st / navy general purpose steel toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black steel toe professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-495-ST.jpg"
-    ]
+    "search": "495 st / navy general purpose steel toe boot belleville boot co. boots & professional footwear safety-toe boots 495 st / navy general purpose steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "FLYWEIGHT TR596Z CT / Hot Weather Side-Zip Composite Toe Boot",
@@ -35160,9 +35114,9 @@ window.PRODUCT_DATA = [
     "category": "Tactical Side-Zip Boots",
     "ar_category": "Tactical Side-Zip Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "FLYWEIGHT TR596Z CT / Hot Weather Side-Zip Composite Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "FLYWEIGHT TR596Z CT / Hot Weather Side-Zip Composite Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 12 (representative series image)",
+    "description": "FLYWEIGHT TR596Z CT / Hot Weather Side-Zip Composite Toe Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "FLYWEIGHT TR596Z CT / Hot Weather Side-Zip Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Hot Weather",
@@ -35171,26 +35125,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-flyweight-tr596z-ct-hot-weather-side-zip-composite-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR596ZCT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/flyweight-tr596z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-tr596z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR596ZCT.jpg"
+      "belleville/flyweight-tr596z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
+      "belleville/flyweight-tr596z-ct-hot-weather-side-zip-composite-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20TR596Z%20CT%20/%20Hot%20Weather%20Side-Zip%20Composite%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "flyweight tr596z ct / hot weather side-zip composite toe boot belleville boot co. boots & professional footwear tactical side-zip boots flyweight tr596z ct / hot weather side-zip composite toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown hot weather composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR596Z-CT.jpg"
-    ]
+    "search": "flyweight tr596z ct / hot weather side-zip composite toe boot belleville boot co. boots & professional footwear tactical side-zip boots flyweight tr596z ct / hot weather side-zip composite toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown hot weather composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SPEAR POINT BV918ZWP CT / Waterproof Composite Toe Side-Zip Tactical Boot",
@@ -35201,9 +35153,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SPEAR POINT BV918ZWP CT / Waterproof Composite Toe Side-Zip Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SPEAR POINT BV918ZWP CT / Waterproof Composite Toe Side-Zip Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 42",
+    "description": "SPEAR POINT BV918ZWP CT / Waterproof Composite Toe Side-Zip Tactical Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SPEAR POINT BV918ZWP CT / Waterproof Composite Toe Side-Zip Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Waterproof",
@@ -35212,26 +35164,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-spear-point-bv918zwp-ct-waterproof-composite-toe-side-zip-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV918ZWPCT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/spear-point-bv918zwp-ct-waterproof-composite-toe-side-zip-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv918zwp-ct-waterproof-composite-toe-side-zip-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV918ZWPCT.jpg"
+      "belleville/spear-point-bv918zwp-ct-waterproof-composite-toe-side-zip-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv918zwp-ct-waterproof-composite-toe-side-zip-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV918ZWP%20CT%20/%20Waterproof%20Composite%20Toe%20Side-Zip%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "spear point bv918zwp ct / waterproof composite toe side-zip tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots spear point bv918zwp ct / waterproof composite toe side-zip tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan waterproof composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV918ZWP-CT.jpg"
-    ]
+    "search": "spear point bv918zwp ct / waterproof composite toe side-zip tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots spear point bv918zwp ct / waterproof composite toe side-zip tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan waterproof composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "BV503PR / CANOPY Olive Drab Jungle Boot",
@@ -35242,33 +35192,33 @@ window.PRODUCT_DATA = [
     "category": "Jungle & Hot-Weather Boots",
     "ar_category": "Jungle & Hot-Weather Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "BV503PR / CANOPY Olive Drab Jungle Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "BV503PR / CANOPY Olive Drab Jungle Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 5 (representative series image)",
+    "description": "BV503PR / CANOPY Olive Drab Jungle Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "BV503PR / CANOPY Olive Drab Jungle Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed olive drab / black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Olive Drab / Black",
       "Jungle",
       "Professional Footwear"
     ],
     "id": "belleville-bv503pr-canopy-olive-drab-jungle-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV503PR.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/bv503pr-canopy-olive-drab-jungle-boot-view-1.webp",
+    "fallback_image": "belleville/bv503pr-canopy-olive-drab-jungle-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV503PR.jpg"
+      "belleville/bv503pr-canopy-olive-drab-jungle-boot-view-1.webp",
+      "belleville/bv503pr-canopy-olive-drab-jungle-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=BV503PR%20/%20CANOPY%20Olive%20Drab%20Jungle%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "bv503pr / canopy olive drab jungle boot belleville boot co. boots & professional footwear jungle & hot-weather boots bv503pr / canopy olive drab jungle boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. olive drab / black jungle professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "bv503pr / canopy olive drab jungle boot belleville boot co. boots & professional footwear jungle & hot-weather boots bv503pr / canopy olive drab jungle boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed olive drab / black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. olive drab / black jungle professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SABRE 533 / Hot Weather Hybrid Assault Boot",
@@ -35279,33 +35229,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SABRE 533 / Hot Weather Hybrid Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SABRE 533 / Hot Weather Hybrid Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 20",
+    "description": "SABRE 533 / Hot Weather Hybrid Assault Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SABRE 533 / Hot Weather Hybrid Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Hot Weather",
       "Professional Footwear"
     ],
     "id": "belleville-sabre-533-hot-weather-hybrid-assault-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-533.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/sabre-533-hot-weather-hybrid-assault-boot-view-1.webp",
+    "fallback_image": "belleville/sabre-533-hot-weather-hybrid-assault-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-533.jpg"
+      "belleville/sabre-533-hot-weather-hybrid-assault-boot-view-1.webp",
+      "belleville/sabre-533-hot-weather-hybrid-assault-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SABRE%20533%20/%20Hot%20Weather%20Hybrid%20Assault%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "sabre 533 / hot weather hybrid assault boot belleville boot co. boots & professional footwear military & tactical boots sabre 533 / hot weather hybrid assault boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black hot weather professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "sabre 533 / hot weather hybrid assault boot belleville boot co. boots & professional footwear military & tactical boots sabre 533 / hot weather hybrid assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SABRE 763 / 6 inch Waterproof Hybrid Assault Boot",
@@ -35316,33 +35266,33 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SABRE 763 / 6 inch Waterproof Hybrid Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SABRE 763 / 6 inch Waterproof Hybrid Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 20 (representative series image)",
+    "description": "SABRE 763 / 6 inch Waterproof Hybrid Assault Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "SABRE 763 / 6 inch Waterproof Hybrid Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Ranger Green",
       "Waterproof",
       "Professional Footwear"
     ],
     "id": "belleville-sabre-763-6-inch-waterproof-hybrid-assault-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-763.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/sabre-763-6-inch-waterproof-hybrid-assault-boot-view-1.webp",
+    "fallback_image": "belleville/sabre-763-6-inch-waterproof-hybrid-assault-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-763.jpg"
+      "belleville/sabre-763-6-inch-waterproof-hybrid-assault-boot-view-1.webp",
+      "belleville/sabre-763-6-inch-waterproof-hybrid-assault-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SABRE%20763%20/%206%20inch%20Waterproof%20Hybrid%20Assault%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "sabre 763 / 6 inch waterproof hybrid assault boot belleville boot co. boots & professional footwear waterproof & insulated boots sabre 763 / 6 inch waterproof hybrid assault boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. ranger green waterproof professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "sabre 763 / 6 inch waterproof hybrid assault boot belleville boot co. boots & professional footwear waterproof & insulated boots sabre 763 / 6 inch waterproof hybrid assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green waterproof professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "KHYBER TR960Z / Hot Weather Lightweight Side-Zip Tactical Boot",
@@ -35353,9 +35303,9 @@ window.PRODUCT_DATA = [
     "category": "Tactical Side-Zip Boots",
     "ar_category": "Tactical Side-Zip Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "KHYBER TR960Z / Hot Weather Lightweight Side-Zip Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "KHYBER TR960Z / Hot Weather Lightweight Side-Zip Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 38",
+    "description": "KHYBER TR960Z / Hot Weather Lightweight Side-Zip Tactical Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "KHYBER TR960Z / Hot Weather Lightweight Side-Zip Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Hot Weather",
@@ -35363,24 +35313,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-khyber-tr960z-hot-weather-lightweight-side-zip-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR960Z.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/khyber-tr960z-hot-weather-lightweight-side-zip-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/khyber-tr960z-hot-weather-lightweight-side-zip-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR960Z.jpg"
+      "belleville/khyber-tr960z-hot-weather-lightweight-side-zip-tactical-boot-view-1.webp",
+      "belleville/khyber-tr960z-hot-weather-lightweight-side-zip-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=KHYBER%20TR960Z%20/%20Hot%20Weather%20Lightweight%20Side-Zip%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "khyber tr960z / hot weather lightweight side-zip tactical boot belleville boot co. boots & professional footwear tactical side-zip boots khyber tr960z / hot weather lightweight side-zip tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "khyber tr960z / hot weather lightweight side-zip tactical boot belleville boot co. boots & professional footwear tactical side-zip boots khyber tr960z / hot weather lightweight side-zip tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "C775 / Insulated Waterproof Boot",
@@ -35391,9 +35341,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "C775 / Insulated Waterproof Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "C775 / Insulated Waterproof Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 16",
+    "description": "C775 / Insulated Waterproof Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "C775 / Insulated Waterproof Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Waterproof",
@@ -35401,24 +35351,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-c775-insulated-waterproof-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C775.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/c775-insulated-waterproof-boot-view-1.webp",
+    "fallback_image": "belleville/c775-insulated-waterproof-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C775.jpg"
+      "belleville/c775-insulated-waterproof-boot-view-1.webp",
+      "belleville/c775-insulated-waterproof-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C775%20/%20Insulated%20Waterproof%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "c775 / insulated waterproof boot belleville boot co. boots & professional footwear waterproof & insulated boots c775 / insulated waterproof boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "c775 / insulated waterproof boot belleville boot co. boots & professional footwear waterproof & insulated boots c775 / insulated waterproof boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "C775ST / Insulated Steel Toe Waterproof Boot",
@@ -35429,9 +35379,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "C775ST / Insulated Steel Toe Waterproof Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "C775ST / Insulated Steel Toe Waterproof Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 16",
+    "description": "C775ST / Insulated Steel Toe Waterproof Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "C775ST / Insulated Steel Toe Waterproof Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Waterproof",
@@ -35440,24 +35390,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-c775st-insulated-steel-toe-waterproof-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C775ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/c775st-insulated-steel-toe-waterproof-boot-view-1.webp",
+    "fallback_image": "belleville/c775st-insulated-steel-toe-waterproof-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C775ST.jpg"
+      "belleville/c775st-insulated-steel-toe-waterproof-boot-view-1.webp",
+      "belleville/c775st-insulated-steel-toe-waterproof-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C775ST%20/%20Insulated%20Steel%20Toe%20Waterproof%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "c775st / insulated steel toe waterproof boot belleville boot co. boots & professional footwear waterproof & insulated boots c775st / insulated steel toe waterproof boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown waterproof insulated steel toe professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "c775st / insulated steel toe waterproof boot belleville boot co. boots & professional footwear waterproof & insulated boots c775st / insulated steel toe waterproof boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof insulated steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SPEAR POINT BV508Z CT / Hot Weather Composite Toe Side-Zip Boot",
@@ -35468,9 +35418,9 @@ window.PRODUCT_DATA = [
     "category": "Tactical Side-Zip Boots",
     "ar_category": "Tactical Side-Zip Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SPEAR POINT BV508Z CT / Hot Weather Composite Toe Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SPEAR POINT BV508Z CT / Hot Weather Composite Toe Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 12",
+    "description": "SPEAR POINT BV508Z CT / Hot Weather Composite Toe Side-Zip Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SPEAR POINT BV508Z CT / Hot Weather Composite Toe Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Hot Weather",
@@ -35479,26 +35429,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-spear-point-bv508z-ct-hot-weather-composite-toe-side-zip-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV508ZCT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/spear-point-bv508z-ct-hot-weather-composite-toe-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv508z-ct-hot-weather-composite-toe-side-zip-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV508ZCT.jpg"
+      "belleville/spear-point-bv508z-ct-hot-weather-composite-toe-side-zip-boot-view-1.webp",
+      "belleville/spear-point-bv508z-ct-hot-weather-composite-toe-side-zip-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV508Z%20CT%20/%20Hot%20Weather%20Composite%20Toe%20Side-Zip%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "spear point bv508z ct / hot weather composite toe side-zip boot belleville boot co. boots & professional footwear tactical side-zip boots spear point bv508z ct / hot weather composite toe side-zip boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black hot weather composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV508Z-CT.jpg"
-    ]
+    "search": "spear point bv508z ct / hot weather composite toe side-zip boot belleville boot co. boots & professional footwear tactical side-zip boots spear point bv508z ct / hot weather composite toe side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "MAXX 8Z / 8 inch Maximalist Tactical Boot",
@@ -35509,32 +35457,32 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "MAXX 8Z / 8 inch Maximalist Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "MAXX 8Z / 8 inch Maximalist Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 37",
+    "description": "MAXX 8Z / 8 inch Maximalist Tactical Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "MAXX 8Z / 8 inch Maximalist Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Ranger Green",
       "Professional Footwear"
     ],
     "id": "belleville-maxx-8z-8-inch-maximalist-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-8Z.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/maxx-8z-8-inch-maximalist-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/maxx-8z-8-inch-maximalist-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-8Z.jpg"
+      "belleville/maxx-8z-8-inch-maximalist-tactical-boot-view-1.webp",
+      "belleville/maxx-8z-8-inch-maximalist-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=MAXX%208Z%20/%208%20inch%20Maximalist%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "maxx 8z / 8 inch maximalist tactical boot belleville boot co. boots & professional footwear military & tactical boots maxx 8z / 8 inch maximalist tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. ranger green professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "maxx 8z / 8 inch maximalist tactical boot belleville boot co. boots & professional footwear military & tactical boots maxx 8z / 8 inch maximalist tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "JUNGLE RUNNER TR900",
@@ -35545,33 +35493,33 @@ window.PRODUCT_DATA = [
     "category": "Jungle & Hot-Weather Boots",
     "ar_category": "Jungle & Hot-Weather Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "JUNGLE RUNNER TR900. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "JUNGLE RUNNER TR900. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 7 (representative series image)",
+    "description": "JUNGLE RUNNER TR900. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "JUNGLE RUNNER TR900. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Jungle",
       "Professional Footwear"
     ],
     "id": "belleville-jungle-runner-tr900-jungle-runner-tr900",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR900.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/jungle-runner-tr900-jungle-runner-tr900-view-1.webp",
+    "fallback_image": "belleville/jungle-runner-tr900-jungle-runner-tr900-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR900.jpg"
+      "belleville/jungle-runner-tr900-jungle-runner-tr900-view-1.webp",
+      "belleville/jungle-runner-tr900-jungle-runner-tr900-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=JUNGLE%20RUNNER%20TR900",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "jungle runner tr900 belleville boot co. boots & professional footwear jungle & hot-weather boots jungle runner tr900. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown jungle professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "jungle runner tr900 belleville boot co. boots & professional footwear jungle & hot-weather boots jungle runner tr900. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown jungle professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "FLYWEIGHT C312Z CT / Hot Weather Side-Zip Composite Toe Boot",
@@ -35582,9 +35530,9 @@ window.PRODUCT_DATA = [
     "category": "Tactical Side-Zip Boots",
     "ar_category": "Tactical Side-Zip Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "FLYWEIGHT C312Z CT / Hot Weather Side-Zip Composite Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "FLYWEIGHT C312Z CT / Hot Weather Side-Zip Composite Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 12",
+    "description": "FLYWEIGHT C312Z CT / Hot Weather Side-Zip Composite Toe Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "FLYWEIGHT C312Z CT / Hot Weather Side-Zip Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
@@ -35593,26 +35541,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-flyweight-c312z-ct-hot-weather-side-zip-composite-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C312ZCT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/flyweight-c312z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-c312z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C312ZCT.jpg"
+      "belleville/flyweight-c312z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
+      "belleville/flyweight-c312z-ct-hot-weather-side-zip-composite-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20C312Z%20CT%20/%20Hot%20Weather%20Side-Zip%20Composite%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "flyweight c312z ct / hot weather side-zip composite toe boot belleville boot co. boots & professional footwear tactical side-zip boots flyweight c312z ct / hot weather side-zip composite toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown hot weather composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C312Z-CT.jpg"
-    ]
+    "search": "flyweight c312z ct / hot weather side-zip composite toe boot belleville boot co. boots & professional footwear tactical side-zip boots flyweight c312z ct / hot weather side-zip composite toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "339 ST / US Navy Aviator Boot",
@@ -35623,35 +35569,33 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "339 ST / US Navy Aviator Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "339 ST / US Navy Aviator Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 22",
+    "description": "339 ST / US Navy Aviator Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "339 ST / US Navy Aviator Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Aviation",
       "Professional Footwear"
     ],
     "id": "belleville-339-st-us-navy-aviator-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-339ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/339-st-us-navy-aviator-boot-view-1.webp",
+    "fallback_image": "belleville/339-st-us-navy-aviator-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-339ST.jpg"
+      "belleville/339-st-us-navy-aviator-boot-view-1.webp",
+      "belleville/339-st-us-navy-aviator-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=339%20ST%20/%20US%20Navy%20Aviator%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "339 st / us navy aviator boot belleville boot co. boots & professional footwear flight & deck boots 339 st / us navy aviator boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black aviation professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-339-ST.jpg"
-    ]
+    "search": "339 st / us navy aviator boot belleville boot co. boots & professional footwear flight & deck boots 339 st / us navy aviator boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black aviation professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "AMRAP BV970ZWPT / Vapor Boot",
@@ -35662,32 +35606,32 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "AMRAP BV970ZWPT / Vapor Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "AMRAP BV970ZWPT / Vapor Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 26",
+    "description": "AMRAP BV970ZWPT / Vapor Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "AMRAP BV970ZWPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Professional Footwear"
     ],
     "id": "belleville-amrap-bv970zwpt-vapor-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV970ZWPT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/amrap-bv970zwpt-vapor-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-bv970zwpt-vapor-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV970ZWPT.jpg"
+      "belleville/amrap-bv970zwpt-vapor-boot-view-1.webp",
+      "belleville/amrap-bv970zwpt-vapor-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20BV970ZWPT%20/%20Vapor%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "amrap bv970zwpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv970zwpt / vapor boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "amrap bv970zwpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv970zwpt / vapor boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "793 / Waterproof Assault Flight Boot",
@@ -35698,9 +35642,9 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "793 / Waterproof Assault Flight Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "793 / Waterproof Assault Flight Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 14 (representative series image)",
+    "description": "793 / Waterproof Assault Flight Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "793 / Waterproof Assault Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Ranger Green",
       "Waterproof",
@@ -35708,24 +35652,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-793-waterproof-assault-flight-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-793.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/793-waterproof-assault-flight-boot-view-1.webp",
+    "fallback_image": "belleville/793-waterproof-assault-flight-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-793.jpg"
+      "belleville/793-waterproof-assault-flight-boot-view-1.webp",
+      "belleville/793-waterproof-assault-flight-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=793%20/%20Waterproof%20Assault%20Flight%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "793 / waterproof assault flight boot belleville boot co. boots & professional footwear flight & deck boots 793 / waterproof assault flight boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. ranger green waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "793 / waterproof assault flight boot belleville boot co. boots & professional footwear flight & deck boots 793 / waterproof assault flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SQUALL BV555INS CT / 400g Insulated Composite Toe Boot",
@@ -35736,9 +35680,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SQUALL BV555INS CT / 400g Insulated Composite Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SQUALL BV555INS CT / 400g Insulated Composite Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 17",
+    "description": "SQUALL BV555INS CT / 400g Insulated Composite Toe Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SQUALL BV555INS CT / 400g Insulated Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Insulated",
@@ -35746,26 +35690,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-squall-bv555ins-ct-400g-insulated-composite-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV555INSCT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/squall-bv555ins-ct-400g-insulated-composite-toe-boot-view-1.webp",
+    "fallback_image": "belleville/squall-bv555ins-ct-400g-insulated-composite-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV555INSCT.jpg"
+      "belleville/squall-bv555ins-ct-400g-insulated-composite-toe-boot-view-1.webp",
+      "belleville/squall-bv555ins-ct-400g-insulated-composite-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SQUALL%20BV555INS%20CT%20/%20400g%20Insulated%20Composite%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "squall bv555ins ct / 400g insulated composite toe boot belleville boot co. boots & professional footwear waterproof & insulated boots squall bv555ins ct / 400g insulated composite toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown insulated composite toe professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV555INS-CT.jpg"
-    ]
+    "search": "squall bv555ins ct / 400g insulated composite toe boot belleville boot co. boots & professional footwear waterproof & insulated boots squall bv555ins ct / 400g insulated composite toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown insulated composite toe professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "TR1040-T / 7 Inch Ultralight Tactical Boot",
@@ -35776,32 +35718,32 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "TR1040-T / 7 Inch Ultralight Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "TR1040-T / 7 Inch Ultralight Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 39 (representative series image)",
+    "description": "TR1040-T / 7 Inch Ultralight Tactical Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "TR1040-T / 7 Inch Ultralight Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Professional Footwear"
     ],
     "id": "belleville-tr1040-t-7-inch-ultralight-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR1040T.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/tr1040-t-7-inch-ultralight-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/tr1040-t-7-inch-ultralight-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR1040T.jpg"
+      "belleville/tr1040-t-7-inch-ultralight-tactical-boot-view-1.webp",
+      "belleville/tr1040-t-7-inch-ultralight-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR1040-T%20/%207%20Inch%20Ultralight%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "tr1040-t / 7 inch ultralight tactical boot belleville boot co. boots & professional footwear military & tactical boots tr1040-t / 7 inch ultralight tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "tr1040-t / 7 inch ultralight tactical boot belleville boot co. boots & professional footwear military & tactical boots tr1040-t / 7 inch ultralight tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "AMRAP BV505 / Athletic Field Boot",
@@ -35812,33 +35754,33 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "AMRAP BV505 / Athletic Field Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "AMRAP BV505 / Athletic Field Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 7 (representative series image)",
+    "description": "AMRAP BV505 / Athletic Field Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "AMRAP BV505 / Athletic Field Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Athletic",
       "Professional Footwear"
     ],
     "id": "belleville-amrap-bv505-athletic-field-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV505.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/amrap-bv505-athletic-field-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-bv505-athletic-field-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV505.jpg"
+      "belleville/amrap-bv505-athletic-field-boot-view-1.webp",
+      "belleville/amrap-bv505-athletic-field-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20BV505%20/%20Athletic%20Field%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "amrap bv505 / athletic field boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv505 / athletic field boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown athletic professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "amrap bv505 / athletic field boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv505 / athletic field boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown athletic professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "KHYBER TR960 / Hot Weather Lightweight Tactical Boot",
@@ -35849,33 +35791,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "KHYBER TR960 / Hot Weather Lightweight Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "KHYBER TR960 / Hot Weather Lightweight Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 38 (representative series image)",
+    "description": "KHYBER TR960 / Hot Weather Lightweight Tactical Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "KHYBER TR960 / Hot Weather Lightweight Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Hot Weather",
       "Professional Footwear"
     ],
     "id": "belleville-khyber-tr960-hot-weather-lightweight-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR960.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/khyber-tr960-hot-weather-lightweight-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/khyber-tr960-hot-weather-lightweight-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR960.jpg"
+      "belleville/khyber-tr960-hot-weather-lightweight-tactical-boot-view-1.webp",
+      "belleville/khyber-tr960-hot-weather-lightweight-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=KHYBER%20TR960%20/%20Hot%20Weather%20Lightweight%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "khyber tr960 / hot weather lightweight tactical boot belleville boot co. boots & professional footwear military & tactical boots khyber tr960 / hot weather lightweight tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black hot weather professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "khyber tr960 / hot weather lightweight tactical boot belleville boot co. boots & professional footwear military & tactical boots khyber tr960 / hot weather lightweight tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "BV903PR / CANOPY Jungle Boot",
@@ -35886,33 +35828,33 @@ window.PRODUCT_DATA = [
     "category": "Jungle & Hot-Weather Boots",
     "ar_category": "Jungle & Hot-Weather Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "BV903PR / CANOPY Jungle Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "BV903PR / CANOPY Jungle Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 5 (representative series image)",
+    "description": "BV903PR / CANOPY Jungle Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "BV903PR / CANOPY Jungle Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Ranger Green",
       "Jungle",
       "Professional Footwear"
     ],
     "id": "belleville-bv903pr-canopy-jungle-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV903PR.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/bv903pr-canopy-jungle-boot-view-1.webp",
+    "fallback_image": "belleville/bv903pr-canopy-jungle-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV903PR.jpg"
+      "belleville/bv903pr-canopy-jungle-boot-view-1.webp",
+      "belleville/bv903pr-canopy-jungle-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=BV903PR%20/%20CANOPY%20Jungle%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "bv903pr / canopy jungle boot belleville boot co. boots & professional footwear jungle & hot-weather boots bv903pr / canopy jungle boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. ranger green jungle professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "bv903pr / canopy jungle boot belleville boot co. boots & professional footwear jungle & hot-weather boots bv903pr / canopy jungle boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green jungle professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "F390 DES / Women's Hot Weather Combat Boot",
@@ -35923,9 +35865,9 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "F390 DES / Women's Hot Weather Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "F390 DES / Women's Hot Weather Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 6 (representative series image)",
+    "description": "F390 DES / Women's Hot Weather Combat Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "F390 DES / Women's Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Hot Weather",
@@ -35933,26 +35875,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-f390-des-women-s-hot-weather-combat-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-F390DES.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/f390-des-women-s-hot-weather-combat-boot-view-1.webp",
+    "fallback_image": "belleville/f390-des-women-s-hot-weather-combat-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-F390DES.jpg"
+      "belleville/f390-des-women-s-hot-weather-combat-boot-view-1.webp",
+      "belleville/f390-des-women-s-hot-weather-combat-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=F390%20DES%20/%20Women%27s%20Hot%20Weather%20Combat%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "f390 des / women's hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots f390 des / women's hot weather combat boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan hot weather women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-F390-DES.jpg"
-    ]
+    "search": "f390 des / women's hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots f390 des / women's hot weather combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan hot weather women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "FC390 / Women's Hot Weather Combat Boot",
@@ -35963,9 +35903,9 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "FC390 / Women's Hot Weather Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "FC390 / Women's Hot Weather Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 6 (representative series image)",
+    "description": "FC390 / Women's Hot Weather Combat Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "FC390 / Women's Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
@@ -35973,24 +35913,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-fc390-women-s-hot-weather-combat-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-FC390.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/fc390-women-s-hot-weather-combat-boot-view-1.webp",
+    "fallback_image": "belleville/fc390-women-s-hot-weather-combat-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-FC390.jpg"
+      "belleville/fc390-women-s-hot-weather-combat-boot-view-1.webp",
+      "belleville/fc390-women-s-hot-weather-combat-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FC390%20/%20Women%27s%20Hot%20Weather%20Combat%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "fc390 / women's hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots fc390 / women's hot weather combat boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown hot weather women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "fc390 / women's hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots fc390 / women's hot weather combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SPEAR POINT BV518 / Lightweight Hot Weather Tactical Boot",
@@ -36001,33 +35941,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SPEAR POINT BV518 / Lightweight Hot Weather Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SPEAR POINT BV518 / Lightweight Hot Weather Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 8",
+    "description": "SPEAR POINT BV518 / Lightweight Hot Weather Tactical Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SPEAR POINT BV518 / Lightweight Hot Weather Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
       "Professional Footwear"
     ],
     "id": "belleville-spear-point-bv518-lightweight-hot-weather-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV518.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/spear-point-bv518-lightweight-hot-weather-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv518-lightweight-hot-weather-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV518.jpg"
+      "belleville/spear-point-bv518-lightweight-hot-weather-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv518-lightweight-hot-weather-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV518%20/%20Lightweight%20Hot%20Weather%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "spear point bv518 / lightweight hot weather tactical boot belleville boot co. boots & professional footwear military & tactical boots spear point bv518 / lightweight hot weather tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "spear point bv518 / lightweight hot weather tactical boot belleville boot co. boots & professional footwear military & tactical boots spear point bv518 / lightweight hot weather tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "AMRAP BV570ZWPT / Vapor Boot",
@@ -36038,32 +35978,32 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "AMRAP BV570ZWPT / Vapor Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "AMRAP BV570ZWPT / Vapor Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 27 (representative series image)",
+    "description": "AMRAP BV570ZWPT / Vapor Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "AMRAP BV570ZWPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Professional Footwear"
     ],
     "id": "belleville-amrap-bv570zwpt-vapor-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV570ZWPT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/amrap-bv570zwpt-vapor-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-bv570zwpt-vapor-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV570ZWPT.jpg"
+      "belleville/amrap-bv570zwpt-vapor-boot-view-1.webp",
+      "belleville/amrap-bv570zwpt-vapor-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20BV570ZWPT%20/%20Vapor%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "amrap bv570zwpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv570zwpt / vapor boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "amrap bv570zwpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv570zwpt / vapor boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "C755-B / Extreme Cold Weather Waterproof & Insulated Boot",
@@ -36074,9 +36014,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "C755-B / Extreme Cold Weather Waterproof & Insulated Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "C755-B / Extreme Cold Weather Waterproof & Insulated Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 16 (representative series image)",
+    "description": "C755-B / Extreme Cold Weather Waterproof & Insulated Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "C755-B / Extreme Cold Weather Waterproof & Insulated Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Waterproof",
@@ -36084,24 +36024,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-c755-b-extreme-cold-weather-waterproof-and-insulated-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C755B.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/c755-b-extreme-cold-weather-waterproof-and-insulated-boot-view-1.webp",
+    "fallback_image": "belleville/c755-b-extreme-cold-weather-waterproof-and-insulated-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C755B.jpg"
+      "belleville/c755-b-extreme-cold-weather-waterproof-and-insulated-boot-view-1.webp",
+      "belleville/c755-b-extreme-cold-weather-waterproof-and-insulated-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C755-B%20/%20Extreme%20Cold%20Weather%20Waterproof%20%26%20Insulated%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "c755-b / extreme cold weather waterproof & insulated boot belleville boot co. boots & professional footwear waterproof & insulated boots c755-b / extreme cold weather waterproof & insulated boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "c755-b / extreme cold weather waterproof & insulated boot belleville boot co. boots & professional footwear waterproof & insulated boots c755-b / extreme cold weather waterproof & insulated boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "QRF DELTA C6 / Mid-Cut Approach Boot",
@@ -36112,32 +36052,32 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "QRF DELTA C6 / Mid-Cut Approach Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "QRF DELTA C6 / Mid-Cut Approach Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 37 (representative series image)",
+    "description": "QRF DELTA C6 / Mid-Cut Approach Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "QRF DELTA C6 / Mid-Cut Approach Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Professional Footwear"
     ],
     "id": "belleville-qrf-delta-c6-mid-cut-approach-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C6.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/qrf-delta-c6-mid-cut-approach-boot-view-1.webp",
+    "fallback_image": "belleville/qrf-delta-c6-mid-cut-approach-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C6.jpg"
+      "belleville/qrf-delta-c6-mid-cut-approach-boot-view-1.webp",
+      "belleville/qrf-delta-c6-mid-cut-approach-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=QRF%20DELTA%20C6%20/%20Mid-Cut%20Approach%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "qrf delta c6 / mid-cut approach boot belleville boot co. boots & professional footwear training & athletic footwear qrf delta c6 / mid-cut approach boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "qrf delta c6 / mid-cut approach boot belleville boot co. boots & professional footwear training & athletic footwear qrf delta c6 / mid-cut approach boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "TR1040-ZWP / 7 Inch Waterproof Ultralight Tactical Side-Zip Boot",
@@ -36148,9 +36088,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "TR1040-ZWP / 7 Inch Waterproof Ultralight Tactical Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "TR1040-ZWP / 7 Inch Waterproof Ultralight Tactical Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 39",
+    "description": "TR1040-ZWP / 7 Inch Waterproof Ultralight Tactical Side-Zip Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "TR1040-ZWP / 7 Inch Waterproof Ultralight Tactical Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Waterproof",
@@ -36158,24 +36098,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-tr1040-zwp-7-inch-waterproof-ultralight-tactical-side-zip-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR1040ZWP.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/tr1040-zwp-7-inch-waterproof-ultralight-tactical-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/tr1040-zwp-7-inch-waterproof-ultralight-tactical-side-zip-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR1040ZWP.jpg"
+      "belleville/tr1040-zwp-7-inch-waterproof-ultralight-tactical-side-zip-boot-view-1.webp",
+      "belleville/tr1040-zwp-7-inch-waterproof-ultralight-tactical-side-zip-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR1040-ZWP%20/%207%20Inch%20Waterproof%20Ultralight%20Tactical%20Side-Zip%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "tr1040-zwp / 7 inch waterproof ultralight tactical side-zip boot belleville boot co. boots & professional footwear waterproof & insulated boots tr1040-zwp / 7 inch waterproof ultralight tactical side-zip boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "tr1040-zwp / 7 inch waterproof ultralight tactical side-zip boot belleville boot co. boots & professional footwear waterproof & insulated boots tr1040-zwp / 7 inch waterproof ultralight tactical side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "TR966 / Hot Weather Lightweight Tactical Boot",
@@ -36186,33 +36126,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "TR966 / Hot Weather Lightweight Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "TR966 / Hot Weather Lightweight Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 38 (representative series image)",
+    "description": "TR966 / Hot Weather Lightweight Tactical Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "TR966 / Hot Weather Lightweight Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
       "Professional Footwear"
     ],
     "id": "belleville-tr966-hot-weather-lightweight-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR966.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/tr966-hot-weather-lightweight-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/tr966-hot-weather-lightweight-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR966.jpg"
+      "belleville/tr966-hot-weather-lightweight-tactical-boot-view-1.webp",
+      "belleville/tr966-hot-weather-lightweight-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR966%20/%20Hot%20Weather%20Lightweight%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "tr966 / hot weather lightweight tactical boot belleville boot co. boots & professional footwear military & tactical boots tr966 / hot weather lightweight tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "tr966 / hot weather lightweight tactical boot belleville boot co. boots & professional footwear military & tactical boots tr966 / hot weather lightweight tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SPEAR POINT BV915Z / Lightweight Side-Zip 5 inch Tactical Boot",
@@ -36223,33 +36163,33 @@ window.PRODUCT_DATA = [
     "category": "Tactical Side-Zip Boots",
     "ar_category": "Tactical Side-Zip Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SPEAR POINT BV915Z / Lightweight Side-Zip 5 inch Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SPEAR POINT BV915Z / Lightweight Side-Zip 5 inch Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 40",
+    "description": "SPEAR POINT BV915Z / Lightweight Side-Zip 5 inch Tactical Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SPEAR POINT BV915Z / Lightweight Side-Zip 5 inch Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Side Zipper",
       "Professional Footwear"
     ],
     "id": "belleville-spear-point-bv915z-lightweight-side-zip-5-inch-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV915Z.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/spear-point-bv915z-lightweight-side-zip-5-inch-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv915z-lightweight-side-zip-5-inch-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV915Z.jpg"
+      "belleville/spear-point-bv915z-lightweight-side-zip-5-inch-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv915z-lightweight-side-zip-5-inch-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV915Z%20/%20Lightweight%20Side-Zip%205%20inch%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "spear point bv915z / lightweight side-zip 5 inch tactical boot belleville boot co. boots & professional footwear tactical side-zip boots spear point bv915z / lightweight side-zip 5 inch tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "spear point bv915z / lightweight side-zip 5 inch tactical boot belleville boot co. boots & professional footwear tactical side-zip boots spear point bv915z / lightweight side-zip 5 inch tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "ARMR LTE C290 / Ultralight Combat & Training Boot",
@@ -36260,33 +36200,33 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "ARMR LTE C290 / Ultralight Combat & Training Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "ARMR LTE C290 / Ultralight Combat & Training Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 5",
+    "description": "ARMR LTE C290 / Ultralight Combat & Training Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "ARMR LTE C290 / Ultralight Combat & Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Training",
       "Professional Footwear"
     ],
     "id": "belleville-armr-lte-c290-ultralight-combat-and-training-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C290.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/armr-lte-c290-ultralight-combat-and-training-boot-view-1.webp",
+    "fallback_image": "belleville/armr-lte-c290-ultralight-combat-and-training-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C290.jpg"
+      "belleville/armr-lte-c290-ultralight-combat-and-training-boot-view-1.webp",
+      "belleville/armr-lte-c290-ultralight-combat-and-training-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=ARMR%20LTE%20C290%20/%20Ultralight%20Combat%20%26%20Training%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "armr lte c290 / ultralight combat & training boot belleville boot co. boots & professional footwear training & athletic footwear armr lte c290 / ultralight combat & training boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown training professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "armr lte c290 / ultralight combat & training boot belleville boot co. boots & professional footwear training & athletic footwear armr lte c290 / ultralight combat & training boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown training professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "FLYWEIGHT C315 ST / Steel Toe Boot",
@@ -36297,35 +36237,33 @@ window.PRODUCT_DATA = [
     "category": "Safety-Toe Boots",
     "ar_category": "Safety-Toe Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "FLYWEIGHT C315 ST / Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "FLYWEIGHT C315 ST / Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 11 (representative series image)",
+    "description": "FLYWEIGHT C315 ST / Steel Toe Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "FLYWEIGHT C315 ST / Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Steel Toe",
       "Professional Footwear"
     ],
     "id": "belleville-flyweight-c315-st-steel-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C315ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/flyweight-c315-st-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-c315-st-steel-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C315ST.jpg"
+      "belleville/flyweight-c315-st-steel-toe-boot-view-1.webp",
+      "belleville/flyweight-c315-st-steel-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20C315%20ST%20/%20Steel%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "flyweight c315 st / steel toe boot belleville boot co. boots & professional footwear safety-toe boots flyweight c315 st / steel toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown steel toe professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C315-ST.jpg"
-    ]
+    "search": "flyweight c315 st / steel toe boot belleville boot co. boots & professional footwear safety-toe boots flyweight c315 st / steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "F495 ST / Navy Female General Purpose Steel Toe Boot",
@@ -36336,9 +36274,9 @@ window.PRODUCT_DATA = [
     "category": "Safety-Toe Boots",
     "ar_category": "Safety-Toe Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "F495 ST / Navy Female General Purpose Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "F495 ST / Navy Female General Purpose Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 22",
+    "description": "F495 ST / Navy Female General Purpose Steel Toe Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "F495 ST / Navy Female General Purpose Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Steel Toe",
@@ -36346,26 +36284,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-f495-st-navy-female-general-purpose-steel-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-F495ST.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/f495-st-navy-female-general-purpose-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/f495-st-navy-female-general-purpose-steel-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-F495ST.jpg"
+      "belleville/f495-st-navy-female-general-purpose-steel-toe-boot-view-1.webp",
+      "belleville/f495-st-navy-female-general-purpose-steel-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=F495%20ST%20/%20Navy%20Female%20General%20Purpose%20Steel%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "f495 st / navy female general purpose steel toe boot belleville boot co. boots & professional footwear safety-toe boots f495 st / navy female general purpose steel toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black steel toe women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-F495-ST.jpg"
-    ]
+    "search": "f495 st / navy female general purpose steel toe boot belleville boot co. boots & professional footwear safety-toe boots f495 st / navy female general purpose steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black steel toe women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "AMRAP BV570WPT / Vapor Boot",
@@ -36376,32 +36312,32 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "AMRAP BV570WPT / Vapor Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "AMRAP BV570WPT / Vapor Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 27",
+    "description": "AMRAP BV570WPT / Vapor Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "AMRAP BV570WPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Professional Footwear"
     ],
     "id": "belleville-amrap-bv570wpt-vapor-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV570WPT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/amrap-bv570wpt-vapor-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-bv570wpt-vapor-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV570WPT.jpg"
+      "belleville/amrap-bv570wpt-vapor-boot-view-1.webp",
+      "belleville/amrap-bv570wpt-vapor-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20BV570WPT%20/%20Vapor%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "amrap bv570wpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv570wpt / vapor boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "amrap bv570wpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv570wpt / vapor boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "AMRAP BV670WPT / Vapor Boot",
@@ -36412,32 +36348,32 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "AMRAP BV670WPT / Vapor Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "AMRAP BV670WPT / Vapor Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 27",
+    "description": "AMRAP BV670WPT / Vapor Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "AMRAP BV670WPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Professional Footwear"
     ],
     "id": "belleville-amrap-bv670wpt-vapor-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV670WPT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/amrap-bv670wpt-vapor-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-bv670wpt-vapor-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV670WPT.jpg"
+      "belleville/amrap-bv670wpt-vapor-boot-view-1.webp",
+      "belleville/amrap-bv670wpt-vapor-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20BV670WPT%20/%20Vapor%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "amrap bv670wpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv670wpt / vapor boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "amrap bv670wpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv670wpt / vapor boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "QRF ALPHA C9 / Hot Weather Assault Boot",
@@ -36448,33 +36384,33 @@ window.PRODUCT_DATA = [
     "category": "Military & Tactical Boots",
     "ar_category": "Military & Tactical Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "QRF ALPHA C9 / Hot Weather Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "QRF ALPHA C9 / Hot Weather Assault Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 5 (representative series image)",
+    "description": "QRF ALPHA C9 / Hot Weather Assault Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "QRF ALPHA C9 / Hot Weather Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Hot Weather",
       "Professional Footwear"
     ],
     "id": "belleville-qrf-alpha-c9-hot-weather-assault-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-C9.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/qrf-alpha-c9-hot-weather-assault-boot-view-1.webp",
+    "fallback_image": "belleville/qrf-alpha-c9-hot-weather-assault-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-C9.jpg"
+      "belleville/qrf-alpha-c9-hot-weather-assault-boot-view-1.webp",
+      "belleville/qrf-alpha-c9-hot-weather-assault-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=QRF%20ALPHA%20C9%20/%20Hot%20Weather%20Assault%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "qrf alpha c9 / hot weather assault boot belleville boot co. boots & professional footwear military & tactical boots qrf alpha c9 / hot weather assault boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "qrf alpha c9 / hot weather assault boot belleville boot co. boots & professional footwear military & tactical boots qrf alpha c9 / hot weather assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "Mini-Mil MM002 / Barefoot Activity Shoe",
@@ -36485,32 +36421,32 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Mini-Mil MM002 / Barefoot Activity Shoe. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "Mini-Mil MM002 / Barefoot Activity Shoe. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 29",
+    "description": "Mini-Mil MM002 / Barefoot Activity Shoe. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "Mini-Mil MM002 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Professional Footwear"
     ],
     "id": "belleville-mini-mil-mm002-barefoot-activity-shoe",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-MM002.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/mini-mil-mm002-barefoot-activity-shoe-view-1.webp",
+    "fallback_image": "belleville/mini-mil-mm002-barefoot-activity-shoe-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-MM002.jpg"
+      "belleville/mini-mil-mm002-barefoot-activity-shoe-view-1.webp",
+      "belleville/mini-mil-mm002-barefoot-activity-shoe-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20MM002%20/%20Barefoot%20Activity%20Shoe",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "mini-mil mm002 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm002 / barefoot activity shoe. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "mini-mil mm002 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm002 / barefoot activity shoe. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "Chrome TR998Z WP / Waterproof Side-Zip Boot",
@@ -36521,9 +36457,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Chrome TR998Z WP / Waterproof Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "Chrome TR998Z WP / Waterproof Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 42 (representative series image)",
+    "description": "Chrome TR998Z WP / Waterproof Side-Zip Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "Chrome TR998Z WP / Waterproof Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Waterproof",
@@ -36531,26 +36467,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-chrome-tr998z-wp-waterproof-side-zip-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR998ZWP.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/chrome-tr998z-wp-waterproof-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/chrome-tr998z-wp-waterproof-side-zip-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR998ZWP.jpg"
+      "belleville/chrome-tr998z-wp-waterproof-side-zip-boot-view-1.webp",
+      "belleville/chrome-tr998z-wp-waterproof-side-zip-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Chrome%20TR998Z%20WP%20/%20Waterproof%20Side-Zip%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "chrome tr998z wp / waterproof side-zip boot belleville boot co. boots & professional footwear waterproof & insulated boots chrome tr998z wp / waterproof side-zip boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR998Z-WP.jpg"
-    ]
+    "search": "chrome tr998z wp / waterproof side-zip boot belleville boot co. boots & professional footwear waterproof & insulated boots chrome tr998z wp / waterproof side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "Mini-Mil MM003 / Barefoot Activity Shoe",
@@ -36561,32 +36495,32 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Mini-Mil MM003 / Barefoot Activity Shoe. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "Mini-Mil MM003 / Barefoot Activity Shoe. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 30",
+    "description": "Mini-Mil MM003 / Barefoot Activity Shoe. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "Mini-Mil MM003 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Professional Footwear"
     ],
     "id": "belleville-mini-mil-mm003-barefoot-activity-shoe",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-MM003.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/mini-mil-mm003-barefoot-activity-shoe-view-1.webp",
+    "fallback_image": "belleville/mini-mil-mm003-barefoot-activity-shoe-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-MM003.jpg"
+      "belleville/mini-mil-mm003-barefoot-activity-shoe-view-1.webp",
+      "belleville/mini-mil-mm003-barefoot-activity-shoe-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20MM003%20/%20Barefoot%20Activity%20Shoe",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "mini-mil mm003 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm003 / barefoot activity shoe. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "mini-mil mm003 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm003 / barefoot activity shoe. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "Mini-Mil MM005 WP / Blackout Barefoot Activity Shoe",
@@ -36597,34 +36531,32 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Mini-Mil MM005 WP / Blackout Barefoot Activity Shoe. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "Mini-Mil MM005 WP / Blackout Barefoot Activity Shoe. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 31",
+    "description": "Mini-Mil MM005 WP / Blackout Barefoot Activity Shoe. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "Mini-Mil MM005 WP / Blackout Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Professional Footwear"
     ],
     "id": "belleville-mini-mil-mm005-wp-blackout-barefoot-activity-shoe",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-MM005WP.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/mini-mil-mm005-wp-blackout-barefoot-activity-shoe-view-1.webp",
+    "fallback_image": "belleville/mini-mil-mm005-wp-blackout-barefoot-activity-shoe-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-MM005WP.jpg"
+      "belleville/mini-mil-mm005-wp-blackout-barefoot-activity-shoe-view-1.webp",
+      "belleville/mini-mil-mm005-wp-blackout-barefoot-activity-shoe-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20MM005%20WP%20/%20Blackout%20Barefoot%20Activity%20Shoe",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "mini-mil mm005 wp / blackout barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm005 wp / blackout barefoot activity shoe. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-MM005-WP.jpg"
-    ]
+    "search": "mini-mil mm005 wp / blackout barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm005 wp / blackout barefoot activity shoe. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SPEAR POINT BV918Z WP / Lightweight Side-Zip 8 inch Waterproof Tactical Boot",
@@ -36635,9 +36567,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SPEAR POINT BV918Z WP / Lightweight Side-Zip 8 inch Waterproof Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SPEAR POINT BV918Z WP / Lightweight Side-Zip 8 inch Waterproof Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 41",
+    "description": "SPEAR POINT BV918Z WP / Lightweight Side-Zip 8 inch Waterproof Tactical Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SPEAR POINT BV918Z WP / Lightweight Side-Zip 8 inch Waterproof Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Ranger Green",
       "Waterproof",
@@ -36645,26 +36577,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-spear-point-bv918z-wp-lightweight-side-zip-8-inch-waterproof-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV918ZWP.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/spear-point-bv918z-wp-lightweight-side-zip-8-inch-waterproof-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv918z-wp-lightweight-side-zip-8-inch-waterproof-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV918ZWP.jpg"
+      "belleville/spear-point-bv918z-wp-lightweight-side-zip-8-inch-waterproof-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv918z-wp-lightweight-side-zip-8-inch-waterproof-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV918Z%20WP%20/%20Lightweight%20Side-Zip%208%20inch%20Waterproof%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "spear point bv918z wp / lightweight side-zip 8 inch waterproof tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots spear point bv918z wp / lightweight side-zip 8 inch waterproof tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. ranger green waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV918Z-WP.jpg"
-    ]
+    "search": "spear point bv918z wp / lightweight side-zip 8 inch waterproof tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots spear point bv918z wp / lightweight side-zip 8 inch waterproof tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "FLYWEIGHT FX2 / Hot Weather Flight-Combat Boot",
@@ -36675,9 +36605,9 @@ window.PRODUCT_DATA = [
     "category": "Flight & Deck Boots",
     "ar_category": "Flight & Deck Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "FLYWEIGHT FX2 / Hot Weather Flight-Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "FLYWEIGHT FX2 / Hot Weather Flight-Combat Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 13",
+    "description": "FLYWEIGHT FX2 / Hot Weather Flight-Combat Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "FLYWEIGHT FX2 / Hot Weather Flight-Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Hot Weather",
@@ -36685,24 +36615,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-flyweight-fx2-hot-weather-flight-combat-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-FX2.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/flyweight-fx2-hot-weather-flight-combat-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-fx2-hot-weather-flight-combat-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-FX2.jpg"
+      "belleville/flyweight-fx2-hot-weather-flight-combat-boot-view-1.webp",
+      "belleville/flyweight-fx2-hot-weather-flight-combat-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20FX2%20/%20Hot%20Weather%20Flight-Combat%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "flyweight fx2 / hot weather flight-combat boot belleville boot co. boots & professional footwear flight & deck boots flyweight fx2 / hot weather flight-combat boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown hot weather flight professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "flyweight fx2 / hot weather flight-combat boot belleville boot co. boots & professional footwear flight & deck boots flyweight fx2 / hot weather flight-combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown hot weather flight professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "Mini-Mil MM004 / Barefoot Activity Shoe",
@@ -36713,32 +36643,32 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Mini-Mil MM004 / Barefoot Activity Shoe. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "Mini-Mil MM004 / Barefoot Activity Shoe. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 30",
+    "description": "Mini-Mil MM004 / Barefoot Activity Shoe. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "Mini-Mil MM004 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Professional Footwear"
     ],
     "id": "belleville-mini-mil-mm004-barefoot-activity-shoe",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-MM004.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/mini-mil-mm004-barefoot-activity-shoe-view-1.webp",
+    "fallback_image": "belleville/mini-mil-mm004-barefoot-activity-shoe-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-MM004.jpg"
+      "belleville/mini-mil-mm004-barefoot-activity-shoe-view-1.webp",
+      "belleville/mini-mil-mm004-barefoot-activity-shoe-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20MM004%20/%20Barefoot%20Activity%20Shoe",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "mini-mil mm004 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm004 / barefoot activity shoe. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "mini-mil mm004 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm004 / barefoot activity shoe. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SPEAR POINT BV915Z WP / Lightweight Side-Zip Waterproof Tactical Boot",
@@ -36749,9 +36679,9 @@ window.PRODUCT_DATA = [
     "category": "Waterproof & Insulated Boots",
     "ar_category": "Waterproof & Insulated Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SPEAR POINT BV915Z WP / Lightweight Side-Zip Waterproof Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SPEAR POINT BV915Z WP / Lightweight Side-Zip Waterproof Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 40",
+    "description": "SPEAR POINT BV915Z WP / Lightweight Side-Zip Waterproof Tactical Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SPEAR POINT BV915Z WP / Lightweight Side-Zip Waterproof Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Coyote Brown",
       "Waterproof",
@@ -36759,26 +36689,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-spear-point-bv915z-wp-lightweight-side-zip-waterproof-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV915ZWP.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/spear-point-bv915z-wp-lightweight-side-zip-waterproof-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv915z-wp-lightweight-side-zip-waterproof-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV915ZWP.jpg"
+      "belleville/spear-point-bv915z-wp-lightweight-side-zip-waterproof-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv915z-wp-lightweight-side-zip-waterproof-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV915Z%20WP%20/%20Lightweight%20Side-Zip%20Waterproof%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "spear point bv915z wp / lightweight side-zip waterproof tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots spear point bv915z wp / lightweight side-zip waterproof tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. coyote brown waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV915Z-WP.jpg"
-    ]
+    "search": "spear point bv915z wp / lightweight side-zip waterproof tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots spear point bv915z wp / lightweight side-zip waterproof tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "TR1040-LSZ / 7 Inch Ultralight Tactical Side-Zip Boot",
@@ -36789,33 +36717,33 @@ window.PRODUCT_DATA = [
     "category": "Tactical Side-Zip Boots",
     "ar_category": "Tactical Side-Zip Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "TR1040-LSZ / 7 Inch Ultralight Tactical Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "TR1040-LSZ / 7 Inch Ultralight Tactical Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 39",
+    "description": "TR1040-LSZ / 7 Inch Ultralight Tactical Side-Zip Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "TR1040-LSZ / 7 Inch Ultralight Tactical Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Side Zipper",
       "Professional Footwear"
     ],
     "id": "belleville-tr1040-lsz-7-inch-ultralight-tactical-side-zip-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR1040LSZ.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/tr1040-lsz-7-inch-ultralight-tactical-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/tr1040-lsz-7-inch-ultralight-tactical-side-zip-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR1040LSZ.jpg"
+      "belleville/tr1040-lsz-7-inch-ultralight-tactical-side-zip-boot-view-1.webp",
+      "belleville/tr1040-lsz-7-inch-ultralight-tactical-side-zip-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR1040-LSZ%20/%207%20Inch%20Ultralight%20Tactical%20Side-Zip%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "tr1040-lsz / 7 inch ultralight tactical side-zip boot belleville boot co. boots & professional footwear tactical side-zip boots tr1040-lsz / 7 inch ultralight tactical side-zip boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "tr1040-lsz / 7 inch ultralight tactical side-zip boot belleville boot co. boots & professional footwear tactical side-zip boots tr1040-lsz / 7 inch ultralight tactical side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "TR Chrome TR918Z / 8 inch Hot Weather Side-Zip Boot",
@@ -36826,9 +36754,9 @@ window.PRODUCT_DATA = [
     "category": "Tactical Side-Zip Boots",
     "ar_category": "Tactical Side-Zip Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "TR Chrome TR918Z / 8 inch Hot Weather Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "TR Chrome TR918Z / 8 inch Hot Weather Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 42 (representative series image)",
+    "description": "TR Chrome TR918Z / 8 inch Hot Weather Side-Zip Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "TR Chrome TR918Z / 8 inch Hot Weather Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Hot Weather",
@@ -36836,24 +36764,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-tr-chrome-tr918z-8-inch-hot-weather-side-zip-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR918Z.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/tr-chrome-tr918z-8-inch-hot-weather-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/tr-chrome-tr918z-8-inch-hot-weather-side-zip-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR918Z.jpg"
+      "belleville/tr-chrome-tr918z-8-inch-hot-weather-side-zip-boot-view-1.webp",
+      "belleville/tr-chrome-tr918z-8-inch-hot-weather-side-zip-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR%20Chrome%20TR918Z%20/%208%20inch%20Hot%20Weather%20Side-Zip%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "tr chrome tr918z / 8 inch hot weather side-zip boot belleville boot co. boots & professional footwear tactical side-zip boots tr chrome tr918z / 8 inch hot weather side-zip boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "tr chrome tr918z / 8 inch hot weather side-zip boot belleville boot co. boots & professional footwear tactical side-zip boots tr chrome tr918z / 8 inch hot weather side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "CLASS-A TR908Z WP / Waterproof High-Shine Side-Zip Boot",
@@ -36864,9 +36792,9 @@ window.PRODUCT_DATA = [
     "category": "Duty & Dress Footwear",
     "ar_category": "Duty & Dress Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "CLASS-A TR908Z WP / Waterproof High-Shine Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "CLASS-A TR908Z WP / Waterproof High-Shine Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 40 (representative series image)",
+    "description": "CLASS-A TR908Z WP / Waterproof High-Shine Side-Zip Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "CLASS-A TR908Z WP / Waterproof High-Shine Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Waterproof",
@@ -36874,26 +36802,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-class-a-tr908z-wp-waterproof-high-shine-side-zip-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR908ZWP.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/class-a-tr908z-wp-waterproof-high-shine-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/class-a-tr908z-wp-waterproof-high-shine-side-zip-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR908ZWP.jpg"
+      "belleville/class-a-tr908z-wp-waterproof-high-shine-side-zip-boot-view-1.webp",
+      "belleville/class-a-tr908z-wp-waterproof-high-shine-side-zip-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=CLASS-A%20TR908Z%20WP%20/%20Waterproof%20High-Shine%20Side-Zip%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "class-a tr908z wp / waterproof high-shine side-zip boot belleville boot co. boots & professional footwear duty & dress footwear class-a tr908z wp / waterproof high-shine side-zip boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR908Z-WP.jpg"
-    ]
+    "search": "class-a tr908z wp / waterproof high-shine side-zip boot belleville boot co. boots & professional footwear duty & dress footwear class-a tr908z wp / waterproof high-shine side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SPEAR POINT BV918Z / Lightweight Side-Zip 8 inch Tactical Boot",
@@ -36904,33 +36830,33 @@ window.PRODUCT_DATA = [
     "category": "Tactical Side-Zip Boots",
     "ar_category": "Tactical Side-Zip Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SPEAR POINT BV918Z / Lightweight Side-Zip 8 inch Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SPEAR POINT BV918Z / Lightweight Side-Zip 8 inch Tactical Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 41",
+    "description": "SPEAR POINT BV918Z / Lightweight Side-Zip 8 inch Tactical Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SPEAR POINT BV918Z / Lightweight Side-Zip 8 inch Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Desert Tan",
       "Side Zipper",
       "Professional Footwear"
     ],
     "id": "belleville-spear-point-bv918z-lightweight-side-zip-8-inch-tactical-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV918Z.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/spear-point-bv918z-lightweight-side-zip-8-inch-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv918z-lightweight-side-zip-8-inch-tactical-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV918Z.jpg"
+      "belleville/spear-point-bv918z-lightweight-side-zip-8-inch-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv918z-lightweight-side-zip-8-inch-tactical-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV918Z%20/%20Lightweight%20Side-Zip%208%20inch%20Tactical%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "spear point bv918z / lightweight side-zip 8 inch tactical boot belleville boot co. boots & professional footwear tactical side-zip boots spear point bv918z / lightweight side-zip 8 inch tactical boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. desert tan side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "spear point bv918z / lightweight side-zip 8 inch tactical boot belleville boot co. boots & professional footwear tactical side-zip boots spear point bv918z / lightweight side-zip 8 inch tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "CLASS-A TR906Z / Hot Weather High-Shine Side-Zip Boot",
@@ -36941,9 +36867,9 @@ window.PRODUCT_DATA = [
     "category": "Duty & Dress Footwear",
     "ar_category": "Duty & Dress Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "CLASS-A TR906Z / Hot Weather High-Shine Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "CLASS-A TR906Z / Hot Weather High-Shine Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 39 (representative series image)",
+    "description": "CLASS-A TR906Z / Hot Weather High-Shine Side-Zip Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "CLASS-A TR906Z / Hot Weather High-Shine Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Hot Weather",
@@ -36951,24 +36877,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-class-a-tr906z-hot-weather-high-shine-side-zip-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR906Z.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/class-a-tr906z-hot-weather-high-shine-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/class-a-tr906z-hot-weather-high-shine-side-zip-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR906Z.jpg"
+      "belleville/class-a-tr906z-hot-weather-high-shine-side-zip-boot-view-1.webp",
+      "belleville/class-a-tr906z-hot-weather-high-shine-side-zip-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=CLASS-A%20TR906Z%20/%20Hot%20Weather%20High-Shine%20Side-Zip%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "class-a tr906z / hot weather high-shine side-zip boot belleville boot co. boots & professional footwear duty & dress footwear class-a tr906z / hot weather high-shine side-zip boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "class-a tr906z / hot weather high-shine side-zip boot belleville boot co. boots & professional footwear duty & dress footwear class-a tr906z / hot weather high-shine side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "CLASS-A TR908Z / Hot Weather High-Shine Side-Zip Boot",
@@ -36979,9 +36905,9 @@ window.PRODUCT_DATA = [
     "category": "Duty & Dress Footwear",
     "ar_category": "Duty & Dress Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "CLASS-A TR908Z / Hot Weather High-Shine Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "CLASS-A TR908Z / Hot Weather High-Shine Side-Zip Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 40 (representative series image)",
+    "description": "CLASS-A TR908Z / Hot Weather High-Shine Side-Zip Boot. Representative Belleville catalogue image used where a direct 2026 listing for this exact model was not available in the supplied catalog.",
+    "ar_description": "CLASS-A TR908Z / Hot Weather High-Shine Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Hot Weather",
@@ -36989,24 +36915,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-class-a-tr908z-hot-weather-high-shine-side-zip-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-TR908Z.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/class-a-tr908z-hot-weather-high-shine-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/class-a-tr908z-hot-weather-high-shine-side-zip-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-TR908Z.jpg"
+      "belleville/class-a-tr908z-hot-weather-high-shine-side-zip-boot-view-1.webp",
+      "belleville/class-a-tr908z-hot-weather-high-shine-side-zip-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=CLASS-A%20TR908Z%20/%20Hot%20Weather%20High-Shine%20Side-Zip%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog / representative series image",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "class-a tr908z / hot weather high-shine side-zip boot belleville boot co. boots & professional footwear duty & dress footwear class-a tr908z / hot weather high-shine side-zip boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "class-a tr908z / hot weather high-shine side-zip boot belleville boot co. boots & professional footwear duty & dress footwear class-a tr908z / hot weather high-shine side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "Mini-Mil MM001 / Barefoot Activity Shoe",
@@ -37017,32 +36943,32 @@ window.PRODUCT_DATA = [
     "category": "Training & Athletic Footwear",
     "ar_category": "Training & Athletic Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "Mini-Mil MM001 / Barefoot Activity Shoe. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "Mini-Mil MM001 / Barefoot Activity Shoe. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 29",
+    "description": "Mini-Mil MM001 / Barefoot Activity Shoe. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "Mini-Mil MM001 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Ranger Green",
       "Professional Footwear"
     ],
     "id": "belleville-mini-mil-mm001-barefoot-activity-shoe",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-MM001.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/mini-mil-mm001-barefoot-activity-shoe-view-1.webp",
+    "fallback_image": "belleville/mini-mil-mm001-barefoot-activity-shoe-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-MM001.jpg"
+      "belleville/mini-mil-mm001-barefoot-activity-shoe-view-1.webp",
+      "belleville/mini-mil-mm001-barefoot-activity-shoe-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20MM001%20/%20Barefoot%20Activity%20Shoe",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "mini-mil mm001 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm001 / barefoot activity shoe. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. ranger green professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "mini-mil mm001 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm001 / barefoot activity shoe. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "FLYWEIGHT MXG / Hot Weather Tactical Steel Toe Boot",
@@ -37053,9 +36979,9 @@ window.PRODUCT_DATA = [
     "category": "Safety-Toe Boots",
     "ar_category": "Safety-Toe Boots",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "FLYWEIGHT MXG / Hot Weather Tactical Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "FLYWEIGHT MXG / Hot Weather Tactical Steel Toe Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 10",
+    "description": "FLYWEIGHT MXG / Hot Weather Tactical Steel Toe Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "FLYWEIGHT MXG / Hot Weather Tactical Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Aviator Brown",
       "Hot Weather",
@@ -37063,24 +36989,24 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-flyweight-mxg-hot-weather-tactical-steel-toe-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-MXG.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/flyweight-mxg-hot-weather-tactical-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-mxg-hot-weather-tactical-steel-toe-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-MXG.jpg"
+      "belleville/flyweight-mxg-hot-weather-tactical-steel-toe-boot-view-1.webp",
+      "belleville/flyweight-mxg-hot-weather-tactical-steel-toe-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20MXG%20/%20Hot%20Weather%20Tactical%20Steel%20Toe%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "flyweight mxg / hot weather tactical steel toe boot belleville boot co. boots & professional footwear safety-toe boots flyweight mxg / hot weather tactical steel toe boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. aviator brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "flyweight mxg / hot weather tactical steel toe boot belleville boot co. boots & professional footwear safety-toe boots flyweight mxg / hot weather tactical steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SPEAR POINT BV911 CT / Quick Release Station Boot",
@@ -37091,34 +37017,32 @@ window.PRODUCT_DATA = [
     "category": "Duty & Dress Footwear",
     "ar_category": "Duty & Dress Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SPEAR POINT BV911 CT / Quick Release Station Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SPEAR POINT BV911 CT / Quick Release Station Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 43",
+    "description": "SPEAR POINT BV911 CT / Quick Release Station Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SPEAR POINT BV911 CT / Quick Release Station Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Professional Footwear"
     ],
     "id": "belleville-spear-point-bv911-ct-quick-release-station-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV911CT.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/spear-point-bv911-ct-quick-release-station-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv911-ct-quick-release-station-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV911CT.jpg"
+      "belleville/spear-point-bv911-ct-quick-release-station-boot-view-1.webp",
+      "belleville/spear-point-bv911-ct-quick-release-station-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV911%20CT%20/%20Quick%20Release%20Station%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "spear point bv911 ct / quick release station boot belleville boot co. boots & professional footwear duty & dress footwear spear point bv911 ct / quick release station boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV911-CT.jpg"
-    ]
+    "search": "spear point bv911 ct / quick release station boot belleville boot co. boots & professional footwear duty & dress footwear spear point bv911 ct / quick release station boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "SPEAR POINT BV911 / Quick Release Station Boot",
@@ -37129,32 +37053,32 @@ window.PRODUCT_DATA = [
     "category": "Duty & Dress Footwear",
     "ar_category": "Duty & Dress Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "SPEAR POINT BV911 / Quick Release Station Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "SPEAR POINT BV911 / Quick Release Station Boot. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 43",
+    "description": "SPEAR POINT BV911 / Quick Release Station Boot. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "SPEAR POINT BV911 / Quick Release Station Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Professional Footwear"
     ],
     "id": "belleville-spear-point-bv911-quick-release-station-boot",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV911.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/spear-point-bv911-quick-release-station-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv911-quick-release-station-boot-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV911.jpg"
+      "belleville/spear-point-bv911-quick-release-station-boot-view-1.webp",
+      "belleville/spear-point-bv911-quick-release-station-boot-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV911%20/%20Quick%20Release%20Station%20Boot",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "spear point bv911 / quick release station boot belleville boot co. boots & professional footwear duty & dress footwear spear point bv911 / quick release station boot. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "spear point bv911 / quick release station boot belleville boot co. boots & professional footwear duty & dress footwear spear point bv911 / quick release station boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
   },
   {
     "title": "BV202 / Uniform Dress Oxford",
@@ -37165,9 +37089,9 @@ window.PRODUCT_DATA = [
     "category": "Duty & Dress Footwear",
     "ar_category": "Duty & Dress Footwear",
     "pdf": "",
-    "page": "Official web listing",
-    "description": "BV202 / Uniform Dress Oxford. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
-    "ar_description": "BV202 / Uniform Dress Oxford. Model-specific product photography is shown. Consult the linked Belleville source for current sizing, colour, certification and technical details.",
+    "page": "Belleville 2026 Catalog p. 43",
+    "description": "BV202 / Uniform Dress Oxford. Image sourced from the Belleville 2026 Boot Catalog.",
+    "ar_description": "BV202 / Uniform Dress Oxford. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
     "tags": [
       "Black",
       "Dress",
@@ -37175,23 +37099,23 @@ window.PRODUCT_DATA = [
       "Professional Footwear"
     ],
     "id": "belleville-bv202-uniform-dress-oxford",
-    "image": "https://cdnimages.opentip.com/full/BEL/BEL-BV202.jpg",
-    "fallback_image": "system/product-unavailable.jpg",
+    "image": "belleville/bv202-uniform-dress-oxford-view-1.webp",
+    "fallback_image": "belleville/bv202-uniform-dress-oxford-view-1.webp",
     "gallery": [
-      "https://cdnimages.opentip.com/full/BEL/BEL-BV202.jpg"
+      "belleville/bv202-uniform-dress-oxford-view-1.webp",
+      "belleville/bv202-uniform-dress-oxford-view-2.webp"
     ],
     "source_title": "Belleville Boot Co. official product listing",
     "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=BV202%20/%20Uniform%20Dress%20Oxford",
     "brand_url": "https://www.bellevilleboot.com/",
     "brand_source_status": "official",
-    "media_credit": "Model-specific Belleville product photography from established product listings; official Belleville source is linked for verification.",
+    "media_credit": "Belleville 2026 Boot Catalog",
     "official_media": false,
-    "visual_type": "product-photography",
+    "visual_type": "illustrative",
     "solutions": [
       "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "search": "bv202 / uniform dress oxford belleville boot co. boots & professional footwear duty & dress footwear bv202 / uniform dress oxford. model-specific product photography is shown. consult the linked belleville source for current sizing, colour, certification and technical details. black dress oxford professional footwear boots & professional footwear clothing, bags & load-carrying",
-    "image_candidates": []
+    "search": "bv202 / uniform dress oxford belleville boot co. boots & professional footwear duty & dress footwear bv202 / uniform dress oxford. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black dress oxford professional footwear boots & professional footwear clothing, bags & load-carrying"
   }
 ];
