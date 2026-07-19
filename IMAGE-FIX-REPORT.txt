@@ -1,0 +1,30 @@
+Dira Al Mustaqbal — Proper Product Images Fix
+
+WHAT THIS PATCH CORRECTS
+
+1. Firearms
+- Restores every missing local HS Produkt image and catalogue gallery asset.
+- Restores every missing local Zastava Arms image and catalogue gallery asset.
+- Replaces the broken M12, M12M and M12 Black Spear cards with model-specific imagery from the official Zastava 2024 military catalogue.
+- Adds a final neutral fallback so an unavailable image can no longer display a broken filename/alt-text box.
+
+2. Belleville footwear
+- Removes the generated illustrative boot renderings from all 92 Belleville product records.
+- Uses model-specific product-photography URLs based on the Belleville model number.
+- Tries an alternate model-code URL where more than one filename form is possible.
+- Uses the neutral Product Unavailable image only when all real product-photography sources fail.
+- Removes the old descriptions claiming that locally created drawings are being displayed.
+
+3. Product browser
+- Adds an image-source queue: primary image -> alternate model image -> specified fallback -> neutral fallback.
+- Supports remote product photography without breaking local catalogue images.
+- Uses a no-referrer image policy to improve compatibility with external product-image CDNs.
+- Corrects the modal label to say Model-specific product photography instead of Illustrative catalogue render.
+
+VALIDATION
+- product-data.js passes Node syntax validation.
+- products.js passes Node syntax validation.
+- product-data.js parses successfully as 1,111 product records.
+- All local product image and gallery references now exist: 0 missing local references.
+- 75 HS Produkt WebP assets restored.
+- 89 Zastava WebP assets present, including the corrected M12 family images.
