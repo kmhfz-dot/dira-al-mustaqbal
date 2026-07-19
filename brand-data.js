@@ -8,7 +8,7 @@ window.BRAND_DATA = [
     "product_count": 12,
     "sectors": [
       "Hunting Gear & Guns",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "image": "exact/armshot-defence-firearms-collection-1-p12.webp",
     "fallback_image": "exact/armshot-defence-firearms-collection-1-p12.webp"
@@ -23,7 +23,7 @@ window.BRAND_DATA = [
     "sectors": [
       "Clothing, Bags & Load-Carrying",
       "Hunting Gear & Guns",
-      "Small Arms & Ammunition",
+      "Military & Law-Enforcement Firearms",
       "Tactical & Protective"
     ],
     "image": "aslon-masks-and-protective-equipment-p13-left.jpg",
@@ -37,6 +37,7 @@ window.BRAND_DATA = [
     "description": "Small arms, ammunition and defence systems associated with MKE product catalogues.",
     "product_count": 111,
     "sectors": [
+      "Military & Law-Enforcement Firearms",
       "Small Arms & Ammunition"
     ],
     "image": "aslon-pyrotechnics-p19-full.jpg",
@@ -56,17 +57,33 @@ window.BRAND_DATA = [
     "fallback_image": "exact/atn-binox-4k-day-night-binocular-p7.webp"
   },
   {
-    "name": "CXXC",
-    "url": "https://www.chinaxinxingexim.com/",
+    "name": "Belleville Boot Co.",
+    "url": "https://www.bellevilleboot.com/",
     "status": "official",
-    "country": "China",
-    "description": "Military and police logistics, clothing, equipment and protected solutions.",
-    "product_count": 38,
+    "country": "United States",
+    "description": "Military, tactical, duty, aviation, safety-toe, training and public-safety footwear.",
+    "product_count": 92,
     "sectors": [
+      "Boots & Professional Footwear",
       "Clothing, Bags & Load-Carrying"
     ],
-    "image": "v15/cxxc-cxxca001-italian-camo.webp",
-    "fallback_image": "v15/cxxc-cxxca001-italian-camo.webp"
+    "image": "belleville/flyweight-c320-ultra-light-assault-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-c320-ultra-light-assault-boot-view-1.webp"
+  },
+  {
+    "name": "Blood-wing",
+    "url": "https://www.blood-wing.com",
+    "status": "official",
+    "country": "China",
+    "description": "AI-enabled intelligent soldier systems, robotics, exoskeletons and remote platforms.",
+    "product_count": 5,
+    "sectors": [
+      "Land & Vehicle Systems",
+      "Tactical & Protective",
+      "Unmanned & Surveillance"
+    ],
+    "image": "final-bloodwing/mars-military-augmented-reality-system.webp",
+    "fallback_image": "final-bloodwing/mars-military-augmented-reality-system.webp"
   },
   {
     "name": "China Xinxing Xiamen",
@@ -80,6 +97,19 @@ window.BRAND_DATA = [
     ],
     "image": "cxxm-eod/cxxm-bomb-container-trailer.webp",
     "fallback_image": "cxxm-eod/cxxm-bomb-container-trailer.webp"
+  },
+  {
+    "name": "CXXC",
+    "url": "https://www.chinaxinxingexim.com/",
+    "status": "official",
+    "country": "China",
+    "description": "Military and police logistics, clothing, equipment and protected solutions.",
+    "product_count": 38,
+    "sectors": [
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "image": "v15/cxxc-cxxca001-italian-camo.webp",
+    "fallback_image": "v15/cxxc-cxxca001-italian-camo.webp"
   },
   {
     "name": "Def-Tec Defense",
@@ -190,6 +220,21 @@ window.BRAND_DATA = [
     "fallback_image": "exact/effecto-px-5-pcp-air-rifle-p4.webp"
   },
   {
+    "name": "EMN Defence",
+    "url": "https://emndefence.com",
+    "status": "official",
+    "country": "Türkiye",
+    "description": "Protective equipment, small arms, optics, vehicles, UAVs and military systems.",
+    "product_count": 13,
+    "sectors": [
+      "EMS & Medical Response",
+      "Military & Law-Enforcement Firearms",
+      "Scopes, Thermal & Night Vision"
+    ],
+    "image": "final-emn/ess5001-9-19-mm-carbine.webp",
+    "fallback_image": "final-emn/ess5001-9-19-mm-carbine.webp"
+  },
+  {
     "name": "Flightwin",
     "url": null,
     "status": "catalogue",
@@ -234,6 +279,19 @@ window.BRAND_DATA = [
     "fallback_image": "vehicle-jpg/hope-wish-vehicle-mounted-thermal-camera.jpg"
   },
   {
+    "name": "HS Produkt",
+    "url": "https://www.hs-produkt.hr",
+    "status": "official",
+    "country": "Croatia",
+    "description": "Croatian manufacturer of pistols, bullpup rifles, carbines and launcher systems.",
+    "product_count": 33,
+    "sectors": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "image": "hs-produkt/hs-kuna-9mm.webp",
+    "fallback_image": "hs-produkt/hs-kuna-9mm.webp"
+  },
+  {
     "name": "Huglu",
     "url": "https://www.huglu.com.tr/",
     "status": "official",
@@ -245,19 +303,6 @@ window.BRAND_DATA = [
     ],
     "image": "exact/huglu-ovis-g2-long-range-rifle-p6.webp",
     "fallback_image": "exact/huglu-ovis-g2-long-range-rifle-p6.webp"
-  },
-  {
-    "name": "IZYAN MILTEX",
-    "url": "https://www.izyanmiltex.com/",
-    "status": "profile",
-    "country": "India",
-    "description": "Military textiles, tactical bags, pouches, belts, holsters and field equipment.",
-    "product_count": 13,
-    "sectors": [
-      "Clothing, Bags & Load-Carrying"
-    ],
-    "image": "izyan/izyan-tactical-belts-product.webp",
-    "fallback_image": "izyan/izyan-tactical-belts-product.webp"
   },
   {
     "name": "International Armored Group",
@@ -272,6 +317,19 @@ window.BRAND_DATA = [
     ],
     "image": "vehicle-jpg/iag-armored-anti-riot-truck.jpg",
     "fallback_image": "vehicle-jpg/iag-armored-anti-riot-truck.jpg"
+  },
+  {
+    "name": "IZYAN MILTEX",
+    "url": "https://www.izyanmiltex.com/",
+    "status": "profile",
+    "country": "India",
+    "description": "Military textiles, tactical bags, pouches, belts, holsters and field equipment.",
+    "product_count": 13,
+    "sectors": [
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "image": "izyan/izyan-tactical-belts-product.webp",
+    "fallback_image": "izyan/izyan-tactical-belts-product.webp"
   },
   {
     "name": "JIU PAI",
@@ -342,19 +400,6 @@ window.BRAND_DATA = [
     "fallback_image": "kong-tactical-catalogue-p9-full.jpg"
   },
   {
-    "name": "LOMAH Target",
-    "url": "https://www.lomah-target.com/",
-    "status": "official",
-    "country": "China",
-    "description": "Electronic hit-location and live-fire target reporting systems.",
-    "product_count": 9,
-    "sectors": [
-      "Training Systems"
-    ],
-    "image": "final-training/fny-kj-021-h-bar-pop-up-target-system.webp",
-    "fallback_image": "final-training/fny-kj-021-h-bar-pop-up-target-system.webp"
-  },
-  {
     "name": "Leonardo",
     "url": "https://www.leonardo.com/en/",
     "status": "official",
@@ -369,6 +414,45 @@ window.BRAND_DATA = [
     ],
     "image": "vehicle-jpg/p312-colibri-fire-control-system.jpg",
     "fallback_image": "vehicle-jpg/p312-colibri-fire-control-system.jpg"
+  },
+  {
+    "name": "LOMAH Target",
+    "url": "https://www.lomah-target.com/",
+    "status": "official",
+    "country": "China",
+    "description": "Electronic hit-location and live-fire target reporting systems.",
+    "product_count": 9,
+    "sectors": [
+      "Training Systems"
+    ],
+    "image": "final-training/fny-kj-021-h-bar-pop-up-target-system.webp",
+    "fallback_image": "final-training/fny-kj-021-h-bar-pop-up-target-system.webp"
+  },
+  {
+    "name": "Military Series Cases",
+    "url": null,
+    "status": "catalogue",
+    "country": "Türkiye",
+    "description": "Protective weapon, pistol and equipment transport cases.",
+    "product_count": 32,
+    "sectors": [
+      "Hunting Gear & Guns"
+    ],
+    "image": "exact/1080-economy-gun-case-p14.webp",
+    "fallback_image": "exact/1080-economy-gun-case-p14.webp"
+  },
+  {
+    "name": "Milspec Plastics",
+    "url": "https://www.milspecplastics.com/",
+    "status": "official",
+    "country": "USA",
+    "description": "Cobra Cuffs disposable restraints and related law-enforcement products.",
+    "product_count": 1,
+    "sectors": [
+      "Law Enforcement & Evidence"
+    ],
+    "image": "supplied/cobra-cuffs-advantage.jpg",
+    "fallback_image": "supplied/cobra-cuffs-advantage.jpg"
   },
   {
     "name": "MKU",
@@ -413,32 +497,6 @@ window.BRAND_DATA = [
     ],
     "image": "exact/mohoc-camera-accessories-collection-p17.webp",
     "fallback_image": "exact/mohoc-camera-accessories-collection-p17.webp"
-  },
-  {
-    "name": "Military Series Cases",
-    "url": null,
-    "status": "catalogue",
-    "country": "Türkiye",
-    "description": "Protective weapon, pistol and equipment transport cases.",
-    "product_count": 32,
-    "sectors": [
-      "Hunting Gear & Guns"
-    ],
-    "image": "exact/1080-economy-gun-case-p14.webp",
-    "fallback_image": "exact/1080-economy-gun-case-p14.webp"
-  },
-  {
-    "name": "Milspec Plastics",
-    "url": "https://www.milspecplastics.com/",
-    "status": "official",
-    "country": "USA",
-    "description": "Cobra Cuffs disposable restraints and related law-enforcement products.",
-    "product_count": 1,
-    "sectors": [
-      "Law Enforcement & Evidence"
-    ],
-    "image": "supplied/cobra-cuffs-advantage.jpg",
-    "fallback_image": "supplied/cobra-cuffs-advantage.jpg"
   },
   {
     "name": "Outdoor Sight",
@@ -591,6 +649,19 @@ window.BRAND_DATA = [
     "fallback_image": "yf-protector-catalogue-p11-full.jpg"
   },
   {
+    "name": "Zastava Arms",
+    "url": "https://www.zastava-arms.rs",
+    "status": "official",
+    "country": "Serbia",
+    "description": "Serbian manufacturer of military rifles, precision rifles, machine guns, launchers and pistols.",
+    "product_count": 37,
+    "sectors": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "image": "zastava/mcs-m19.webp",
+    "fallback_image": "zastava/mcs-m19.webp"
+  },
+  {
     "name": "Zhongyi Aviation",
     "url": "https://www.zhz.com/en",
     "status": "profile",
@@ -602,35 +673,5 @@ window.BRAND_DATA = [
     ],
     "image": "v15/d10-inspection-uav.webp",
     "fallback_image": "v15/d10-inspection-uav.webp"
-  },
-  {
-    "name": "Blood-wing",
-    "url": "https://www.blood-wing.com",
-    "status": "official",
-    "country": "China",
-    "description": "AI-enabled intelligent soldier systems, robotics, exoskeletons and remote platforms.",
-    "product_count": 5,
-    "sectors": [
-      "Land & Vehicle Systems",
-      "Tactical & Protective",
-      "Unmanned & Surveillance"
-    ],
-    "image": "final-bloodwing/mars-military-augmented-reality-system.webp",
-    "fallback_image": "final-bloodwing/mars-military-augmented-reality-system.webp"
-  },
-  {
-    "name": "EMN Defence",
-    "url": "https://emndefence.com",
-    "status": "official",
-    "country": "Türkiye",
-    "description": "Protective equipment, small arms, optics, vehicles, UAVs and military systems.",
-    "product_count": 13,
-    "sectors": [
-      "EMS & Medical Response",
-      "Scopes, Thermal & Night Vision",
-      "Small Arms & Ammunition"
-    ],
-    "image": "final-emn/ess5001-9-19-mm-carbine.webp",
-    "fallback_image": "final-emn/ess5001-9-19-mm-carbine.webp"
   }
 ];

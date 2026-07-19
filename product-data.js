@@ -268,12 +268,13 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p17-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "vehicle-mounted thermal camera hope-wish technologies land & vehicle systems vehicle surveillance systems vehicle-mounted day/night thermal surveillance camera for patrol, intrusion detection and long-range observation. land & vehicle systems vehicles & protected mobility scopes, thermal & night vision communications & surveillance",
+    "search": "vehicle-mounted thermal camera hope-wish technologies land & vehicle systems vehicle surveillance systems vehicle-mounted day/night thermal surveillance camera for patrol, intrusion detection and long-range observation. land & vehicle systems vehicles & protected mobility scopes, thermal & night vision communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Land & Vehicle Systems",
       "Vehicles & Protected Mobility",
       "Scopes, Thermal & Night Vision",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "vehicle-jpg/hope-wish-vehicle-mounted-thermal-camera.jpg",
     "brand_url": "https://www.irhpws.com/",
@@ -1918,9 +1919,10 @@ window.PRODUCT_DATA = [
     ],
     "source_title": "MOHOC Tactical Helmet Cameras & Video Transmitters",
     "featured": false,
-    "search": "mohoc camera accessories collection mohoc tactical & protective camera accessories rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective",
+    "search": "mohoc camera accessories collection mohoc tactical & protective camera accessories rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
-      "Tactical & Protective"
+      "Tactical & Protective",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "exact/mohoc-camera-accessories-collection-p17.webp",
     "brand_url": "https://www.mohoc.com/",
@@ -1952,9 +1954,10 @@ window.PRODUCT_DATA = [
     ],
     "source_title": "MOHOC Tactical Helmet Cameras & Video Transmitters",
     "featured": false,
-    "search": "mohoc camera mounting accessories mohoc tactical & protective camera accessories rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective",
+    "search": "mohoc camera mounting accessories mohoc tactical & protective camera accessories rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
-      "Tactical & Protective"
+      "Tactical & Protective",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "exact/mohoc-camera-mounting-accessories-p14.webp",
     "brand_url": "https://www.mohoc.com/",
@@ -1986,9 +1989,10 @@ window.PRODUCT_DATA = [
     ],
     "source_title": "MOHOC Tactical Helmet Cameras & Video Transmitters",
     "featured": false,
-    "search": "mohoc hardwire door mohoc tactical & protective camera accessories rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective",
+    "search": "mohoc hardwire door mohoc tactical & protective camera accessories rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
-      "Tactical & Protective"
+      "Tactical & Protective",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "exact/mohoc-hardwire-door-p15.webp",
     "brand_url": "https://www.mohoc.com/",
@@ -2020,9 +2024,10 @@ window.PRODUCT_DATA = [
     ],
     "source_title": "MOHOC Tactical Helmet Cameras & Video Transmitters",
     "featured": false,
-    "search": "mohoc k9 mount mohoc tactical & protective camera accessories rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective",
+    "search": "mohoc k9 mount mohoc tactical & protective camera accessories rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
-      "Tactical & Protective"
+      "Tactical & Protective",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "exact/mohoc-k9-mount-p16.webp",
     "brand_url": "https://www.mohoc.com/",
@@ -3820,10 +3825,11 @@ window.PRODUCT_DATA = [
     ],
     "source_title": "MOHOC Tactical Helmet Cameras & Video Transmitters",
     "featured": false,
-    "search": "mohoc ir tactical helmet camera mohoc tactical & protective tactical cameras rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective helmets & head protection",
+    "search": "mohoc ir tactical helmet camera mohoc tactical & protective tactical cameras rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective helmets & head protection Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Tactical & Protective",
-      "Helmets & Head Protection"
+      "Helmets & Head Protection",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "new/mohoc-ir-tactical-helmet-camera.webp",
     "brand_url": "https://www.mohoc.com/",
@@ -3862,10 +3868,11 @@ window.PRODUCT_DATA = [
     ],
     "source_title": "MOHOC Tactical Helmet Cameras & Video Transmitters",
     "featured": true,
-    "search": "mohoc tactical helmet camera mohoc tactical & protective tactical cameras rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective helmets & head protection",
+    "search": "mohoc tactical helmet camera mohoc tactical & protective tactical cameras rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective helmets & head protection Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Tactical & Protective",
-      "Helmets & Head Protection"
+      "Helmets & Head Protection",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "new/mohoc-tactical-helmet-camera.webp",
     "brand_url": "https://www.mohoc.com/",
@@ -3897,10 +3904,11 @@ window.PRODUCT_DATA = [
     ],
     "source_title": "MOHOC Tactical Helmet Cameras & Video Transmitters",
     "featured": false,
-    "search": "mohoc laso tactical video transmitter mohoc tactical & protective tactical video transmitters rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective communications & surveillance",
+    "search": "mohoc laso tactical video transmitter mohoc tactical & protective tactical video transmitters rugged tactical video equipment and field accessories designed for professional operational use. rugged low-profile tactical & protective communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Tactical & Protective",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "exact/mohoc-laso-tactical-video-transmitter-p10.webp",
     "brand_url": "https://www.mohoc.com/",
@@ -4580,8 +4588,8 @@ window.PRODUCT_DATA = [
     "title": "40 MM Multiple Grenade Launcher",
     "ar_title": "40 MM Multiple Grenade Launcher",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Grenade Launchers",
     "ar_category": "Grenade Launchers",
     "pdf": "aslon-small-arms.pdf",
@@ -4599,8 +4607,7 @@ window.PRODUCT_DATA = [
       "Grenade Launchers"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-40-mm-multiple-grenade-launcher.webp",
     "search": "40 mm multiple grenade launcher aslon small arms & ammunition grenade launchers 40 mm multiple grenade launcher. aslon grenade launchers small arms small arms & ammunition",
@@ -4614,8 +4621,8 @@ window.PRODUCT_DATA = [
     "title": "MKE 40GL",
     "ar_title": "MKE 40GL",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Grenade Launchers",
     "ar_category": "Grenade Launchers",
     "pdf": "aslon-small-arms.pdf",
@@ -4633,8 +4640,7 @@ window.PRODUCT_DATA = [
       "Grenade Launchers"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mke-40gl.webp",
     "search": "mke 40gl aslon small arms & ammunition grenade launchers 40 mm single-shot grenade launcher. aslon grenade launchers small arms small arms & ammunition",
@@ -4648,8 +4654,8 @@ window.PRODUCT_DATA = [
     "title": "OBA Automatic Grenade Launcher",
     "ar_title": "OBA Automatic Grenade Launcher",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Grenade Launchers",
     "ar_category": "Grenade Launchers",
     "pdf": "aslon-small-arms.pdf",
@@ -4667,8 +4673,7 @@ window.PRODUCT_DATA = [
       "Grenade Launchers"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-oba-automatic-grenade-launcher.webp",
     "search": "oba automatic grenade launcher aslon small arms & ammunition grenade launchers 40 mm automatic grenade launcher. aslon grenade launchers small arms small arms & ammunition",
@@ -4682,8 +4687,8 @@ window.PRODUCT_DATA = [
     "title": "ST2-T40 G3",
     "ar_title": "ST2-T40 G3",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Grenade Launchers",
     "ar_category": "Grenade Launchers",
     "pdf": "aslon-small-arms.pdf",
@@ -4701,8 +4706,7 @@ window.PRODUCT_DATA = [
       "Grenade Launchers"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-st2-t40-g3.webp",
     "search": "st2-t40 g3 aslon small arms & ammunition grenade launchers 40 mm under-barrel grenade launcher for g3-platform rifles. aslon grenade launchers small arms small arms & ammunition",
@@ -4716,8 +4720,8 @@ window.PRODUCT_DATA = [
     "title": "ST5-T40 HK33E",
     "ar_title": "ST5-T40 HK33E",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Grenade Launchers",
     "ar_category": "Grenade Launchers",
     "pdf": "aslon-small-arms.pdf",
@@ -4735,8 +4739,7 @@ window.PRODUCT_DATA = [
       "Grenade Launchers"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-st5-t40-hk33e.webp",
     "search": "st5-t40 hk33e aslon small arms & ammunition grenade launchers 40 mm under-barrel grenade launcher for hk33e-platform rifles. aslon grenade launchers small arms small arms & ammunition",
@@ -4749,8 +4752,8 @@ window.PRODUCT_DATA = [
     "title": "40 mm Multiple Grenade Launcher",
     "ar_title": "40 mm Multiple Grenade Launcher",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Grenade Launchers",
     "ar_category": "قاذفات القنابل",
     "pdf": "aslon-small-arms.pdf",
@@ -4766,8 +4769,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p32-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p32-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -4780,8 +4782,8 @@ window.PRODUCT_DATA = [
     "title": "MKE 40GL",
     "ar_title": "MKE 40GL",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Grenade Launchers",
     "ar_category": "قاذفات القنابل",
     "pdf": "aslon-small-arms.pdf",
@@ -4797,8 +4799,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p31-full.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p31-full.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -4811,8 +4812,8 @@ window.PRODUCT_DATA = [
     "title": "OBA Automatic Grenade Launcher",
     "ar_title": "OBA Automatic Grenade Launcher",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Grenade Launchers",
     "ar_category": "قاذفات القنابل",
     "pdf": "aslon-small-arms.pdf",
@@ -4828,8 +4829,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p32-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p32-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -4842,8 +4842,8 @@ window.PRODUCT_DATA = [
     "title": "ST2-T40 G3",
     "ar_title": "ST2-T40 G3",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Grenade Launchers",
     "ar_category": "قاذفات القنابل",
     "pdf": "aslon-small-arms.pdf",
@@ -4859,8 +4859,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p30-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p30-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -4873,8 +4872,8 @@ window.PRODUCT_DATA = [
     "title": "ST5-T40 HK33E",
     "ar_title": "ST5-T40 HK33E",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Grenade Launchers",
     "ar_category": "قاذفات القنابل",
     "pdf": "aslon-small-arms.pdf",
@@ -4890,8 +4889,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p30-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p30-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -4905,8 +4903,8 @@ window.PRODUCT_DATA = [
     "title": "G3",
     "ar_title": "G3",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -4924,8 +4922,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-g3.webp",
     "search": "g3 aslon small arms & ammunition infantry rifles 7.62×51 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -4939,8 +4936,8 @@ window.PRODUCT_DATA = [
     "title": "HK-33E",
     "ar_title": "HK-33E",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -4958,8 +4955,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-hk-33e.webp",
     "search": "hk-33e aslon small arms & ammunition infantry rifles 5.56×45 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -4973,8 +4969,8 @@ window.PRODUCT_DATA = [
     "title": "KAAN 717",
     "ar_title": "KAAN 717",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -4992,8 +4988,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-kaan-717.webp",
     "search": "kaan 717 aslon small arms & ammunition infantry rifles compact 7.62×51 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5007,8 +5002,8 @@ window.PRODUCT_DATA = [
     "title": "MKE-739 A1",
     "ar_title": "MKE-739 A1",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5026,8 +5021,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mke-739-a1.webp",
     "search": "mke-739 a1 aslon small arms & ammunition infantry rifles 7.62×39 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5041,8 +5035,8 @@ window.PRODUCT_DATA = [
     "title": "MKE-739K A1",
     "ar_title": "MKE-739K A1",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5060,8 +5054,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mke-739k-a1.webp",
     "search": "mke-739k a1 aslon small arms & ammunition infantry rifles compact 7.62×39 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5075,8 +5068,8 @@ window.PRODUCT_DATA = [
     "title": "MKE-739M A1",
     "ar_title": "MKE-739M A1",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5094,8 +5087,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mke-739m-a1.webp",
     "search": "mke-739m a1 aslon small arms & ammunition infantry rifles short 7.62×39 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5109,8 +5101,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55",
     "ar_title": "MPT-55",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5128,8 +5120,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mpt-55.webp",
     "search": "mpt-55 aslon small arms & ammunition infantry rifles 5.56×45 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5143,8 +5134,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55C A1",
     "ar_title": "MPT-55C A1",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5163,8 +5154,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mpt-55c-a1.webp",
     "search": "mpt-55c a1 aslon small arms & ammunition infantry rifles compact 5.56×45 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5178,8 +5168,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55K",
     "ar_title": "MPT-55K",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5198,8 +5188,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mpt-55k.webp",
     "search": "mpt-55k aslon small arms & ammunition infantry rifles compact 5.56×45 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5213,8 +5202,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55K1 A1",
     "ar_title": "MPT-55K1 A1",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5232,8 +5221,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mpt-55k1-a1.webp",
     "search": "mpt-55k1 a1 aslon small arms & ammunition infantry rifles compact 5.56×45 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5247,8 +5235,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55K2 A1",
     "ar_title": "MPT-55K2 A1",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5266,8 +5254,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mpt-55k2-a1.webp",
     "search": "mpt-55k2 a1 aslon small arms & ammunition infantry rifles short-barrel 5.56×45 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5281,8 +5268,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55M A1",
     "ar_title": "MPT-55M A1",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5301,8 +5288,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mpt-55m-a1.webp",
     "search": "mpt-55m a1 aslon small arms & ammunition infantry rifles 5.56×45 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5316,8 +5302,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-76",
     "ar_title": "MPT-76",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5335,8 +5321,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mpt-76.webp",
     "search": "mpt-76 aslon small arms & ammunition infantry rifles 7.62×51 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5350,8 +5335,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-76MH",
     "ar_title": "MPT-76MH",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5369,8 +5354,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mpt-76mh.webp",
     "search": "mpt-76mh aslon small arms & ammunition infantry rifles 7.62×51 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5384,8 +5368,8 @@ window.PRODUCT_DATA = [
     "title": "T-50",
     "ar_title": "T-50",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5403,8 +5387,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-t-50.webp",
     "search": "t-50 aslon small arms & ammunition infantry rifles 5.56×45 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5418,8 +5401,8 @@ window.PRODUCT_DATA = [
     "title": "TLS-571",
     "ar_title": "TLS-571",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "Infantry Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -5438,8 +5421,7 @@ window.PRODUCT_DATA = [
       "Infantry Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-tls-571.webp",
     "search": "tls-571 aslon small arms & ammunition infantry rifles 5.56×45 mm automatic infantry rifle. aslon infantry rifles small arms small arms & ammunition",
@@ -5452,8 +5434,8 @@ window.PRODUCT_DATA = [
     "title": "G3",
     "ar_title": "G3",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5469,8 +5451,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p6-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p6-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5483,8 +5464,8 @@ window.PRODUCT_DATA = [
     "title": "HK-33E",
     "ar_title": "HK-33E",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5500,8 +5481,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p14-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p14-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5514,8 +5494,8 @@ window.PRODUCT_DATA = [
     "title": "KAAN 717",
     "ar_title": "KAAN 717",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5531,8 +5511,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p5-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p5-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5545,8 +5524,8 @@ window.PRODUCT_DATA = [
     "title": "MKE-739 A1",
     "ar_title": "MKE-739 A1",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5562,8 +5541,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p6-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p6-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5576,8 +5554,8 @@ window.PRODUCT_DATA = [
     "title": "MKE-739K A1",
     "ar_title": "MKE-739K A1",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5593,8 +5571,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p7-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p7-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5607,8 +5584,8 @@ window.PRODUCT_DATA = [
     "title": "MKE-739M A1",
     "ar_title": "MKE-739M A1",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5624,8 +5601,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p7-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p7-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5638,8 +5614,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55",
     "ar_title": "MPT-55",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5655,8 +5631,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p8-full.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p8-full.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5669,8 +5644,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55C A1",
     "ar_title": "MPT-55C A1",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5686,8 +5661,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p12-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p12-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5700,8 +5674,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55K",
     "ar_title": "MPT-55K",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5717,8 +5691,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p9-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p9-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5731,8 +5704,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55K1 A1",
     "ar_title": "MPT-55K1 A1",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5748,8 +5721,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p11-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p11-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5762,8 +5734,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55K2 A1",
     "ar_title": "MPT-55K2 A1",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5779,8 +5751,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p11-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p11-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5793,8 +5764,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-55M A1",
     "ar_title": "MPT-55M A1",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5810,8 +5781,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p12-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p12-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5824,8 +5794,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-76",
     "ar_title": "MPT-76",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5841,8 +5811,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p5-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p5-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5855,8 +5824,8 @@ window.PRODUCT_DATA = [
     "title": "MPT-76MH",
     "ar_title": "MPT-76MH",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5872,8 +5841,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p4-full.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p4-full.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5886,8 +5854,8 @@ window.PRODUCT_DATA = [
     "title": "T-50",
     "ar_title": "T-50",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5903,8 +5871,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p14-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p14-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5917,8 +5884,8 @@ window.PRODUCT_DATA = [
     "title": "TLS-571",
     "ar_title": "TLS-571",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Infantry Rifles",
     "ar_category": "بنادق المشاة",
     "pdf": "aslon-small-arms.pdf",
@@ -5934,8 +5901,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p9-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p9-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -5949,8 +5915,8 @@ window.PRODUCT_DATA = [
     "title": "MMT-76",
     "ar_title": "MMT-76",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Machine Guns",
     "ar_category": "Machine Guns",
     "pdf": "aslon-small-arms.pdf",
@@ -5969,8 +5935,7 @@ window.PRODUCT_DATA = [
       "Machine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mmt-76.webp",
     "search": "mmt-76 aslon small arms & ammunition machine guns 7.62×51 mm modern machine gun. aslon machine guns small arms small arms & ammunition",
@@ -5984,8 +5949,8 @@ window.PRODUCT_DATA = [
     "title": "MT12-QCB",
     "ar_title": "MT12-QCB",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Machine Guns",
     "ar_category": "Machine Guns",
     "pdf": "aslon-small-arms.pdf",
@@ -6004,8 +5969,7 @@ window.PRODUCT_DATA = [
       "Machine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mt12-qcb.webp",
     "search": "mt12-qcb aslon small arms & ammunition machine guns 12.7×99 mm heavy machine gun. aslon machine guns small arms small arms & ammunition",
@@ -6019,8 +5983,8 @@ window.PRODUCT_DATA = [
     "title": "PMT-76/57A",
     "ar_title": "PMT-76/57A",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Machine Guns",
     "ar_category": "Machine Guns",
     "pdf": "aslon-small-arms.pdf",
@@ -6039,8 +6003,7 @@ window.PRODUCT_DATA = [
       "Machine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-pmt-76-57a.webp",
     "search": "pmt-76/57a aslon small arms & ammunition machine guns 7.62×51 mm general-purpose machine gun. aslon machine guns small arms small arms & ammunition",
@@ -6054,8 +6017,8 @@ window.PRODUCT_DATA = [
     "title": "PMT-76T/57A",
     "ar_title": "PMT-76T/57A",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Machine Guns",
     "ar_category": "Machine Guns",
     "pdf": "aslon-small-arms.pdf",
@@ -6074,8 +6037,7 @@ window.PRODUCT_DATA = [
       "Machine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-pmt-76t-57a.webp",
     "search": "pmt-76t/57a aslon small arms & ammunition machine guns 7.62×51 mm general-purpose machine gun. aslon machine guns small arms small arms & ammunition",
@@ -6089,8 +6051,8 @@ window.PRODUCT_DATA = [
     "title": "PMT-76Z/57A",
     "ar_title": "PMT-76Z/57A",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Machine Guns",
     "ar_category": "Machine Guns",
     "pdf": "aslon-small-arms.pdf",
@@ -6109,8 +6071,7 @@ window.PRODUCT_DATA = [
       "Machine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-pmt-76z-57a.webp",
     "search": "pmt-76z/57a aslon small arms & ammunition machine guns 7.62×51 mm general-purpose machine gun. aslon machine guns small arms small arms & ammunition",
@@ -6123,8 +6084,8 @@ window.PRODUCT_DATA = [
     "title": "MMT-76",
     "ar_title": "MMT-76",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Machine Guns",
     "ar_category": "الرشاشات",
     "pdf": "aslon-small-arms.pdf",
@@ -6140,8 +6101,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p26-full.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p26-full.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -6154,8 +6114,8 @@ window.PRODUCT_DATA = [
     "title": "MT12-QCB",
     "ar_title": "MT12-QCB",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Machine Guns",
     "ar_category": "الرشاشات",
     "pdf": "aslon-small-arms.pdf",
@@ -6171,8 +6131,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p28-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p28-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -6185,8 +6144,8 @@ window.PRODUCT_DATA = [
     "title": "PMT-76/57A",
     "ar_title": "PMT-76/57A",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Machine Guns",
     "ar_category": "الرشاشات",
     "pdf": "aslon-small-arms.pdf",
@@ -6202,8 +6161,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p27-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p27-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -6216,8 +6174,8 @@ window.PRODUCT_DATA = [
     "title": "PMT-76T/57A",
     "ar_title": "PMT-76T/57A",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Machine Guns",
     "ar_category": "الرشاشات",
     "pdf": "aslon-small-arms.pdf",
@@ -6233,8 +6191,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p27-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p27-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -6247,8 +6204,8 @@ window.PRODUCT_DATA = [
     "title": "PMT-76Z/57A",
     "ar_title": "PMT-76Z/57A",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Machine Guns",
     "ar_category": "الرشاشات",
     "pdf": "aslon-small-arms.pdf",
@@ -6264,8 +6221,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p28-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p28-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -7391,8 +7347,8 @@ window.PRODUCT_DATA = [
     "title": "BORA-12",
     "ar_title": "BORA-12",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "Sniper & Precision Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -7411,8 +7367,7 @@ window.PRODUCT_DATA = [
       "Sniper & Precision Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-bora-12.webp",
     "search": "bora-12 aslon small arms & ammunition sniper & precision rifles 7.62×51 mm precision sniper rifle. aslon sniper & precision rifles small arms small arms & ammunition",
@@ -7426,8 +7381,8 @@ window.PRODUCT_DATA = [
     "title": "BORA-12 A1",
     "ar_title": "BORA-12 A1",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "Sniper & Precision Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -7446,8 +7401,7 @@ window.PRODUCT_DATA = [
       "Sniper & Precision Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-bora-12-a1.webp",
     "search": "bora-12 a1 aslon small arms & ammunition sniper & precision rifles 7.62×51 mm precision sniper rifle. aslon sniper & precision rifles small arms small arms & ammunition",
@@ -7461,8 +7415,8 @@ window.PRODUCT_DATA = [
     "title": "KN-12",
     "ar_title": "KN-12",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "Sniper & Precision Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -7481,8 +7435,7 @@ window.PRODUCT_DATA = [
       "Sniper & Precision Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-kn-12.webp",
     "search": "kn-12 aslon small arms & ammunition sniper & precision rifles multi-caliber precision sniper rifle. aslon sniper & precision rifles small arms small arms & ammunition",
@@ -7496,8 +7449,8 @@ window.PRODUCT_DATA = [
     "title": "KNT-76",
     "ar_title": "KNT-76",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "Sniper & Precision Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -7515,8 +7468,7 @@ window.PRODUCT_DATA = [
       "Sniper & Precision Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-knt-76.webp",
     "search": "knt-76 aslon small arms & ammunition sniper & precision rifles 7.62×51 mm semi-automatic sniper rifle. aslon sniper & precision rifles small arms small arms & ammunition",
@@ -7530,8 +7482,8 @@ window.PRODUCT_DATA = [
     "title": "KNT-76 A1",
     "ar_title": "KNT-76 A1",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "Sniper & Precision Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -7549,8 +7501,7 @@ window.PRODUCT_DATA = [
       "Sniper & Precision Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-knt-76-a1.webp",
     "search": "knt-76 a1 aslon small arms & ammunition sniper & precision rifles 7.62×51 mm semi-automatic sniper rifle. aslon sniper & precision rifles small arms small arms & ammunition",
@@ -7564,8 +7515,8 @@ window.PRODUCT_DATA = [
     "title": "KNT-76J",
     "ar_title": "KNT-76J",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "Sniper & Precision Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -7583,8 +7534,7 @@ window.PRODUCT_DATA = [
       "Sniper & Precision Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-knt-76j.webp",
     "search": "knt-76j aslon small arms & ammunition sniper & precision rifles 7.62×51 mm semi-automatic sniper rifle. aslon sniper & precision rifles small arms small arms & ammunition",
@@ -7598,8 +7548,8 @@ window.PRODUCT_DATA = [
     "title": "KNT-859",
     "ar_title": "KNT-859",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "Sniper & Precision Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -7617,8 +7567,7 @@ window.PRODUCT_DATA = [
       "Sniper & Precision Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-knt-859.webp",
     "search": "knt-859 aslon small arms & ammunition sniper & precision rifles 8.59×70 mm semi-automatic sniper rifle. aslon sniper & precision rifles small arms small arms & ammunition",
@@ -7632,8 +7581,8 @@ window.PRODUCT_DATA = [
     "title": "MAM-15",
     "ar_title": "MAM-15",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "Sniper & Precision Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -7652,8 +7601,7 @@ window.PRODUCT_DATA = [
       "Sniper & Precision Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mam-15.webp",
     "search": "mam-15 aslon small arms & ammunition sniper & precision rifles 12.7×99 mm anti-materiel sniper rifle. aslon sniper & precision rifles small arms small arms & ammunition",
@@ -7667,8 +7615,8 @@ window.PRODUCT_DATA = [
     "title": "MKE-408",
     "ar_title": "MKE-408",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "Sniper & Precision Rifles",
     "pdf": "aslon-small-arms.pdf",
@@ -7687,8 +7635,7 @@ window.PRODUCT_DATA = [
       "Sniper & Precision Rifles"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mke-408.webp",
     "search": "mke-408 aslon small arms & ammunition sniper & precision rifles long-range precision sniper rifle. aslon sniper & precision rifles small arms small arms & ammunition",
@@ -7701,8 +7648,8 @@ window.PRODUCT_DATA = [
     "title": "BORA-12",
     "ar_title": "BORA-12",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-small-arms.pdf",
@@ -7718,8 +7665,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p20-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p20-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -7732,8 +7678,8 @@ window.PRODUCT_DATA = [
     "title": "BORA-12 A1",
     "ar_title": "BORA-12 A1",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-small-arms.pdf",
@@ -7749,8 +7695,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p20-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p20-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -7763,8 +7708,8 @@ window.PRODUCT_DATA = [
     "title": "KANS 308",
     "ar_title": "KANS 308",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -7780,8 +7725,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p3-full.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p3-full.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -7794,8 +7738,8 @@ window.PRODUCT_DATA = [
     "title": "KN-12",
     "ar_title": "KN-12",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-small-arms.pdf",
@@ -7811,8 +7755,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p22-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p22-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -7825,8 +7768,8 @@ window.PRODUCT_DATA = [
     "title": "KNT-589",
     "ar_title": "KNT-589",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-small-arms.pdf",
@@ -7842,8 +7785,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p19-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p19-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -7856,8 +7798,8 @@ window.PRODUCT_DATA = [
     "title": "KNT-76",
     "ar_title": "KNT-76",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-small-arms.pdf",
@@ -7873,8 +7815,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p18-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p18-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -7887,8 +7828,8 @@ window.PRODUCT_DATA = [
     "title": "KNT-76 A1",
     "ar_title": "KNT-76 A1",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-small-arms.pdf",
@@ -7904,8 +7845,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p19-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p19-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -7918,8 +7858,8 @@ window.PRODUCT_DATA = [
     "title": "KNT-76J",
     "ar_title": "KNT-76J",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-small-arms.pdf",
@@ -7935,8 +7875,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p18-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p18-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -7949,8 +7888,8 @@ window.PRODUCT_DATA = [
     "title": "MAM-15",
     "ar_title": "MAM-15",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-small-arms.pdf",
@@ -7966,8 +7905,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p24-full.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p24-full.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -7980,8 +7918,8 @@ window.PRODUCT_DATA = [
     "title": "MKE T-41",
     "ar_title": "MKE T-41",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -7997,8 +7935,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p5-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p5-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8011,8 +7948,8 @@ window.PRODUCT_DATA = [
     "title": "MKE T-43",
     "ar_title": "MKE T-43",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8028,8 +7965,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p5-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p5-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8042,8 +7978,8 @@ window.PRODUCT_DATA = [
     "title": "MKE-408",
     "ar_title": "MKE-408",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Sniper & Precision Rifles",
     "ar_category": "بنادق القنص والدقة",
     "pdf": "aslon-small-arms.pdf",
@@ -8059,8 +7995,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p22-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p22-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8074,8 +8009,8 @@ window.PRODUCT_DATA = [
     "title": "AP5",
     "ar_title": "AP5",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8093,8 +8028,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-ap5.webp",
     "search": "ap5 aslon small arms & ammunition submachine guns 9×19 mm semi-automatic submachine-gun platform. aslon submachine guns small arms small arms & ammunition",
@@ -8108,8 +8042,8 @@ window.PRODUCT_DATA = [
     "title": "AP5-P",
     "ar_title": "AP5-P",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8127,8 +8061,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-ap5-p.webp",
     "search": "ap5-p aslon small arms & ammunition submachine guns compact 9×19 mm semi-automatic submachine-gun platform. aslon submachine guns small arms small arms & ammunition",
@@ -8142,8 +8075,8 @@ window.PRODUCT_DATA = [
     "title": "AP51",
     "ar_title": "AP51",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8161,8 +8094,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-ap51.webp",
     "search": "ap51 aslon small arms & ammunition submachine guns 7.62×51 mm semi-automatic platform. aslon submachine guns small arms small arms & ammunition",
@@ -8176,8 +8108,8 @@ window.PRODUCT_DATA = [
     "title": "AP53",
     "ar_title": "AP53",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8195,8 +8127,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-ap53.webp",
     "search": "ap53 aslon small arms & ammunition submachine guns 5.56×45 mm semi-automatic platform. aslon submachine guns small arms small arms & ammunition",
@@ -8210,8 +8141,8 @@ window.PRODUCT_DATA = [
     "title": "AP5SD",
     "ar_title": "AP5SD",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8229,8 +8160,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-ap5sd.webp",
     "search": "ap5sd aslon small arms & ammunition submachine guns suppressed 9×19 mm semi-automatic submachine-gun platform. aslon submachine guns small arms small arms & ammunition",
@@ -8244,8 +8174,8 @@ window.PRODUCT_DATA = [
     "title": "MKE T-94 A2",
     "ar_title": "MKE T-94 A2",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8263,8 +8193,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mke-t-94-a2.webp",
     "search": "mke t-94 a2 aslon small arms & ammunition submachine guns 9×19 mm semi-automatic submachine-gun platform. aslon submachine guns small arms small arms & ammunition",
@@ -8278,8 +8207,8 @@ window.PRODUCT_DATA = [
     "title": "MKE T-94 A3",
     "ar_title": "MKE T-94 A3",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8297,8 +8226,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mke-t-94-a3.webp",
     "search": "mke t-94 a3 aslon small arms & ammunition submachine guns 9×19 mm semi-automatic submachine-gun platform. aslon submachine guns small arms small arms & ammunition",
@@ -8312,8 +8240,8 @@ window.PRODUCT_DATA = [
     "title": "MKE T-94 K",
     "ar_title": "MKE T-94 K",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8331,8 +8259,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mke-t-94-k.webp",
     "search": "mke t-94 k aslon small arms & ammunition submachine guns compact 9×19 mm semi-automatic submachine-gun platform. aslon submachine guns small arms small arms & ammunition",
@@ -8346,8 +8273,8 @@ window.PRODUCT_DATA = [
     "title": "MKE T-94 SD",
     "ar_title": "MKE T-94 SD",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8365,8 +8292,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mke-t-94-sd.webp",
     "search": "mke t-94 sd aslon small arms & ammunition submachine guns 9×19 mm suppressed semi-automatic submachine-gun platform. aslon submachine guns small arms small arms & ammunition",
@@ -8380,8 +8306,8 @@ window.PRODUCT_DATA = [
     "title": "MOT-919",
     "ar_title": "MOT-919",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-small-arms.pdf",
@@ -8400,8 +8326,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mot-919.webp",
     "search": "mot-919 aslon small arms & ammunition submachine guns 9×19 mm submachine gun. aslon submachine guns small arms small arms & ammunition",
@@ -8415,8 +8340,8 @@ window.PRODUCT_DATA = [
     "title": "MOT-919C",
     "ar_title": "MOT-919C",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-small-arms.pdf",
@@ -8435,8 +8360,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mot-919c.webp",
     "search": "mot-919c aslon small arms & ammunition submachine guns compact 9×19 mm submachine gun. aslon submachine guns small arms small arms & ammunition",
@@ -8450,8 +8374,8 @@ window.PRODUCT_DATA = [
     "title": "MP5 A3",
     "ar_title": "MP5 A3",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-small-arms.pdf",
@@ -8469,8 +8393,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mp5-a3.webp",
     "search": "mp5 a3 aslon small arms & ammunition submachine guns 9×19 mm submachine gun with retractable stock. aslon submachine guns small arms small arms & ammunition",
@@ -8484,8 +8407,8 @@ window.PRODUCT_DATA = [
     "title": "MP5-K",
     "ar_title": "MP5-K",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-small-arms.pdf",
@@ -8503,8 +8426,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mp5-k.webp",
     "search": "mp5-k aslon small arms & ammunition submachine guns compact 9×19 mm submachine gun. aslon submachine guns small arms small arms & ammunition",
@@ -8518,8 +8440,8 @@ window.PRODUCT_DATA = [
     "title": "MTS3",
     "ar_title": "MTS3",
     "brand": "ASLON",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "Submachine Guns",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8537,8 +8459,7 @@ window.PRODUCT_DATA = [
       "Submachine Guns"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "final/aslon-firearm-mts3.webp",
     "search": "mts3 aslon small arms & ammunition submachine guns suppressed 9×19 mm semi-automatic platform. aslon submachine guns small arms small arms & ammunition",
@@ -8551,8 +8472,8 @@ window.PRODUCT_DATA = [
     "title": "AP5",
     "ar_title": "AP5",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8568,8 +8489,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p9-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p9-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8582,8 +8502,8 @@ window.PRODUCT_DATA = [
     "title": "AP5-P",
     "ar_title": "AP5-P",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8599,8 +8519,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p9-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p9-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8613,8 +8532,8 @@ window.PRODUCT_DATA = [
     "title": "AP51",
     "ar_title": "AP51",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8630,8 +8549,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p10-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p10-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8644,8 +8562,8 @@ window.PRODUCT_DATA = [
     "title": "AP53",
     "ar_title": "AP53",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8661,8 +8579,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p11-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p11-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8675,8 +8592,8 @@ window.PRODUCT_DATA = [
     "title": "AP5SD",
     "ar_title": "AP5SD",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8692,8 +8609,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p10-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p10-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8706,8 +8622,8 @@ window.PRODUCT_DATA = [
     "title": "MKE T-94 A2",
     "ar_title": "MKE T-94 A2",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8723,8 +8639,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p7-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p7-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8737,8 +8652,8 @@ window.PRODUCT_DATA = [
     "title": "MKE T-94 A3",
     "ar_title": "MKE T-94 A3",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8754,8 +8669,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p7-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p7-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8768,8 +8682,8 @@ window.PRODUCT_DATA = [
     "title": "MKE T-94 K",
     "ar_title": "MKE T-94 K",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8785,8 +8699,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p8-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p8-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8799,8 +8712,8 @@ window.PRODUCT_DATA = [
     "title": "MKE T-94 SD",
     "ar_title": "MKE T-94 SD",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8816,8 +8729,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p8-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p8-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8830,8 +8742,8 @@ window.PRODUCT_DATA = [
     "title": "MOT-919",
     "ar_title": "MOT-919",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-small-arms.pdf",
@@ -8847,8 +8759,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p15-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p15-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8861,8 +8772,8 @@ window.PRODUCT_DATA = [
     "title": "MOT-919C",
     "ar_title": "MOT-919C",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-small-arms.pdf",
@@ -8878,8 +8789,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p15-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p15-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8892,8 +8802,8 @@ window.PRODUCT_DATA = [
     "title": "MP5 A3",
     "ar_title": "MP5 A3",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-small-arms.pdf",
@@ -8909,8 +8819,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p17-left.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p17-left.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8923,8 +8832,8 @@ window.PRODUCT_DATA = [
     "title": "MP5-K",
     "ar_title": "MP5-K",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-small-arms.pdf",
@@ -8940,8 +8849,7 @@ window.PRODUCT_DATA = [
       "aslon-small-arms-p17-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-small-arms-p17-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8954,8 +8862,8 @@ window.PRODUCT_DATA = [
     "title": "MTS3",
     "ar_title": "MTS3",
     "brand": "ASLON / MKE",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الأسلحة الخفيفة والذخائر",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Submachine Guns",
     "ar_category": "الرشاشات القصيرة",
     "pdf": "aslon-precision-rifles.pdf",
@@ -8971,8 +8879,7 @@ window.PRODUCT_DATA = [
       "aslon-precision-rifles-p11-right.jpg"
     ],
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "aslon-precision-rifles-p11-right.jpg",
     "brand_url": "https://www.mke.gov.tr/Kataloglar/SMALL-ARMS/1",
@@ -8985,8 +8892,8 @@ window.PRODUCT_DATA = [
     "title": "ARMSHOT Defence Firearms Collection 1",
     "ar_title": "ARMSHOT Defence Firearms Collection 1",
     "brand": "ARMSHOT",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الصيد والرماية",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Tactical Shotguns",
     "ar_category": "Tactical Shotguns",
     "pdf": "ARMSHOT CATALOG MINI(1).pdf",
@@ -9006,8 +8913,7 @@ window.PRODUCT_DATA = [
     "featured": false,
     "search": "armshot defence firearms collection 1 armshot small arms & ammunition tactical shotguns individual armshot shotgun model displayed separately with its model name beneath the image. shotgun individual model small arms small arms & ammunition",
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "exact/armshot-defence-firearms-collection-1-p12.webp",
     "brand_url": "https://armshot.com.tr/",
@@ -9020,8 +8926,8 @@ window.PRODUCT_DATA = [
     "title": "ARMSHOT Defence Firearms Collection 2",
     "ar_title": "ARMSHOT Defence Firearms Collection 2",
     "brand": "ARMSHOT",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الصيد والرماية",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Tactical Shotguns",
     "ar_category": "Tactical Shotguns",
     "pdf": "ARMSHOT CATALOG MINI(1).pdf",
@@ -9041,8 +8947,7 @@ window.PRODUCT_DATA = [
     "featured": false,
     "search": "armshot defence firearms collection 2 armshot small arms & ammunition tactical shotguns individual armshot shotgun model displayed separately with its model name beneath the image. shotgun individual model small arms small arms & ammunition",
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "exact/armshot-defence-firearms-collection-2-p13.webp",
     "brand_url": "https://armshot.com.tr/",
@@ -9055,8 +8960,8 @@ window.PRODUCT_DATA = [
     "title": "ARMSHOT Defence Firearms Collection 3",
     "ar_title": "ARMSHOT Defence Firearms Collection 3",
     "brand": "ARMSHOT",
-    "sector": "Small Arms & Ammunition",
-    "ar_sector": "الصيد والرماية",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "category": "Tactical Shotguns",
     "ar_category": "Tactical Shotguns",
     "pdf": "ARMSHOT CATALOG MINI(1).pdf",
@@ -9076,8 +8981,7 @@ window.PRODUCT_DATA = [
     "featured": false,
     "search": "armshot defence firearms collection 3 armshot small arms & ammunition tactical shotguns individual armshot shotgun model displayed separately with its model name beneath the image. shotgun individual model small arms small arms & ammunition",
     "solutions": [
-      "Small Arms",
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "fallback_image": "exact/armshot-defence-firearms-collection-3-p14.webp",
     "brand_url": "https://armshot.com.tr/",
@@ -9134,13 +9038,14 @@ window.PRODUCT_DATA = [
     "id": "p167-commander-smart-body-camera",
     "image": "wolfcom-solutions-overview-p2-right.jpg",
     "source_title": "Wolfcom Solutions Overview",
-    "search": "commander smart body camera wolfcom law enforcement & evidence body cameras professional body-worn video systems for law-enforcement and military users. law enforcement & evidence communications & surveillance",
+    "search": "commander smart body camera wolfcom law enforcement & evidence body cameras professional body-worn video systems for law-enforcement and military users. law enforcement & evidence communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "gallery": [
       "wolfcom-solutions-overview-p2-right.jpg"
     ],
     "solutions": [
       "Law Enforcement & Evidence",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "wolfcom-solutions-overview-p2-right.jpg",
     "brand_url": "https://wolfcomusa.com/",
@@ -9165,13 +9070,14 @@ window.PRODUCT_DATA = [
     "id": "p166-halo-body-camera",
     "image": "wolfcom-solutions-overview-p2-left.jpg",
     "source_title": "Wolfcom Solutions Overview",
-    "search": "halo body camera wolfcom law enforcement & evidence body cameras professional body-worn video systems for law-enforcement and military users. law enforcement & evidence communications & surveillance",
+    "search": "halo body camera wolfcom law enforcement & evidence body cameras professional body-worn video systems for law-enforcement and military users. law enforcement & evidence communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "gallery": [
       "wolfcom-solutions-overview-p2-left.jpg"
     ],
     "solutions": [
       "Law Enforcement & Evidence",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "wolfcom-solutions-overview-p2-left.jpg",
     "brand_url": "https://wolfcomusa.com/",
@@ -9364,9 +9270,10 @@ window.PRODUCT_DATA = [
       "topsky/topsky-fjt-c-s6-non-linear-junction-detector-page-21.webp",
       "topsky/topsky-fjt-c-s6-non-linear-junction-detector-page-22.webp"
     ],
-    "search": "fjt-c-s6 non-linear junction detector topsky law enforcement & evidence detection & screening handheld detector for locating concealed semiconductor electronics, listening devices and electronic components. law enforcement & evidence",
+    "search": "fjt-c-s6 non-linear junction detector topsky law enforcement & evidence detection & screening handheld detector for locating concealed semiconductor electronics, listening devices and electronic components. law enforcement & evidence Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
-      "Law Enforcement & Evidence"
+      "Law Enforcement & Evidence",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "topsky/topsky-fjt-c-s6-non-linear-junction-detector-1.webp",
     "brand_url": "https://www.topskyeqpt.com/",
@@ -9395,9 +9302,10 @@ window.PRODUCT_DATA = [
       "topsky/topsky-lt-600-desktop-dangerous-liquid-detector-2.webp",
       "topsky/topsky-lt-600-desktop-dangerous-liquid-detector-page-35.webp"
     ],
-    "search": "lt-600 desktop dangerous liquid detector topsky law enforcement & evidence detection & screening desktop screening unit for identifying flammable, explosive and corrosive liquids through sealed containers. law enforcement & evidence",
+    "search": "lt-600 desktop dangerous liquid detector topsky law enforcement & evidence detection & screening desktop screening unit for identifying flammable, explosive and corrosive liquids through sealed containers. law enforcement & evidence Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
-      "Law Enforcement & Evidence"
+      "Law Enforcement & Evidence",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "topsky/topsky-lt-600-desktop-dangerous-liquid-detector-1.webp",
     "brand_url": "https://www.topskyeqpt.com/",
@@ -9427,9 +9335,10 @@ window.PRODUCT_DATA = [
       "topsky/topsky-ts-200-portable-explosive-detector-3.webp",
       "topsky/topsky-ts-200-portable-explosive-detector-page-34.webp"
     ],
-    "search": "ts-200 portable explosive detector topsky law enforcement & evidence detection & screening ion-mobility spectrometry detector for rapid sampling and identification of common explosives, narcotics and precursor compounds. law enforcement & evidence",
+    "search": "ts-200 portable explosive detector topsky law enforcement & evidence detection & screening ion-mobility spectrometry detector for rapid sampling and identification of common explosives, narcotics and precursor compounds. law enforcement & evidence Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
-      "Law Enforcement & Evidence"
+      "Law Enforcement & Evidence",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "topsky/topsky-ts-200-portable-explosive-detector-1.webp",
     "brand_url": "https://www.topskyeqpt.com/",
@@ -10012,10 +9921,11 @@ window.PRODUCT_DATA = [
       "cxxm-eod/eod-p26-full.webp"
     ],
     "source_title": "EOD Equipment - China Xinxing Xiamen",
-    "search": "portable x-ray scanning system china xinxing xiamen law enforcement & evidence eod x-ray systems lightweight battery-powered field x-ray system for first responders and eod teams. law enforcement & evidence eod & bomb disposal",
+    "search": "portable x-ray scanning system china xinxing xiamen law enforcement & evidence eod x-ray systems lightweight battery-powered field x-ray system for first responders and eod teams. law enforcement & evidence eod & bomb disposal Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Law Enforcement & Evidence",
-      "EOD & Bomb Disposal"
+      "EOD & Bomb Disposal",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "cxxm-eod/cxxm-portable-x-ray-scanning-system.webp",
     "brand_url": "https://www.chinaarmysupplier.com/",
@@ -10137,13 +10047,14 @@ window.PRODUCT_DATA = [
     "id": "p173-cops-commander-online-platform",
     "image": "wolfcom-solutions-overview-p29-full.jpg",
     "source_title": "Wolfcom Solutions Overview",
-    "search": "cops commander online platform wolfcom law enforcement & evidence evidence management live-streaming, gps tracking, push-to-talk and command-centre platform for connected body cameras. law enforcement & evidence communications & surveillance",
+    "search": "cops commander online platform wolfcom law enforcement & evidence evidence management live-streaming, gps tracking, push-to-talk and command-centre platform for connected body cameras. law enforcement & evidence communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "gallery": [
       "wolfcom-solutions-overview-p29-full.jpg"
     ],
     "solutions": [
       "Law Enforcement & Evidence",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "wolfcom-solutions-overview-p29-full.jpg",
     "brand_url": "https://wolfcomusa.com/",
@@ -10168,12 +10079,13 @@ window.PRODUCT_DATA = [
     "id": "collection-13af340471",
     "image": "wolfcom-solutions-overview-p10-full.jpg",
     "source_title": "Wolfcom Solutions Overview",
-    "search": "wolfcom evidence management collection wolfcom law enforcement & evidence evidence management a curated wolfcom collection of evidence management shown as one organised product range. law enforcement & evidence",
+    "search": "wolfcom evidence management collection wolfcom law enforcement & evidence evidence management a curated wolfcom collection of evidence management shown as one organised product range. law enforcement & evidence Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "gallery": [
       "wolfcom-solutions-overview-p10-full.jpg"
     ],
     "solutions": [
-      "Law Enforcement & Evidence"
+      "Law Enforcement & Evidence",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "wolfcom-solutions-overview-p10-full.jpg",
     "brand_url": "https://wolfcomusa.com/",
@@ -10421,12 +10333,13 @@ window.PRODUCT_DATA = [
     "id": "p168-mini-dvr-in-car-camera-system",
     "image": "wolfcom-solutions-overview-p6-full.jpg",
     "source_title": "Wolfcom Solutions Overview",
-    "search": "mini-dvr in-car camera system wolfcom law enforcement & evidence in-car video compact in-car video system with wireless evidence upload capability. law enforcement & evidence",
+    "search": "mini-dvr in-car camera system wolfcom law enforcement & evidence in-car video compact in-car video system with wireless evidence upload capability. law enforcement & evidence Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "gallery": [
       "wolfcom-solutions-overview-p6-full.jpg"
     ],
     "solutions": [
-      "Law Enforcement & Evidence"
+      "Law Enforcement & Evidence",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "wolfcom-solutions-overview-p6-full.jpg",
     "brand_url": "https://wolfcomusa.com/",
@@ -10456,10 +10369,11 @@ window.PRODUCT_DATA = [
       "cxxm-eod/eod-p16-full.webp"
     ],
     "source_title": "EOD Equipment - China Xinxing Xiamen",
-    "search": "tactical investigation endoscope china xinxing xiamen law enforcement & evidence inspection & screening portable video endoscope for tactical investigation, security inspection, anti-smuggling and search-and-rescue work. law enforcement & evidence scopes, thermal & night vision",
+    "search": "tactical investigation endoscope china xinxing xiamen law enforcement & evidence inspection & screening portable video endoscope for tactical investigation, security inspection, anti-smuggling and search-and-rescue work. law enforcement & evidence scopes, thermal & night vision Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Law Enforcement & Evidence",
-      "Scopes, Thermal & Night Vision"
+      "Scopes, Thermal & Night Vision",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "cxxm-eod/cxxm-tactical-investigation-endoscope.webp",
     "brand_url": "https://www.chinaarmysupplier.com/",
@@ -10578,10 +10492,11 @@ window.PRODUCT_DATA = [
       "cxxm-eod/eod-p6-full.webp"
     ],
     "source_title": "EOD Equipment - China Xinxing Xiamen",
-    "search": "hj-r30 throw surveillance robot china xinxing xiamen law enforcement & evidence reconnaissance robots rugged compact robot for remote reconnaissance and detection in buildings and difficult terrain. law enforcement & evidence communications & surveillance",
+    "search": "hj-r30 throw surveillance robot china xinxing xiamen law enforcement & evidence reconnaissance robots rugged compact robot for remote reconnaissance and detection in buildings and difficult terrain. law enforcement & evidence communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Law Enforcement & Evidence",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "cxxm-eod/cxxm-hj-r30-throw-surveillance-robot.webp",
     "brand_url": "https://www.chinaarmysupplier.com/",
@@ -10610,10 +10525,11 @@ window.PRODUCT_DATA = [
       "cxxm-eod/eod-p7-full.webp"
     ],
     "source_title": "EOD Equipment - China Xinxing Xiamen",
-    "search": "hj-rm14 throw surveillance robot china xinxing xiamen law enforcement & evidence reconnaissance robots lightweight throwable reconnaissance robot with infrared day/night observation and remote audio-video transmission. law enforcement & evidence communications & surveillance",
+    "search": "hj-rm14 throw surveillance robot china xinxing xiamen law enforcement & evidence reconnaissance robots lightweight throwable reconnaissance robot with infrared day/night observation and remote audio-video transmission. law enforcement & evidence communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Law Enforcement & Evidence",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "cxxm-eod/cxxm-hj-rm14-throw-surveillance-robot.webp",
     "brand_url": "https://www.chinaarmysupplier.com/",
@@ -10980,7 +10896,7 @@ window.PRODUCT_DATA = [
     "id": "p335-atos-airborne-tactical-observation-system",
     "image": "supplied/atos-airborne-tactical-observation-system.jpg",
     "source_title": "Atos Airborne Tactical Observation System",
-    "search": "atos airborne tactical observation system leonardo unmanned & surveillance isr mission systems advanced airborne mission-management system integrating multiple sensors and subsystems for real-time data fusion, isr mission management and enhanced tactical situational awareness. unmanned & surveillance uav platforms communications & surveillance",
+    "search": "atos airborne tactical observation system leonardo unmanned & surveillance isr mission systems advanced airborne mission-management system integrating multiple sensors and subsystems for real-time data fusion, isr mission management and enhanced tactical situational awareness. unmanned & surveillance uav platforms communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "gallery": [
       "supplied/atos-airborne-tactical-observation-system.jpg",
       "atos-airborne-tactical-observation-system-p2-full.jpg",
@@ -10992,7 +10908,8 @@ window.PRODUCT_DATA = [
     "solutions": [
       "Unmanned & Surveillance",
       "UAV Platforms",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "supplied/atos-airborne-tactical-observation-system.jpg",
     "brand_url": "https://www.leonardo.com/en/",
@@ -11021,11 +10938,12 @@ window.PRODUCT_DATA = [
       "topsky/topsky-t32-throw-reconnaissance-robot-2.webp",
       "topsky/topsky-t32-throw-reconnaissance-robot-page-9.webp"
     ],
-    "search": "t32 throw reconnaissance robot topsky unmanned & surveillance reconnaissance robots compact throwable reconnaissance robot with infrared imaging, remote video transmission and rugged impact resistance. unmanned & surveillance uav platforms communications & surveillance",
+    "search": "t32 throw reconnaissance robot topsky unmanned & surveillance reconnaissance robots compact throwable reconnaissance robot with infrared imaging, remote video transmission and rugged impact resistance. unmanned & surveillance uav platforms communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Unmanned & Surveillance",
       "UAV Platforms",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "topsky/topsky-t32-throw-reconnaissance-robot-1.webp",
     "brand_url": "https://www.topskyeqpt.com/",
@@ -11088,12 +11006,13 @@ window.PRODUCT_DATA = [
       "topsky/topsky-ysr120-handheld-through-wall-radar-page-19.webp",
       "topsky/topsky-ysr120-handheld-through-wall-radar-page-20.webp"
     ],
-    "search": "ysr120 handheld through-wall radar topsky unmanned & surveillance through-wall detection ultra-portable uwb radar providing real-time movement, direction and distance information for targets behind common wall materials. unmanned & surveillance training & target systems uav platforms communications & surveillance",
+    "search": "ysr120 handheld through-wall radar topsky unmanned & surveillance through-wall detection ultra-portable uwb radar providing real-time movement, direction and distance information for targets behind common wall materials. unmanned & surveillance training & target systems uav platforms communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Unmanned & Surveillance",
       "Training & Target Systems",
       "UAV Platforms",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "topsky/topsky-ysr120-handheld-through-wall-radar-1.webp",
     "brand_url": "https://www.topskyeqpt.com/",
@@ -12207,12 +12126,13 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p16-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "anti-uav & radar-linkage camera system hope-wish technologies unmanned & surveillance uav platforms long-range electro-optical system designed to link with radar for uav detection, location and tracking. uav platforms unmanned & surveillance scopes, thermal & night vision communications & surveillance",
+    "search": "anti-uav & radar-linkage camera system hope-wish technologies unmanned & surveillance uav platforms long-range electro-optical system designed to link with radar for uav detection, location and tracking. uav platforms unmanned & surveillance scopes, thermal & night vision communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "UAV Platforms",
       "Unmanned & Surveillance",
       "Scopes, Thermal & Night Vision",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "hope-wish/hope-wish-anti-uav-radar-linkage-camera.webp",
     "brand_url": "https://www.irhpws.com/",
@@ -18265,10 +18185,11 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p15-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "handheld thermal binocular hope-wish technologies scopes, thermal & night vision binoculars, goggles & observation portable binocular thermal imager for patrol, search and observation. binoculars & observation scopes, thermal & night vision",
+    "search": "handheld thermal binocular hope-wish technologies scopes, thermal & night vision binoculars, goggles & observation portable binocular thermal imager for patrol, search and observation. binoculars & observation scopes, thermal & night vision Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Binoculars & Observation",
-      "Scopes, Thermal & Night Vision"
+      "Scopes, Thermal & Night Vision",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "hope-wish/hope-wish-handheld-thermal-binocular.webp",
     "brand_url": "https://www.irhpws.com/",
@@ -18902,10 +18823,11 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p9-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "long-range laser ptz camera hope-wish technologies scopes, thermal & night vision laser night-vision cameras long-range laser-assisted ptz camera for perimeter and border surveillance. scopes, thermal & night vision communications & surveillance",
+    "search": "long-range laser ptz camera hope-wish technologies scopes, thermal & night vision laser night-vision cameras long-range laser-assisted ptz camera for perimeter and border surveillance. scopes, thermal & night vision communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Scopes, Thermal & Night Vision",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "hope-wish/hope-wish-long-range-laser-ptz-camera.webp",
     "brand_url": "https://www.irhpws.com/",
@@ -18934,10 +18856,11 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p9-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "speed-dome laser camera hope-wish technologies scopes, thermal & night vision laser night-vision cameras fast pan-tilt dome camera with infrared laser illumination for night surveillance. scopes, thermal & night vision communications & surveillance",
+    "search": "speed-dome laser camera hope-wish technologies scopes, thermal & night vision laser night-vision cameras fast pan-tilt dome camera with infrared laser illumination for night surveillance. scopes, thermal & night vision communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Scopes, Thermal & Night Vision",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "hope-wish/hope-wish-speed-dome-laser-camera.webp",
     "brand_url": "https://www.irhpws.com/",
@@ -18966,10 +18889,11 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p9-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "t-shape laser ptz camera hope-wish technologies scopes, thermal & night vision laser night-vision cameras long-range ptz surveillance camera integrating laser illumination for night observation. scopes, thermal & night vision communications & surveillance",
+    "search": "t-shape laser ptz camera hope-wish technologies scopes, thermal & night vision laser night-vision cameras long-range ptz surveillance camera integrating laser illumination for night observation. scopes, thermal & night vision communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Scopes, Thermal & Night Vision",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "hope-wish/hope-wish-t-shape-laser-ptz-camera.webp",
     "brand_url": "https://www.irhpws.com/",
@@ -19057,10 +18981,11 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p15-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "mobile laser camera hope-wish technologies scopes, thermal & night vision mobile surveillance cameras compact mobile laser camera for portable long-range day and night observation. scopes, thermal & night vision communications & surveillance",
+    "search": "mobile laser camera hope-wish technologies scopes, thermal & night vision mobile surveillance cameras compact mobile laser camera for portable long-range day and night observation. scopes, thermal & night vision communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Scopes, Thermal & Night Vision",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "hope-wish/hope-wish-mobile-laser-camera.webp",
     "brand_url": "https://www.irhpws.com/",
@@ -19089,10 +19014,11 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p15-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "mobile laser camera tripod system hope-wish technologies scopes, thermal & night vision mobile surveillance cameras tripod-mounted mobile laser surveillance system for temporary observation posts. scopes, thermal & night vision communications & surveillance",
+    "search": "mobile laser camera tripod system hope-wish technologies scopes, thermal & night vision mobile surveillance cameras tripod-mounted mobile laser surveillance system for temporary observation posts. scopes, thermal & night vision communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Scopes, Thermal & Night Vision",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "hope-wish/hope-wish-mobile-laser-tripod-system.webp",
     "brand_url": "https://www.irhpws.com/",
@@ -19148,14 +19074,15 @@ window.PRODUCT_DATA = [
     "id": "p311-attila-commander-sight",
     "image": "leonardo-vehicle-systems-p15-full.jpg",
     "source_title": "Leonardo Vehicle Systems",
-    "search": "attila commander sight leonardo scopes, thermal & night vision protection & surveillance vehicle mission electronics and protection capability. scopes, thermal & night vision vehicles & protected mobility communications & surveillance",
+    "search": "attila commander sight leonardo scopes, thermal & night vision protection & surveillance vehicle mission electronics and protection capability. scopes, thermal & night vision vehicles & protected mobility communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "gallery": [
       "leonardo-vehicle-systems-p15-full.jpg"
     ],
     "solutions": [
       "Scopes, Thermal & Night Vision",
       "Vehicles & Protected Mobility",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "leonardo-vehicle-systems-p15-full.jpg",
     "brand_url": "https://www.leonardo.com/en/",
@@ -19180,14 +19107,15 @@ window.PRODUCT_DATA = [
     "id": "p310-eo-ir-surveillance-systems",
     "image": "leonardo-vehicle-systems-p14-full.jpg",
     "source_title": "Leonardo Vehicle Systems",
-    "search": "eo/ir surveillance systems leonardo scopes, thermal & night vision protection & surveillance vehicle mission electronics and protection capability. scopes, thermal & night vision vehicles & protected mobility communications & surveillance",
+    "search": "eo/ir surveillance systems leonardo scopes, thermal & night vision protection & surveillance vehicle mission electronics and protection capability. scopes, thermal & night vision vehicles & protected mobility communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "gallery": [
       "leonardo-vehicle-systems-p14-full.jpg"
     ],
     "solutions": [
       "Scopes, Thermal & Night Vision",
       "Vehicles & Protected Mobility",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "leonardo-vehicle-systems-p14-full.jpg",
     "brand_url": "https://www.leonardo.com/en/",
@@ -19589,9 +19517,10 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p12-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "body-temperature detection thermal camera hope-wish technologies scopes, thermal & night vision thermal screening cameras thermal screening camera for remote body-temperature measurement and alerting. scopes, thermal & night vision",
+    "search": "body-temperature detection thermal camera hope-wish technologies scopes, thermal & night vision thermal screening cameras thermal screening camera for remote body-temperature measurement and alerting. scopes, thermal & night vision Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
-      "Scopes, Thermal & Night Vision"
+      "Scopes, Thermal & Night Vision",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "hope-wish/hope-wish-body-temperature-detection-camera.webp",
     "brand_url": "https://www.irhpws.com/",
@@ -19622,10 +19551,11 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p12-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "dual-sensor ptz thermal camera hope-wish technologies scopes, thermal & night vision thermal surveillance cameras dual-sensor ptz platform combining thermal and visible imaging channels. scopes, thermal & night vision communications & surveillance",
+    "search": "dual-sensor ptz thermal camera hope-wish technologies scopes, thermal & night vision thermal surveillance cameras dual-sensor ptz platform combining thermal and visible imaging channels. scopes, thermal & night vision communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Scopes, Thermal & Night Vision",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "hope-wish/hope-wish-dual-sensor-ptz-thermal-camera.webp",
     "brand_url": "https://www.irhpws.com/",
@@ -19656,11 +19586,12 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p12-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "long-range ptz thermal camera hope-wish technologies scopes, thermal & night vision thermal surveillance cameras long-range pan-tilt thermal camera for continuous surveillance and target detection. scopes, thermal & night vision training & target systems communications & surveillance",
+    "search": "long-range ptz thermal camera hope-wish technologies scopes, thermal & night vision thermal surveillance cameras long-range pan-tilt thermal camera for continuous surveillance and target detection. scopes, thermal & night vision training & target systems communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Scopes, Thermal & Night Vision",
       "Training & Target Systems",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "hope-wish/hope-wish-long-range-ptz-thermal-camera.webp",
     "brand_url": "https://www.irhpws.com/",
@@ -22202,10 +22133,11 @@ window.PRODUCT_DATA = [
       "hope-wish/hope-wish-p12-full.webp"
     ],
     "source_title": "HOPE-WISH Technologies",
-    "search": "forest fire detection thermal camera hope-wish technologies firefighting & rescue fire detection systems thermal camera designed for early forest-fire detection, automated alarm and long-range monitoring. firefighting & rescue scopes, thermal & night vision",
+    "search": "forest fire detection thermal camera hope-wish technologies firefighting & rescue fire detection systems thermal camera designed for early forest-fire detection, automated alarm and long-range monitoring. firefighting & rescue scopes, thermal & night vision Scanners, Cameras & Imaging camera scanner imaging surveillance",
     "solutions": [
       "Firefighting & Rescue",
-      "Scopes, Thermal & Night Vision"
+      "Scopes, Thermal & Night Vision",
+      "Scanners, Cameras & Imaging"
     ],
     "fallback_image": "hope-wish/hope-wish-forest-fire-detection-thermal-camera.webp",
     "brand_url": "https://www.irhpws.com/",
@@ -22529,9 +22461,10 @@ window.PRODUCT_DATA = [
     "solutions": [
       "Unmanned & Surveillance",
       "UAV Platforms",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
-    "search": "mohoc optac a-vis uav camera mohoc unmanned & surveillance uav sensors & payloads visible-light, ultra-low-latency camera designed for fpv and mission uav integration. official web product uav optics low latency unmanned & surveillance uav platforms communications & surveillance"
+    "search": "mohoc optac a-vis uav camera mohoc unmanned & surveillance uav sensors & payloads visible-light, ultra-low-latency camera designed for fpv and mission uav integration. official web product uav optics low latency unmanned & surveillance uav platforms communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance"
   },
   {
     "id": "official-mohoc-optac-a-nf",
@@ -22566,9 +22499,10 @@ window.PRODUCT_DATA = [
     "solutions": [
       "Unmanned & Surveillance",
       "UAV Platforms",
-      "Communications & Surveillance"
+      "Communications & Surveillance",
+      "Scanners, Cameras & Imaging"
     ],
-    "search": "mohoc optac a-nf infrared uav camera mohoc unmanned & surveillance uav sensors & payloads low-light and infrared-capable, ultra-low-latency uav camera with removable ir filter cap. official web product uav optics low latency unmanned & surveillance uav platforms communications & surveillance"
+    "search": "mohoc optac a-nf infrared uav camera mohoc unmanned & surveillance uav sensors & payloads low-light and infrared-capable, ultra-low-latency uav camera with removable ir filter cap. official web product uav optics low latency unmanned & surveillance uav platforms communications & surveillance Scanners, Cameras & Imaging camera scanner imaging surveillance"
   },
   {
     "title": "DW-FAK07 Professional EMS Medical Bag",
@@ -27275,7 +27209,8 @@ window.PRODUCT_DATA = [
       "Land & Vehicle Systems",
       "Vehicles & Protected Mobility",
       "Communications & Surveillance",
-      "UAV Platforms"
+      "UAV Platforms",
+      "Scanners, Cameras & Imaging"
     ],
     "tags": [
       "Leonardo",
@@ -27289,19 +27224,19 @@ window.PRODUCT_DATA = [
     "source_url": "https://electronics.leonardo.com/en/products/mobile-surveillance-system-mss",
     "media_credit": "Leonardo official website and supplied catalogue imagery",
     "official_media": true,
-    "search": "mobile surveillance system - mss leonardo land & vehicle systems mobile surveillance systems highly mobile integrated surveillance platform combining radar sensors, optronics, command and control, communications and onboard power for monitoring air, ground and maritime targets. leonardo official product page land & vehicle systems vehicles & protected mobility communications & surveillance uav platforms"
+    "search": "mobile surveillance system - mss leonardo land & vehicle systems mobile surveillance systems highly mobile integrated surveillance platform combining radar sensors, optronics, command and control, communications and onboard power for monitoring air, ground and maritime targets. leonardo official product page land & vehicle systems vehicles & protected mobility communications & surveillance uav platforms Scanners, Cameras & Imaging camera scanner imaging surveillance"
   },
   {
     "id": "leonardo-leoss-t-eo-ir-turret",
-    "title": "JANUS EO/IR Surveillance System",
-    "ar_title": "JANUS EO/IR Surveillance System",
+    "title": "LEOSS-T Airborne EO/IR Turret",
+    "ar_title": "برج LEOSS-T الكهروبصري/الحراري المحمول جواً",
     "brand": "Leonardo",
     "sector": "Scopes, Thermal & Night Vision",
     "ar_sector": "Scopes, Thermal & Night Vision",
     "category": "EO/IR Surveillance Systems",
     "ar_category": "EO/IR Surveillance Systems",
-    "description": "Gyro-stabilised multi-sensor EO/IR surveillance system for land platforms, combining day/night observation and laser range-finding capabilities.",
-    "ar_description": "Gyro-stabilised multi-sensor EO/IR surveillance system for land platforms, combining day/night observation and laser range-finding capabilities.",
+    "description": "Four-axis stabilised airborne multisensor turret for day/night surveillance, reconnaissance and target identification.",
+    "ar_description": "برج استشعار متعدد مثبت بأربعة محاور للمراقبة والاستطلاع وتحديد الأهداف نهاراً وليلاً.",
     "image": "final/leonardo-janus-eoir.webp",
     "fallback_image": "final/leonardo-janus-eoir.webp",
     "gallery": [
@@ -27310,7 +27245,8 @@ window.PRODUCT_DATA = [
     "solutions": [
       "Scopes, Thermal & Night Vision",
       "Communications & Surveillance",
-      "UAV Platforms"
+      "UAV Platforms",
+      "Scanners, Cameras & Imaging"
     ],
     "tags": [
       "Leonardo",
@@ -27324,7 +27260,7 @@ window.PRODUCT_DATA = [
     "source_url": "https://electronics.leonardo.com/en/products/leoss-t",
     "media_credit": "Leonardo supplied catalogue imagery",
     "official_media": false,
-    "search": "janus eo/ir surveillance system leonardo scopes, thermal & night vision eo/ir surveillance systems gyro-stabilised multi-sensor eo/ir surveillance system for land platforms, combining day/night observation and laser range-finding capabilities. leonardo official product page scopes, thermal & night vision communications & surveillance uav platforms"
+    "search": "LEOSS-T Airborne EO/IR Turret Leonardo Scopes, Thermal & Night Vision EO/IR Surveillance Systems Four-axis stabilised airborne multisensor turret for day/night surveillance, reconnaissance and target identification. Scanners, Cameras & Imaging camera scanner imaging surveillance"
   },
   {
     "id": "leonardo-falcon-shield-cuas",
@@ -29601,7 +29537,8 @@ window.PRODUCT_DATA = [
       "final-vgreat/v-great-8-inch-tactical-boot.webp"
     ],
     "solutions": [
-      "Clothing, Bags & Load-Carrying"
+      "Clothing, Bags & Load-Carrying",
+      "Boots & Professional Footwear"
     ],
     "tags": [],
     "pdf": "v-great-products-catalogue-2024.pdf",
@@ -29617,7 +29554,7 @@ window.PRODUCT_DATA = [
     "ar_description": "Operational clothing or load-carrying equipment designed for military, police and field-use requirements.",
     "fallback_image": "final-vgreat/v-great-8-inch-tactical-boot.webp",
     "official_media": false,
-    "search": "v-great 8-inch tactical boot v-great clothing, bags & load-carrying tactical boots operational clothing or load-carrying equipment designed for military, police and field-use requirements. clothing, bags & load-carrying"
+    "search": "v-great 8-inch tactical boot v-great clothing, bags & load-carrying tactical boots operational clothing or load-carrying equipment designed for military, police and field-use requirements. clothing, bags & load-carrying boots & professional footwear"
   },
   {
     "id": "vgreat-v-great-patrol-tactical-boot",
@@ -29631,7 +29568,8 @@ window.PRODUCT_DATA = [
       "final-vgreat/v-great-patrol-tactical-boot.webp"
     ],
     "solutions": [
-      "Clothing, Bags & Load-Carrying"
+      "Clothing, Bags & Load-Carrying",
+      "Boots & Professional Footwear"
     ],
     "tags": [],
     "pdf": "v-great-products-catalogue-2024.pdf",
@@ -29647,7 +29585,7 @@ window.PRODUCT_DATA = [
     "ar_description": "Operational clothing or load-carrying equipment designed for military, police and field-use requirements.",
     "fallback_image": "final-vgreat/v-great-patrol-tactical-boot.webp",
     "official_media": false,
-    "search": "v-great patrol tactical boot v-great clothing, bags & load-carrying tactical boots operational clothing or load-carrying equipment designed for military, police and field-use requirements. clothing, bags & load-carrying"
+    "search": "v-great patrol tactical boot v-great clothing, bags & load-carrying tactical boots operational clothing or load-carrying equipment designed for military, police and field-use requirements. clothing, bags & load-carrying boots & professional footwear"
   },
   {
     "id": "vgreat-v-tg001-half-finger-tactical-glove",
@@ -30681,7 +30619,7 @@ window.PRODUCT_DATA = [
     "id": "emn-ess5001-9-19-mm-carbine",
     "title": "ESS5001 9×19 mm Carbine",
     "brand": "EMN Defence",
-    "sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
     "category": "Submachine Guns & Carbines",
     "description": "Compact 9×19 mm blowback-operated carbine with adjustable stock, modular handguard and detachable magazine.",
     "image": "final-emn/ess5001-9-19-mm-carbine.webp",
@@ -30689,7 +30627,7 @@ window.PRODUCT_DATA = [
       "final-emn/ess5001-9-19-mm-carbine.webp"
     ],
     "solutions": [
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "tags": [
       "EMN Defence catalogue"
@@ -30702,7 +30640,7 @@ window.PRODUCT_DATA = [
     "brand_source_status": "official",
     "media_credit": "EMN Defence supplied catalogue imagery",
     "ar_title": "ESS5001 9×19 mm Carbine",
-    "ar_sector": "Small Arms & Ammunition",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "ar_category": "Submachine Guns & Carbines",
     "ar_description": "Compact 9×19 mm blowback-operated carbine with adjustable stock, modular handguard and detachable magazine.",
     "fallback_image": "final-emn/ess5001-9-19-mm-carbine.webp",
@@ -30713,7 +30651,7 @@ window.PRODUCT_DATA = [
     "id": "emn-ess5002-9-19-mm-carbine",
     "title": "ESS5002 9×19 mm Carbine",
     "brand": "EMN Defence",
-    "sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
     "category": "Submachine Guns & Carbines",
     "description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "image": "final-emn/ess5002-9-19-mm-carbine.webp",
@@ -30721,7 +30659,7 @@ window.PRODUCT_DATA = [
       "final-emn/ess5002-9-19-mm-carbine.webp"
     ],
     "solutions": [
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "tags": [
       "EMN Defence catalogue"
@@ -30734,7 +30672,7 @@ window.PRODUCT_DATA = [
     "brand_source_status": "official",
     "media_credit": "EMN Defence supplied catalogue imagery",
     "ar_title": "ESS5002 9×19 mm Carbine",
-    "ar_sector": "Small Arms & Ammunition",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "ar_category": "Submachine Guns & Carbines",
     "ar_description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "fallback_image": "final-emn/ess5002-9-19-mm-carbine.webp",
@@ -30745,7 +30683,7 @@ window.PRODUCT_DATA = [
     "id": "emn-ess5003-9-19-mm-carbine",
     "title": "ESS5003 9×19 mm Carbine",
     "brand": "EMN Defence",
-    "sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
     "category": "Submachine Guns & Carbines",
     "description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "image": "final-emn/ess5003-9-19-mm-carbine.webp",
@@ -30753,7 +30691,7 @@ window.PRODUCT_DATA = [
       "final-emn/ess5003-9-19-mm-carbine.webp"
     ],
     "solutions": [
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "tags": [
       "EMN Defence catalogue"
@@ -30766,7 +30704,7 @@ window.PRODUCT_DATA = [
     "brand_source_status": "official",
     "media_credit": "EMN Defence supplied catalogue imagery",
     "ar_title": "ESS5003 9×19 mm Carbine",
-    "ar_sector": "Small Arms & Ammunition",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "ar_category": "Submachine Guns & Carbines",
     "ar_description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "fallback_image": "final-emn/ess5003-9-19-mm-carbine.webp",
@@ -30777,7 +30715,7 @@ window.PRODUCT_DATA = [
     "id": "emn-ess5004-9-19-mm-carbine",
     "title": "ESS5004 9×19 mm Carbine",
     "brand": "EMN Defence",
-    "sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
     "category": "Submachine Guns & Carbines",
     "description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "image": "final-emn/ess5004-9-19-mm-carbine.webp",
@@ -30785,7 +30723,7 @@ window.PRODUCT_DATA = [
       "final-emn/ess5004-9-19-mm-carbine.webp"
     ],
     "solutions": [
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "tags": [
       "EMN Defence catalogue"
@@ -30798,7 +30736,7 @@ window.PRODUCT_DATA = [
     "brand_source_status": "official",
     "media_credit": "EMN Defence supplied catalogue imagery",
     "ar_title": "ESS5004 9×19 mm Carbine",
-    "ar_sector": "Small Arms & Ammunition",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "ar_category": "Submachine Guns & Carbines",
     "ar_description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "fallback_image": "final-emn/ess5004-9-19-mm-carbine.webp",
@@ -30809,7 +30747,7 @@ window.PRODUCT_DATA = [
     "id": "emn-ess5005-compact-carbine",
     "title": "ESS5005 Compact Carbine",
     "brand": "EMN Defence",
-    "sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
     "category": "Submachine Guns & Carbines",
     "description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "image": "final-emn/ess5005-compact-carbine.webp",
@@ -30817,7 +30755,7 @@ window.PRODUCT_DATA = [
       "final-emn/ess5005-compact-carbine.webp"
     ],
     "solutions": [
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "tags": [
       "EMN Defence catalogue"
@@ -30830,7 +30768,7 @@ window.PRODUCT_DATA = [
     "brand_source_status": "official",
     "media_credit": "EMN Defence supplied catalogue imagery",
     "ar_title": "ESS5005 Compact Carbine",
-    "ar_sector": "Small Arms & Ammunition",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "ar_category": "Submachine Guns & Carbines",
     "ar_description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "fallback_image": "final-emn/ess5005-compact-carbine.webp",
@@ -30841,7 +30779,7 @@ window.PRODUCT_DATA = [
     "id": "emn-ess5006-competition-carbine",
     "title": "ESS5006 Competition Carbine",
     "brand": "EMN Defence",
-    "sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
     "category": "Submachine Guns & Carbines",
     "description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "image": "final-emn/ess5006-competition-carbine.webp",
@@ -30849,7 +30787,7 @@ window.PRODUCT_DATA = [
       "final-emn/ess5006-competition-carbine.webp"
     ],
     "solutions": [
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "tags": [
       "EMN Defence catalogue"
@@ -30862,7 +30800,7 @@ window.PRODUCT_DATA = [
     "brand_source_status": "official",
     "media_credit": "EMN Defence supplied catalogue imagery",
     "ar_title": "ESS5006 Competition Carbine",
-    "ar_sector": "Small Arms & Ammunition",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "ar_category": "Submachine Guns & Carbines",
     "ar_description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "fallback_image": "final-emn/ess5006-competition-carbine.webp",
@@ -30873,7 +30811,7 @@ window.PRODUCT_DATA = [
     "id": "emn-ess5007-drum-magazine-carbine",
     "title": "ESS5007 Drum-Magazine Carbine",
     "brand": "EMN Defence",
-    "sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
     "category": "Submachine Guns & Carbines",
     "description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "image": "final-emn/ess5007-drum-magazine-carbine.webp",
@@ -30881,7 +30819,7 @@ window.PRODUCT_DATA = [
       "final-emn/ess5007-drum-magazine-carbine.webp"
     ],
     "solutions": [
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "tags": [
       "EMN Defence catalogue"
@@ -30894,7 +30832,7 @@ window.PRODUCT_DATA = [
     "brand_source_status": "official",
     "media_credit": "EMN Defence supplied catalogue imagery",
     "ar_title": "ESS5007 Drum-Magazine Carbine",
-    "ar_sector": "Small Arms & Ammunition",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "ar_category": "Submachine Guns & Carbines",
     "ar_description": "Model-specific EMN Defence carbine configuration shown in the supplied catalogue.",
     "fallback_image": "final-emn/ess5007-drum-magazine-carbine.webp",
@@ -30905,7 +30843,7 @@ window.PRODUCT_DATA = [
     "id": "emn-ess5008-mka-556-rifle",
     "title": "ESS5008 MKA 556 Rifle",
     "brand": "EMN Defence",
-    "sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
     "category": "Assault Rifles & Carbines",
     "description": "5.56×45 mm direct-impingement rifle with modular rail system and adjustable stock.",
     "image": "final-emn/ess5008-mka-556-rifle.webp",
@@ -30913,7 +30851,7 @@ window.PRODUCT_DATA = [
       "final-emn/ess5008-mka-556-rifle.webp"
     ],
     "solutions": [
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "tags": [
       "EMN Defence catalogue"
@@ -30926,7 +30864,7 @@ window.PRODUCT_DATA = [
     "brand_source_status": "official",
     "media_credit": "EMN Defence supplied catalogue imagery",
     "ar_title": "ESS5008 MKA 556 Rifle",
-    "ar_sector": "Small Arms & Ammunition",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "ar_category": "Assault Rifles & Carbines",
     "ar_description": "5.56×45 mm direct-impingement rifle with modular rail system and adjustable stock.",
     "fallback_image": "final-emn/ess5008-mka-556-rifle.webp",
@@ -30937,7 +30875,7 @@ window.PRODUCT_DATA = [
     "id": "emn-mfr56-multifunctional-5-56-mm-weapon-system",
     "title": "MFR56 Multifunctional 5.56 mm Weapon System",
     "brand": "EMN Defence",
-    "sector": "Small Arms & Ammunition",
+    "sector": "Military & Law-Enforcement Firearms",
     "category": "Machine Guns",
     "description": "Multifunctional 5.56×45 mm weapon system with quick-change barrel, gas operation and belt- or magazine-feed configurations.",
     "image": "final-emn/mfr56-multifunctional-5-56-mm-weapon-system.webp",
@@ -30945,7 +30883,7 @@ window.PRODUCT_DATA = [
       "final-emn/mfr56-multifunctional-5-56-mm-weapon-system.webp"
     ],
     "solutions": [
-      "Small Arms & Ammunition"
+      "Military & Law-Enforcement Firearms"
     ],
     "tags": [
       "EMN Defence catalogue"
@@ -30958,7 +30896,7 @@ window.PRODUCT_DATA = [
     "brand_source_status": "official",
     "media_credit": "EMN Defence supplied catalogue imagery",
     "ar_title": "MFR56 Multifunctional 5.56 mm Weapon System",
-    "ar_sector": "Small Arms & Ammunition",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
     "ar_category": "Machine Guns",
     "ar_description": "Multifunctional 5.56×45 mm weapon system with quick-change barrel, gas operation and belt- or magazine-feed configurations.",
     "fallback_image": "final-emn/mfr56-multifunctional-5-56-mm-weapon-system.webp",
@@ -31092,5 +31030,6092 @@ window.PRODUCT_DATA = [
     "fallback_image": "final-emn/ess10005-night-vision-binocular.webp",
     "official_media": false,
     "search": "ess10005 night-vision binocular emn defence scopes, thermal & night vision binoculars, goggles & observation night-vision observation binocular from the emn defence optics range. emn defence catalogue scopes, thermal & night vision"
+  },
+  {
+    "id": "hs-produkt-hs-9-g2-3-0",
+    "title": "HS-9 G2 3.0",
+    "ar_title": "HS-9 G2 3.0",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "9×19 mm sub-compact pistol from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "9×19 mm sub-compact pistol from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-9-g2-3-0.webp",
+    "fallback_image": "hs-produkt/hs-9-g2-3-0.webp",
+    "gallery": [
+      "hs-produkt/hs-9-g2-3-0.webp",
+      "hs-produkt/page-05.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 5,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs-9 g2 3.0 hs produkt military & law-enforcement firearms pistols 9×19 mm sub-compact pistol from the hs g2 line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-9-g2-3-0-ss",
+    "title": "HS-9 G2 3.0 SS",
+    "ar_title": "HS-9 G2 3.0 SS",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Stainless-slide 9×19 mm sub-compact pistol from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Stainless-slide 9×19 mm sub-compact pistol from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-9-g2-3-0-ss.webp",
+    "fallback_image": "hs-produkt/hs-9-g2-3-0-ss.webp",
+    "gallery": [
+      "hs-produkt/hs-9-g2-3-0-ss.webp",
+      "hs-produkt/page-06.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 6,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs-9 g2 3.0 ss hs produkt military & law-enforcement firearms pistols stainless-slide 9×19 mm sub-compact pistol from the hs g2 line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-9-g2-4-0",
+    "title": "HS-9 G2 4.0",
+    "ar_title": "HS-9 G2 4.0",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "9×19 mm service-size pistol with a 4-inch barrel from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "9×19 mm service-size pistol with a 4-inch barrel from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-9-g2-4-0.webp",
+    "fallback_image": "hs-produkt/hs-9-g2-4-0.webp",
+    "gallery": [
+      "hs-produkt/hs-9-g2-4-0.webp",
+      "hs-produkt/page-07.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 7,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs-9 g2 4.0 hs produkt military & law-enforcement firearms pistols 9×19 mm service-size pistol with a 4-inch barrel from the hs g2 line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-9-g2-4-0-ss",
+    "title": "HS-9 G2 4.0 SS",
+    "ar_title": "HS-9 G2 4.0 SS",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Stainless-slide 9×19 mm service-size pistol from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Stainless-slide 9×19 mm service-size pistol from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-9-g2-4-0-ss.webp",
+    "fallback_image": "hs-produkt/hs-9-g2-4-0-ss.webp",
+    "gallery": [
+      "hs-produkt/hs-9-g2-4-0-ss.webp",
+      "hs-produkt/page-08.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 8,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs-9 g2 4.0 ss hs produkt military & law-enforcement firearms pistols stainless-slide 9×19 mm service-size pistol from the hs g2 line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-9-g2-5-0",
+    "title": "HS-9 G2 5.0",
+    "ar_title": "HS-9 G2 5.0",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Long-slide 9×19 mm duty pistol from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Long-slide 9×19 mm duty pistol from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-9-g2-5-0.webp",
+    "fallback_image": "hs-produkt/hs-9-g2-5-0.webp",
+    "gallery": [
+      "hs-produkt/hs-9-g2-5-0.webp",
+      "hs-produkt/page-09.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 9,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs-9 g2 5.0 hs produkt military & law-enforcement firearms pistols long-slide 9×19 mm duty pistol from the hs g2 line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-9-g2-5-0-ss",
+    "title": "HS-9 G2 5.0 SS",
+    "ar_title": "HS-9 G2 5.0 SS",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Stainless long-slide 9×19 mm duty pistol from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Stainless long-slide 9×19 mm duty pistol from the HS G2 line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-9-g2-5-0-ss.webp",
+    "fallback_image": "hs-produkt/hs-9-g2-5-0-ss.webp",
+    "gallery": [
+      "hs-produkt/hs-9-g2-5-0-ss.webp",
+      "hs-produkt/page-10.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 10,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs-9 g2 5.0 ss hs produkt military & law-enforcement firearms pistols stainless long-slide 9×19 mm duty pistol from the hs g2 line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-sf19-3-8",
+    "title": "HS SF19 3.8",
+    "ar_title": "HS SF19 3.8",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Compact 9×19 mm pistol from the HS SF line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Compact 9×19 mm pistol from the HS SF line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-sf19-3-8.webp",
+    "fallback_image": "hs-produkt/hs-sf19-3-8.webp",
+    "gallery": [
+      "hs-produkt/hs-sf19-3-8.webp",
+      "hs-produkt/page-11.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 11,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs sf19 3.8 hs produkt military & law-enforcement firearms pistols compact 9×19 mm pistol from the hs sf line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-sf19-3-8-fde-ss",
+    "title": "HS SF19 3.8 FDE / SS",
+    "ar_title": "HS SF19 3.8 FDE / SS",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Compact HS SF19 variant offered in FDE and stainless configurations. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Compact HS SF19 variant offered in FDE and stainless configurations. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-sf19-3-8-fde-ss.webp",
+    "fallback_image": "hs-produkt/hs-sf19-3-8-fde-ss.webp",
+    "gallery": [
+      "hs-produkt/hs-sf19-3-8-fde-ss.webp",
+      "hs-produkt/page-12.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 12,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs sf19 3.8 fde / ss hs produkt military & law-enforcement firearms pistols compact hs sf19 variant offered in fde and stainless configurations. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-sf19-4-5",
+    "title": "HS SF19 4.5",
+    "ar_title": "HS SF19 4.5",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Full-size 9×19 mm pistol from the HS SF line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Full-size 9×19 mm pistol from the HS SF line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-sf19-4-5.webp",
+    "fallback_image": "hs-produkt/hs-sf19-4-5.webp",
+    "gallery": [
+      "hs-produkt/hs-sf19-4-5.webp",
+      "hs-produkt/page-13.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 13,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs sf19 4.5 hs produkt military & law-enforcement firearms pistols full-size 9×19 mm pistol from the hs sf line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-sf19-4-5-fde-ss-afde",
+    "title": "HS SF19 4.5 FDE / SS / AFDE",
+    "ar_title": "HS SF19 4.5 FDE / SS / AFDE",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Full-size HS SF19 family in FDE, stainless and AFDE finishes. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Full-size HS SF19 family in FDE, stainless and AFDE finishes. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-sf19-4-5-fde-ss-afde.webp",
+    "fallback_image": "hs-produkt/hs-sf19-4-5-fde-ss-afde.webp",
+    "gallery": [
+      "hs-produkt/hs-sf19-4-5-fde-ss-afde.webp",
+      "hs-produkt/page-14.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 14,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs sf19 4.5 fde / ss / afde hs produkt military & law-enforcement firearms pistols full-size hs sf19 family in fde, stainless and afde finishes. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-sf19-4-5-tb-rdr",
+    "title": "HS SF19 4.5 TB RDR",
+    "ar_title": "HS SF19 4.5 TB RDR",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Optics-ready HS SF19 pistol with threaded barrel. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Optics-ready HS SF19 pistol with threaded barrel. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-sf19-4-5-tb-rdr.webp",
+    "fallback_image": "hs-produkt/hs-sf19-4-5-tb-rdr.webp",
+    "gallery": [
+      "hs-produkt/hs-sf19-4-5-tb-rdr.webp",
+      "hs-produkt/page-15.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 15,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs sf19 4.5 tb rdr hs produkt military & law-enforcement firearms pistols optics-ready hs sf19 pistol with threaded barrel. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-sf19-4-5-tb",
+    "title": "HS SF19 4.5 TB",
+    "ar_title": "HS SF19 4.5 TB",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Threaded-barrel HS SF19 duty pistol family. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Threaded-barrel HS SF19 duty pistol family. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-sf19-4-5-tb.webp",
+    "fallback_image": "hs-produkt/hs-sf19-4-5-tb.webp",
+    "gallery": [
+      "hs-produkt/hs-sf19-4-5-tb.webp",
+      "hs-produkt/page-16.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 16,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs sf19 4.5 tb hs produkt military & law-enforcement firearms pistols threaded-barrel hs sf19 duty pistol family. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-sf19-4-5-rdr",
+    "title": "HS SF19 4.5 RDR",
+    "ar_title": "HS SF19 4.5 RDR",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Optics-ready HS SF19 duty pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Optics-ready HS SF19 duty pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-sf19-4-5-rdr.webp",
+    "fallback_image": "hs-produkt/hs-sf19-4-5-rdr.webp",
+    "gallery": [
+      "hs-produkt/hs-sf19-4-5-rdr.webp",
+      "hs-produkt/page-17.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 17,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs sf19 4.5 rdr hs produkt military & law-enforcement firearms pistols optics-ready hs sf19 duty pistol. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-sf19-4-5-rdr-afde-ss",
+    "title": "HS SF19 4.5 RDR AFDE / SS",
+    "ar_title": "HS SF19 4.5 RDR AFDE / SS",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Optics-ready HS SF19 variants in AFDE and stainless finishes. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Optics-ready HS SF19 variants in AFDE and stainless finishes. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-sf19-4-5-rdr-afde-ss.webp",
+    "fallback_image": "hs-produkt/hs-sf19-4-5-rdr-afde-ss.webp",
+    "gallery": [
+      "hs-produkt/hs-sf19-4-5-rdr-afde-ss.webp",
+      "hs-produkt/page-18.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 18,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs sf19 4.5 rdr afde / ss hs produkt military & law-enforcement firearms pistols optics-ready hs sf19 variants in afde and stainless finishes. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-sf19-5-25",
+    "title": "HS SF19 5.25",
+    "ar_title": "HS SF19 5.25",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Long-slide competition and duty pistol from the HS SF line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Long-slide competition and duty pistol from the HS SF line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-sf19-5-25.webp",
+    "fallback_image": "hs-produkt/hs-sf19-5-25.webp",
+    "gallery": [
+      "hs-produkt/hs-sf19-5-25.webp",
+      "hs-produkt/page-19.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 19,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs sf19 5.25 hs produkt military & law-enforcement firearms pistols long-slide competition and duty pistol from the hs sf line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-sf19-5-25-ss",
+    "title": "HS SF19 5.25 SS",
+    "ar_title": "HS SF19 5.25 SS",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Stainless long-slide HS SF19 pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Stainless long-slide HS SF19 pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-sf19-5-25-ss.webp",
+    "fallback_image": "hs-produkt/hs-sf19-5-25-ss.webp",
+    "gallery": [
+      "hs-produkt/hs-sf19-5-25-ss.webp",
+      "hs-produkt/page-20.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 20,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs sf19 5.25 ss hs produkt military & law-enforcement firearms pistols stainless long-slide hs sf19 pistol. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-s5-3-3",
+    "title": "HS S5 3.3",
+    "ar_title": "HS S5 3.3",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": ".45 ACP compact pistol from the HS S line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": ".45 ACP compact pistol from the HS S line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-s5-3-3.webp",
+    "fallback_image": "hs-produkt/hs-s5-3-3.webp",
+    "gallery": [
+      "hs-produkt/hs-s5-3-3.webp",
+      "hs-produkt/page-21.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 21,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs s5 3.3 hs produkt military & law-enforcement firearms pistols .45 acp compact pistol from the hs s line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-s5-3-3-ss",
+    "title": "HS S5 3.3 SS",
+    "ar_title": "HS S5 3.3 SS",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Stainless-slide .45 ACP compact pistol from the HS S line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Stainless-slide .45 ACP compact pistol from the HS S line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-s5-3-3-ss.webp",
+    "fallback_image": "hs-produkt/hs-s5-3-3-ss.webp",
+    "gallery": [
+      "hs-produkt/hs-s5-3-3-ss.webp",
+      "hs-produkt/page-22.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 22,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs s5 3.3 ss hs produkt military & law-enforcement firearms pistols stainless-slide .45 acp compact pistol from the hs s line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-s7-3-3",
+    "title": "HS S7 3.3",
+    "ar_title": "HS S7 3.3",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Slim 9×19 mm compact pistol from the HS S line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Slim 9×19 mm compact pistol from the HS S line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-s7-3-3.webp",
+    "fallback_image": "hs-produkt/hs-s7-3-3.webp",
+    "gallery": [
+      "hs-produkt/hs-s7-3-3.webp",
+      "hs-produkt/page-23.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 23,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs s7 3.3 hs produkt military & law-enforcement firearms pistols slim 9×19 mm compact pistol from the hs s line. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-s7-3-3-afde-ss",
+    "title": "HS S7 3.3 AFDE / SS",
+    "ar_title": "HS S7 3.3 AFDE / SS",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "HS S7 compact pistol variants in AFDE and stainless finishes. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "HS S7 compact pistol variants in AFDE and stainless finishes. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-s7-3-3-afde-ss.webp",
+    "fallback_image": "hs-produkt/hs-s7-3-3-afde-ss.webp",
+    "gallery": [
+      "hs-produkt/hs-s7-3-3-afde-ss.webp",
+      "hs-produkt/page-24.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 24,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs s7 3.3 afde / ss hs produkt military & law-enforcement firearms pistols hs s7 compact pistol variants in afde and stainless finishes. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-h11-pro-rdr",
+    "title": "HS H11 PRO RDR",
+    "ar_title": "HS H11 PRO RDR",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Optics-ready high-capacity micro-compact 9×19 mm pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Optics-ready high-capacity micro-compact 9×19 mm pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-h11-pro-rdr.webp",
+    "fallback_image": "hs-produkt/hs-h11-pro-rdr.webp",
+    "gallery": [
+      "hs-produkt/hs-h11-pro-rdr.webp",
+      "hs-produkt/page-25.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 25,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs h11 pro rdr hs produkt military & law-enforcement firearms pistols optics-ready high-capacity micro-compact 9×19 mm pistol. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-h11-pro-rdr-cc",
+    "title": "HS H11 PRO RDR CC",
+    "ar_title": "HS H11 PRO RDR CC",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Concealed-carry configuration of the optics-ready HS H11 PRO. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Concealed-carry configuration of the optics-ready HS H11 PRO. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-h11-pro-rdr-cc.webp",
+    "fallback_image": "hs-produkt/hs-h11-pro-rdr-cc.webp",
+    "gallery": [
+      "hs-produkt/hs-h11-pro-rdr-cc.webp",
+      "hs-produkt/page-26.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 26,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs h11 pro rdr cc hs produkt military & law-enforcement firearms pistols concealed-carry configuration of the optics-ready hs h11 pro. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-h11",
+    "title": "HS H11",
+    "ar_title": "HS H11",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "High-capacity micro-compact 9×19 mm pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "High-capacity micro-compact 9×19 mm pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-h11.webp",
+    "fallback_image": "hs-produkt/hs-h11.webp",
+    "gallery": [
+      "hs-produkt/hs-h11.webp",
+      "hs-produkt/page-27.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 27,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs h11 hs produkt military & law-enforcement firearms pistols high-capacity micro-compact 9×19 mm pistol. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-h11-rdr",
+    "title": "HS H11 RDR",
+    "ar_title": "HS H11 RDR",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Optics-ready HS H11 micro-compact pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Optics-ready HS H11 micro-compact pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-h11-rdr.webp",
+    "fallback_image": "hs-produkt/hs-h11-rdr.webp",
+    "gallery": [
+      "hs-produkt/hs-h11-rdr.webp",
+      "hs-produkt/page-28.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 28,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs h11 rdr hs produkt military & law-enforcement firearms pistols optics-ready hs h11 micro-compact pistol. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-echelon-4-5",
+    "title": "HS Echelon 4.5",
+    "ar_title": "HS Echelon 4.5",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Full-size modular 9×19 mm Echelon pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Full-size modular 9×19 mm Echelon pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-echelon-4-5.webp",
+    "fallback_image": "hs-produkt/hs-echelon-4-5.webp",
+    "gallery": [
+      "hs-produkt/hs-echelon-4-5.webp",
+      "hs-produkt/page-29.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 29,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs echelon 4.5 hs produkt military & law-enforcement firearms pistols full-size modular 9×19 mm echelon pistol. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-echelon-comp-4-5",
+    "title": "HS Echelon Comp 4.5",
+    "ar_title": "HS Echelon Comp 4.5",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Compensated full-size Echelon pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Compensated full-size Echelon pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-echelon-comp-4-5.webp",
+    "fallback_image": "hs-produkt/hs-echelon-comp-4-5.webp",
+    "gallery": [
+      "hs-produkt/hs-echelon-comp-4-5.webp",
+      "hs-produkt/page-30.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 30,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs echelon comp 4.5 hs produkt military & law-enforcement firearms pistols compensated full-size echelon pistol. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-echelon-4-0c",
+    "title": "HS Echelon 4.0C",
+    "ar_title": "HS Echelon 4.0C",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Compact modular Echelon pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Compact modular Echelon pistol. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-echelon-4-0c.webp",
+    "fallback_image": "hs-produkt/hs-echelon-4-0c.webp",
+    "gallery": [
+      "hs-produkt/hs-echelon-4-0c.webp",
+      "hs-produkt/page-31.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 31,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs echelon 4.0c hs produkt military & law-enforcement firearms pistols compact modular echelon pistol. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-echelon-4-0c-threaded-barrel",
+    "title": "HS Echelon 4.0C Threaded Barrel",
+    "ar_title": "HS Echelon 4.0C Threaded Barrel",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Compact Echelon pistol with threaded barrel. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Compact Echelon pistol with threaded barrel. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-echelon-4-0c-threaded-barrel.webp",
+    "fallback_image": "hs-produkt/hs-echelon-4-0c-threaded-barrel.webp",
+    "gallery": [
+      "hs-produkt/hs-echelon-4-0c-threaded-barrel.webp",
+      "hs-produkt/page-32.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 32,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs echelon 4.0c threaded barrel hs produkt military & law-enforcement firearms pistols compact echelon pistol with threaded barrel. croatia"
+  },
+  {
+    "id": "hs-produkt-vhs2s-semi-auto",
+    "title": "VHS2S Semi-Auto",
+    "ar_title": "VHS2S Semi-Auto",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Semi-Automatic Rifles",
+    "ar_category": "Semi-Automatic Rifles",
+    "description": "Semi-automatic .223 Rem bullpup rifle from the VHS line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Semi-automatic .223 Rem bullpup rifle from the VHS line. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/vhs2s-semi-auto.webp",
+    "fallback_image": "hs-produkt/vhs2s-semi-auto.webp",
+    "gallery": [
+      "hs-produkt/vhs2s-semi-auto.webp",
+      "hs-produkt/page-33.webp",
+      "hs-produkt/page-34.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 33,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "vhs2s semi-auto hs produkt military & law-enforcement firearms semi-automatic rifles semi-automatic .223 rem bullpup rifle from the vhs line. croatia"
+  },
+  {
+    "id": "hs-produkt-vhs-2",
+    "title": "VHS-2",
+    "ar_title": "VHS-2",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "Ambidextrous 5.56 NATO bullpup assault-rifle platform. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Ambidextrous 5.56 NATO bullpup assault-rifle platform. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/vhs-2.webp",
+    "fallback_image": "hs-produkt/vhs-2.webp",
+    "gallery": [
+      "hs-produkt/vhs-2.webp",
+      "hs-produkt/page-35.webp",
+      "hs-produkt/page-36.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 35,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "vhs-2 hs produkt military & law-enforcement firearms assault rifles & carbines ambidextrous 5.56 nato bullpup assault-rifle platform. croatia"
+  },
+  {
+    "id": "hs-produkt-vhs-bg",
+    "title": "VHS-BG",
+    "ar_title": "VHS-BG",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Grenade Launchers",
+    "ar_category": "Grenade Launchers",
+    "description": "40×46 mm stand-alone grenade-launcher platform. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "40×46 mm stand-alone grenade-launcher platform. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/vhs-bg.webp",
+    "fallback_image": "hs-produkt/vhs-bg.webp",
+    "gallery": [
+      "hs-produkt/vhs-bg.webp",
+      "hs-produkt/page-37.webp",
+      "hs-produkt/page-38.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 37,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "vhs-bg hs produkt military & law-enforcement firearms grenade launchers 40×46 mm stand-alone grenade-launcher platform. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-kuna-9mm",
+    "title": "HS KUNA 9mm",
+    "ar_title": "HS KUNA 9mm",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Submachine Guns & Carbines",
+    "ar_category": "Submachine Guns & Carbines",
+    "description": "Compact 9×19 mm KUNA platform with folding stock. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Compact 9×19 mm KUNA platform with folding stock. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-kuna-9mm.webp",
+    "fallback_image": "hs-produkt/hs-kuna-9mm.webp",
+    "gallery": [
+      "hs-produkt/hs-kuna-9mm.webp",
+      "hs-produkt/page-39.webp",
+      "hs-produkt/page-40.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 39,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs kuna 9mm hs produkt military & law-enforcement firearms submachine guns & carbines compact 9×19 mm kuna platform with folding stock. croatia"
+  },
+  {
+    "id": "hs-produkt-hs-kuna-40-s-w",
+    "title": "HS KUNA .40 S&W",
+    "ar_title": "HS KUNA .40 S&W",
+    "brand": "HS Produkt",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Submachine Guns & Carbines",
+    "ar_category": "Submachine Guns & Carbines",
+    "description": "Compact KUNA platform chambered in .40 S&W. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "ar_description": "Compact KUNA platform chambered in .40 S&W. Model-specific imagery and specifications are sourced from the official HS Produkt catalogue.",
+    "image": "hs-produkt/hs-kuna-40-s-w.webp",
+    "fallback_image": "hs-produkt/hs-kuna-40-s-w.webp",
+    "gallery": [
+      "hs-produkt/hs-kuna-40-s-w.webp",
+      "hs-produkt/page-41.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Croatia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "hs-produkt-firearms-catalogue-2025.pdf",
+    "page": 41,
+    "source_title": "HS Produkt Product Catalogue",
+    "brand_url": "https://www.hs-produkt.hr",
+    "source_url": "https://www.hs-produkt.hr",
+    "brand_source_status": "official",
+    "media_credit": "HS Produkt official catalogue imagery",
+    "official_media": false,
+    "search": "hs kuna .40 s&w hs produkt military & law-enforcement firearms submachine guns & carbines compact kuna platform chambered in .40 s&w. croatia"
+  },
+  {
+    "id": "zastava-mcs-m19",
+    "title": "MCS M19",
+    "ar_title": "MCS M19",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "Modular combat system offered in 6.5×39 mm and 7.62×39 mm. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Modular combat system offered in 6.5×39 mm and 7.62×39 mm. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/mcs-m19.webp",
+    "fallback_image": "zastava/mcs-m19.webp",
+    "gallery": [
+      "zastava/mcs-m19.webp",
+      "zastava/page-07.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 7,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "mcs m19 zastava arms military & law-enforcement firearms assault rifles & carbines modular combat system offered in 6.5×39 mm and 7.62×39 mm. serbia"
+  },
+  {
+    "id": "zastava-mcs-m20",
+    "title": "MCS M20",
+    "ar_title": "MCS M20",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "Compact modular combat system offered in 6.5×39 mm and 7.62×39 mm. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Compact modular combat system offered in 6.5×39 mm and 7.62×39 mm. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/mcs-m20.webp",
+    "fallback_image": "zastava/mcs-m20.webp",
+    "gallery": [
+      "zastava/mcs-m20.webp",
+      "zastava/page-07.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 7,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "mcs m20 zastava arms military & law-enforcement firearms assault rifles & carbines compact modular combat system offered in 6.5×39 mm and 7.62×39 mm. serbia"
+  },
+  {
+    "id": "zastava-m21-bs-submachine-gun",
+    "title": "M21 BS Submachine Gun",
+    "ar_title": "M21 BS Submachine Gun",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Submachine Guns & Carbines",
+    "ar_category": "Submachine Guns & Carbines",
+    "description": "Compact 5.56×45 mm member of the Zastava M21 family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Compact 5.56×45 mm member of the Zastava M21 family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m21-bs-submachine-gun.webp",
+    "fallback_image": "zastava/m21-bs-submachine-gun.webp",
+    "gallery": [
+      "zastava/m21-bs-submachine-gun.webp",
+      "zastava/page-10.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 10,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m21 bs submachine gun zastava arms military & law-enforcement firearms submachine guns & carbines compact 5.56×45 mm member of the zastava m21 family. serbia"
+  },
+  {
+    "id": "zastava-m21-abs-assault-rifle",
+    "title": "M21 ABS Assault Rifle",
+    "ar_title": "M21 ABS Assault Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "5.56×45 mm assault-rifle configuration from the M21 family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "5.56×45 mm assault-rifle configuration from the M21 family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m21-abs-assault-rifle.webp",
+    "fallback_image": "zastava/m21-abs-assault-rifle.webp",
+    "gallery": [
+      "zastava/m21-abs-assault-rifle.webp",
+      "zastava/page-10.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 10,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m21 abs assault rifle zastava arms military & law-enforcement firearms assault rifles & carbines 5.56×45 mm assault-rifle configuration from the m21 family. serbia"
+  },
+  {
+    "id": "zastava-m21-sbs-assault-rifle",
+    "title": "M21 SBS Assault Rifle",
+    "ar_title": "M21 SBS Assault Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "5.56×45 mm assault-rifle configuration from the M21 family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "5.56×45 mm assault-rifle configuration from the M21 family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m21-sbs-assault-rifle.webp",
+    "fallback_image": "zastava/m21-sbs-assault-rifle.webp",
+    "gallery": [
+      "zastava/m21-sbs-assault-rifle.webp",
+      "zastava/page-10.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 10,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m21 sbs assault rifle zastava arms military & law-enforcement firearms assault rifles & carbines 5.56×45 mm assault-rifle configuration from the m21 family. serbia"
+  },
+  {
+    "id": "zastava-m21-assault-rifle",
+    "title": "M21 Assault Rifle",
+    "ar_title": "M21 Assault Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "Standard 5.56×45 mm M21 assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Standard 5.56×45 mm M21 assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m21-assault-rifle.webp",
+    "fallback_image": "zastava/m21-assault-rifle.webp",
+    "gallery": [
+      "zastava/m21-assault-rifle.webp",
+      "zastava/page-11.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 11,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m21 assault rifle zastava arms military & law-enforcement firearms assault rifles & carbines standard 5.56×45 mm m21 assault rifle. serbia"
+  },
+  {
+    "id": "zastava-m05-e1-assault-rifle",
+    "title": "M05 E1 Assault Rifle",
+    "ar_title": "M05 E1 Assault Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "7.62×39 mm M05 E1 assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "7.62×39 mm M05 E1 assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m05-e1-assault-rifle.webp",
+    "fallback_image": "zastava/m05-e1-assault-rifle.webp",
+    "gallery": [
+      "zastava/m05-e1-assault-rifle.webp",
+      "zastava/page-14.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 14,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m05 e1 assault rifle zastava arms military & law-enforcement firearms assault rifles & carbines 7.62×39 mm m05 e1 assault rifle. serbia"
+  },
+  {
+    "id": "zastava-m05-e2-assault-rifle",
+    "title": "M05 E2 Assault Rifle",
+    "ar_title": "M05 E2 Assault Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "7.62×39 mm M05 E2 assault rifle with optic-mount provision. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "7.62×39 mm M05 E2 assault rifle with optic-mount provision. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m05-e2-assault-rifle.webp",
+    "fallback_image": "zastava/m05-e2-assault-rifle.webp",
+    "gallery": [
+      "zastava/m05-e2-assault-rifle.webp",
+      "zastava/page-15.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 15,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m05 e2 assault rifle zastava arms military & law-enforcement firearms assault rifles & carbines 7.62×39 mm m05 e2 assault rifle with optic-mount provision. serbia"
+  },
+  {
+    "id": "zastava-m05-e3-assault-rifle",
+    "title": "M05 E3 Assault Rifle",
+    "ar_title": "M05 E3 Assault Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "7.62×39 mm M05 E3 assault rifle with full-length rail. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "7.62×39 mm M05 E3 assault rifle with full-length rail. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m05-e3-assault-rifle.webp",
+    "fallback_image": "zastava/m05-e3-assault-rifle.webp",
+    "gallery": [
+      "zastava/m05-e3-assault-rifle.webp",
+      "zastava/page-16.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 16,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m05 e3 assault rifle zastava arms military & law-enforcement firearms assault rifles & carbines 7.62×39 mm m05 e3 assault rifle with full-length rail. serbia"
+  },
+  {
+    "id": "zastava-m05-c1-submachine-gun",
+    "title": "M05 C1 Submachine Gun",
+    "ar_title": "M05 C1 Submachine Gun",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Submachine Guns & Carbines",
+    "ar_category": "Submachine Guns & Carbines",
+    "description": "Compact 7.62×39 mm M05 C1 configuration. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Compact 7.62×39 mm M05 C1 configuration. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m05-c1-submachine-gun.webp",
+    "fallback_image": "zastava/m05-c1-submachine-gun.webp",
+    "gallery": [
+      "zastava/m05-c1-submachine-gun.webp",
+      "zastava/page-18.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 18,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m05 c1 submachine gun zastava arms military & law-enforcement firearms submachine guns & carbines compact 7.62×39 mm m05 c1 configuration. serbia"
+  },
+  {
+    "id": "zastava-m05-g1-light-machine-gun",
+    "title": "M05 G1 Light Machine Gun",
+    "ar_title": "M05 G1 Light Machine Gun",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Machine Guns",
+    "ar_category": "Machine Guns",
+    "description": "7.62×39 mm light-machine-gun configuration from the M05 family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "7.62×39 mm light-machine-gun configuration from the M05 family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m05-g1-light-machine-gun.webp",
+    "fallback_image": "zastava/m05-g1-light-machine-gun.webp",
+    "gallery": [
+      "zastava/m05-g1-light-machine-gun.webp",
+      "zastava/page-19.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 19,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m05 g1 light machine gun zastava arms military & law-enforcement firearms machine guns 7.62×39 mm light-machine-gun configuration from the m05 family. serbia"
+  },
+  {
+    "id": "zastava-m05-n1-assault-rifle",
+    "title": "M05 N1 Assault Rifle",
+    "ar_title": "M05 N1 Assault Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "7.62×51 mm M05 N1 assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "7.62×51 mm M05 N1 assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m05-n1-assault-rifle.webp",
+    "fallback_image": "zastava/m05-n1-assault-rifle.webp",
+    "gallery": [
+      "zastava/m05-n1-assault-rifle.webp",
+      "zastava/page-20.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 20,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m05 n1 assault rifle zastava arms military & law-enforcement firearms assault rifles & carbines 7.62×51 mm m05 n1 assault rifle. serbia"
+  },
+  {
+    "id": "zastava-m05-n2-assault-rifle",
+    "title": "M05 N2 Assault Rifle",
+    "ar_title": "M05 N2 Assault Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "7.62×51 mm M05 N2 assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "7.62×51 mm M05 N2 assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m05-n2-assault-rifle.webp",
+    "fallback_image": "zastava/m05-n2-assault-rifle.webp",
+    "gallery": [
+      "zastava/m05-n2-assault-rifle.webp",
+      "zastava/page-20.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 20,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m05 n2 assault rifle zastava arms military & law-enforcement firearms assault rifles & carbines 7.62×51 mm m05 n2 assault rifle. serbia"
+  },
+  {
+    "id": "zastava-m05-n1fs-assault-rifle",
+    "title": "M05 N1FS Assault Rifle",
+    "ar_title": "M05 N1FS Assault Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "Folding-stock 7.62×51 mm M05 N1FS assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Folding-stock 7.62×51 mm M05 N1FS assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m05-n1fs-assault-rifle.webp",
+    "fallback_image": "zastava/m05-n1fs-assault-rifle.webp",
+    "gallery": [
+      "zastava/m05-n1fs-assault-rifle.webp",
+      "zastava/page-21.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 21,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m05 n1fs assault rifle zastava arms military & law-enforcement firearms assault rifles & carbines folding-stock 7.62×51 mm m05 n1fs assault rifle. serbia"
+  },
+  {
+    "id": "zastava-m05-n2fs-assault-rifle",
+    "title": "M05 N2FS Assault Rifle",
+    "ar_title": "M05 N2FS Assault Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Assault Rifles & Carbines",
+    "ar_category": "Assault Rifles & Carbines",
+    "description": "Folding-stock 7.62×51 mm M05 N2FS assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Folding-stock 7.62×51 mm M05 N2FS assault rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m05-n2fs-assault-rifle.webp",
+    "fallback_image": "zastava/m05-n2fs-assault-rifle.webp",
+    "gallery": [
+      "zastava/m05-n2fs-assault-rifle.webp",
+      "zastava/page-21.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 21,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m05 n2fs assault rifle zastava arms military & law-enforcement firearms assault rifles & carbines folding-stock 7.62×51 mm m05 n2fs assault rifle. serbia"
+  },
+  {
+    "id": "zastava-srx20-semi-automatic-sniper-rifle",
+    "title": "SRX20 Semi-Automatic Sniper Rifle",
+    "ar_title": "SRX20 Semi-Automatic Sniper Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Sniper & Precision Rifles",
+    "ar_category": "Sniper & Precision Rifles",
+    "description": "Semi-automatic precision rifle from the Zastava sniper-rifle range. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Semi-automatic precision rifle from the Zastava sniper-rifle range. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/srx20-semi-automatic-sniper-rifle.webp",
+    "fallback_image": "zastava/srx20-semi-automatic-sniper-rifle.webp",
+    "gallery": [
+      "zastava/srx20-semi-automatic-sniper-rifle.webp",
+      "zastava/page-23.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 23,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "srx20 semi-automatic sniper rifle zastava arms military & law-enforcement firearms sniper & precision rifles semi-automatic precision rifle from the zastava sniper-rifle range. serbia"
+  },
+  {
+    "id": "zastava-m91-semi-automatic-sniper-rifle-7-6254r",
+    "title": "M91 Semi-Automatic Sniper Rifle 7.62×54R",
+    "ar_title": "M91 Semi-Automatic Sniper Rifle 7.62×54R",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Sniper & Precision Rifles",
+    "ar_category": "Sniper & Precision Rifles",
+    "description": "M91 semi-automatic sniper rifle chambered in 7.62×54R. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "M91 semi-automatic sniper rifle chambered in 7.62×54R. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m91-semi-automatic-sniper-rifle-7-6254r.webp",
+    "fallback_image": "zastava/m91-semi-automatic-sniper-rifle-7-6254r.webp",
+    "gallery": [
+      "zastava/m91-semi-automatic-sniper-rifle-7-6254r.webp",
+      "zastava/page-24.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 24,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m91 semi-automatic sniper rifle 7.62×54r zastava arms military & law-enforcement firearms sniper & precision rifles m91 semi-automatic sniper rifle chambered in 7.62×54r. serbia"
+  },
+  {
+    "id": "zastava-m91-semi-automatic-sniper-rifle-7-6251",
+    "title": "M91 Semi-Automatic Sniper Rifle 7.62×51",
+    "ar_title": "M91 Semi-Automatic Sniper Rifle 7.62×51",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Sniper & Precision Rifles",
+    "ar_category": "Sniper & Precision Rifles",
+    "description": "M91 semi-automatic sniper-rifle variant chambered in 7.62×51 mm. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "M91 semi-automatic sniper-rifle variant chambered in 7.62×51 mm. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m91-semi-automatic-sniper-rifle-7-6251.webp",
+    "fallback_image": "zastava/m91-semi-automatic-sniper-rifle-7-6251.webp",
+    "gallery": [
+      "zastava/m91-semi-automatic-sniper-rifle-7-6251.webp",
+      "zastava/page-25.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 25,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m91 semi-automatic sniper rifle 7.62×51 zastava arms military & law-enforcement firearms sniper & precision rifles m91 semi-automatic sniper-rifle variant chambered in 7.62×51 mm. serbia"
+  },
+  {
+    "id": "zastava-m07-af-sniper-rifle",
+    "title": "M07 AF Sniper Rifle",
+    "ar_title": "M07 AF Sniper Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Sniper & Precision Rifles",
+    "ar_category": "Sniper & Precision Rifles",
+    "description": "Bolt-action M07 AF precision rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Bolt-action M07 AF precision rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m07-af-sniper-rifle.webp",
+    "fallback_image": "zastava/m07-af-sniper-rifle.webp",
+    "gallery": [
+      "zastava/m07-af-sniper-rifle.webp",
+      "zastava/page-26.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 26,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m07 af sniper rifle zastava arms military & law-enforcement firearms sniper & precision rifles bolt-action m07 af precision rifle. serbia"
+  },
+  {
+    "id": "zastava-m07-as-sniper-rifle",
+    "title": "M07 AS Sniper Rifle",
+    "ar_title": "M07 AS Sniper Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Sniper & Precision Rifles",
+    "ar_category": "Sniper & Precision Rifles",
+    "description": "Bolt-action M07 AS precision rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Bolt-action M07 AS precision rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m07-as-sniper-rifle.webp",
+    "fallback_image": "zastava/m07-as-sniper-rifle.webp",
+    "gallery": [
+      "zastava/m07-as-sniper-rifle.webp",
+      "zastava/page-28.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 28,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m07 as sniper rifle zastava arms military & law-enforcement firearms sniper & precision rifles bolt-action m07 as precision rifle. serbia"
+  },
+  {
+    "id": "zastava-m07-m-338-lapua-sniper-rifle",
+    "title": "M07 M .338 Lapua Sniper Rifle",
+    "ar_title": "M07 M .338 Lapua Sniper Rifle",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Sniper & Precision Rifles",
+    "ar_category": "Sniper & Precision Rifles",
+    "description": ".338 Lapua long-range precision rifle from the M07 family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": ".338 Lapua long-range precision rifle from the M07 family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m07-m-338-lapua-sniper-rifle.webp",
+    "fallback_image": "zastava/m07-m-338-lapua-sniper-rifle.webp",
+    "gallery": [
+      "zastava/m07-m-338-lapua-sniper-rifle.webp",
+      "zastava/page-29.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 29,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m07 m .338 lapua sniper rifle zastava arms military & law-enforcement firearms sniper & precision rifles .338 lapua long-range precision rifle from the m07 family. serbia"
+  },
+  {
+    "id": "zastava-m12-long-range-rifle-12-7108",
+    "title": "M12 Long-Range Rifle 12.7×108",
+    "ar_title": "M12 Long-Range Rifle 12.7×108",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Long-Range Rifles",
+    "ar_category": "Long-Range Rifles",
+    "description": "12.7×108 mm long-range anti-materiel rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "12.7×108 mm long-range anti-materiel rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m12-long-range-rifle-12-7108.webp",
+    "fallback_image": "zastava/m12-long-range-rifle-12-7108.webp",
+    "gallery": [
+      "zastava/m12-long-range-rifle-12-7108.webp",
+      "zastava/page-32.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 32,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m12 long-range rifle 12.7×108 zastava arms military & law-enforcement firearms long-range rifles 12.7×108 mm long-range anti-materiel rifle. serbia"
+  },
+  {
+    "id": "zastava-m12m-long-range-rifle-50-browning",
+    "title": "M12M Long-Range Rifle .50 Browning",
+    "ar_title": "M12M Long-Range Rifle .50 Browning",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Long-Range Rifles",
+    "ar_category": "Long-Range Rifles",
+    "description": ".50 Browning long-range anti-materiel rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": ".50 Browning long-range anti-materiel rifle. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m12m-long-range-rifle-50-browning.webp",
+    "fallback_image": "zastava/m12m-long-range-rifle-50-browning.webp",
+    "gallery": [
+      "zastava/m12m-long-range-rifle-50-browning.webp",
+      "zastava/page-32.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 32,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m12m long-range rifle .50 browning zastava arms military & law-enforcement firearms long-range rifles .50 browning long-range anti-materiel rifle. serbia"
+  },
+  {
+    "id": "zastava-m12-black-spear",
+    "title": "M12 Black Spear",
+    "ar_title": "M12 Black Spear",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Long-Range Rifles",
+    "ar_category": "Long-Range Rifles",
+    "description": "Long-range rifle from the M12 Black Spear family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Long-range rifle from the M12 Black Spear family. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m12-black-spear.webp",
+    "fallback_image": "zastava/m12-black-spear.webp",
+    "gallery": [
+      "zastava/m12-black-spear.webp",
+      "zastava/page-30.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 30,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m12 black spear zastava arms military & law-enforcement firearms long-range rifles long-range rifle from the m12 black spear family. serbia"
+  },
+  {
+    "id": "zastava-m86-machine-gun",
+    "title": "M86 Machine Gun",
+    "ar_title": "M86 Machine Gun",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Machine Guns",
+    "ar_category": "Machine Guns",
+    "description": "Vehicle-oriented machine-gun configuration from the Zastava range. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Vehicle-oriented machine-gun configuration from the Zastava range. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m86-machine-gun.webp",
+    "fallback_image": "zastava/m86-machine-gun.webp",
+    "gallery": [
+      "zastava/m86-machine-gun.webp",
+      "zastava/page-36.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 36,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m86 machine gun zastava arms military & law-enforcement firearms machine guns vehicle-oriented machine-gun configuration from the zastava range. serbia"
+  },
+  {
+    "id": "zastava-m84-light-machine-gun",
+    "title": "M84 Light Machine Gun",
+    "ar_title": "M84 Light Machine Gun",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Machine Guns",
+    "ar_category": "Machine Guns",
+    "description": "7.62×54R light machine gun. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "7.62×54R light machine gun. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m84-light-machine-gun.webp",
+    "fallback_image": "zastava/m84-light-machine-gun.webp",
+    "gallery": [
+      "zastava/m84-light-machine-gun.webp",
+      "zastava/page-37.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 37,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m84 light machine gun zastava arms military & law-enforcement firearms machine guns 7.62×54r light machine gun. serbia"
+  },
+  {
+    "id": "zastava-m84m-light-machine-gun",
+    "title": "M84M Light Machine Gun",
+    "ar_title": "M84M Light Machine Gun",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Machine Guns",
+    "ar_category": "Machine Guns",
+    "description": "Modernized 7.62×54R M84M light machine gun. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Modernized 7.62×54R M84M light machine gun. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m84m-light-machine-gun.webp",
+    "fallback_image": "zastava/m84m-light-machine-gun.webp",
+    "gallery": [
+      "zastava/m84m-light-machine-gun.webp",
+      "zastava/page-39.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 39,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m84m light machine gun zastava arms military & law-enforcement firearms machine guns modernized 7.62×54r m84m light machine gun. serbia"
+  },
+  {
+    "id": "zastava-m87-heavy-machine-gun",
+    "title": "M87 Heavy Machine Gun",
+    "ar_title": "M87 Heavy Machine Gun",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Machine Guns",
+    "ar_category": "Machine Guns",
+    "description": "12.7 mm heavy machine gun based on the NSV operating system. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "12.7 mm heavy machine gun based on the NSV operating system. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m87-heavy-machine-gun.webp",
+    "fallback_image": "zastava/m87-heavy-machine-gun.webp",
+    "gallery": [
+      "zastava/m87-heavy-machine-gun.webp",
+      "zastava/page-40.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 40,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m87 heavy machine gun zastava arms military & law-enforcement firearms machine guns 12.7 mm heavy machine gun based on the nsv operating system. serbia"
+  },
+  {
+    "id": "zastava-m87-naval-heavy-machine-gun",
+    "title": "M87 Naval Heavy Machine Gun",
+    "ar_title": "M87 Naval Heavy Machine Gun",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Machine Guns",
+    "ar_category": "Machine Guns",
+    "description": "Naval mounting configuration of the M87 heavy machine gun. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Naval mounting configuration of the M87 heavy machine gun. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m87-naval-heavy-machine-gun.webp",
+    "fallback_image": "zastava/m87-naval-heavy-machine-gun.webp",
+    "gallery": [
+      "zastava/m87-naval-heavy-machine-gun.webp",
+      "zastava/page-35.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 35,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m87 naval heavy machine gun zastava arms military & law-enforcement firearms machine guns naval mounting configuration of the m87 heavy machine gun. serbia"
+  },
+  {
+    "id": "zastava-m02-coyote-heavy-machine-gun",
+    "title": "M02 Coyote Heavy Machine Gun",
+    "ar_title": "M02 Coyote Heavy Machine Gun",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Machine Guns",
+    "ar_category": "Machine Guns",
+    "description": "Tripod-mounted heavy machine-gun system based on the M87. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Tripod-mounted heavy machine-gun system based on the M87. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m02-coyote-heavy-machine-gun.webp",
+    "fallback_image": "zastava/m02-coyote-heavy-machine-gun.webp",
+    "gallery": [
+      "zastava/m02-coyote-heavy-machine-gun.webp",
+      "zastava/page-42.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 42,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m02 coyote heavy machine gun zastava arms military & law-enforcement firearms machine guns tripod-mounted heavy machine-gun system based on the m87. serbia"
+  },
+  {
+    "id": "zastava-m07-vehicle-machine-gun",
+    "title": "M07 Vehicle Machine Gun",
+    "ar_title": "M07 Vehicle Machine Gun",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Machine Guns",
+    "ar_category": "Machine Guns",
+    "description": "Vehicle-mounted heavy machine-gun configuration. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Vehicle-mounted heavy machine-gun configuration. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m07-vehicle-machine-gun.webp",
+    "fallback_image": "zastava/m07-vehicle-machine-gun.webp",
+    "gallery": [
+      "zastava/m07-vehicle-machine-gun.webp",
+      "zastava/page-44.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 44,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m07 vehicle machine gun zastava arms military & law-enforcement firearms machine guns vehicle-mounted heavy machine-gun configuration. serbia"
+  },
+  {
+    "id": "zastava-m93-automatic-grenade-launcher",
+    "title": "M93 Automatic Grenade Launcher",
+    "ar_title": "M93 Automatic Grenade Launcher",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Grenade Launchers",
+    "ar_category": "Grenade Launchers",
+    "description": "30 mm automatic grenade-launcher system. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "30 mm automatic grenade-launcher system. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/m93-automatic-grenade-launcher.webp",
+    "fallback_image": "zastava/m93-automatic-grenade-launcher.webp",
+    "gallery": [
+      "zastava/m93-automatic-grenade-launcher.webp",
+      "zastava/page-46.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 46,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "m93 automatic grenade launcher zastava arms military & law-enforcement firearms grenade launchers 30 mm automatic grenade-launcher system. serbia"
+  },
+  {
+    "id": "zastava-gl-m11-4046-mm-grenade-launcher",
+    "title": "GL M11 40×46 mm Grenade Launcher",
+    "ar_title": "GL M11 40×46 mm Grenade Launcher",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Grenade Launchers",
+    "ar_category": "Grenade Launchers",
+    "description": "40×46 mm launcher designed for integration with rifle platforms. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "40×46 mm launcher designed for integration with rifle platforms. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/gl-m11-4046-mm-grenade-launcher.webp",
+    "fallback_image": "zastava/gl-m11-4046-mm-grenade-launcher.webp",
+    "gallery": [
+      "zastava/gl-m11-4046-mm-grenade-launcher.webp",
+      "zastava/page-48.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 48,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "gl m11 40×46 mm grenade launcher zastava arms military & law-enforcement firearms grenade launchers 40×46 mm launcher designed for integration with rifle platforms. serbia"
+  },
+  {
+    "id": "zastava-bgp-40-mm-underbarrel-grenade-launcher",
+    "title": "BGP 40 mm Underbarrel Grenade Launcher",
+    "ar_title": "BGP 40 mm Underbarrel Grenade Launcher",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Grenade Launchers",
+    "ar_category": "Grenade Launchers",
+    "description": "40 mm underbarrel grenade-launcher system. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "40 mm underbarrel grenade-launcher system. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/bgp-40-mm-underbarrel-grenade-launcher.webp",
+    "fallback_image": "zastava/bgp-40-mm-underbarrel-grenade-launcher.webp",
+    "gallery": [
+      "zastava/bgp-40-mm-underbarrel-grenade-launcher.webp",
+      "zastava/page-49.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 49,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "bgp 40 mm underbarrel grenade launcher zastava arms military & law-enforcement firearms grenade launchers 40 mm underbarrel grenade-launcher system. serbia"
+  },
+  {
+    "id": "zastava-cz-999-pistol",
+    "title": "CZ 999 Pistol",
+    "ar_title": "CZ 999 Pistol",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "9×19 mm semi-automatic service pistol. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "9×19 mm semi-automatic service pistol. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/cz-999-pistol.webp",
+    "fallback_image": "zastava/cz-999-pistol.webp",
+    "gallery": [
+      "zastava/cz-999-pistol.webp",
+      "zastava/page-50.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 50,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "cz 999 pistol zastava arms military & law-enforcement firearms pistols 9×19 mm semi-automatic service pistol. serbia"
+  },
+  {
+    "id": "zastava-ez-9-pistol",
+    "title": "EZ 9 Pistol",
+    "ar_title": "EZ 9 Pistol",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "9×19 mm service pistol from the Zastava pistol range. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "9×19 mm service pistol from the Zastava pistol range. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/ez-9-pistol.webp",
+    "fallback_image": "zastava/ez-9-pistol.webp",
+    "gallery": [
+      "zastava/ez-9-pistol.webp",
+      "zastava/page-51.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 51,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "ez 9 pistol zastava arms military & law-enforcement firearms pistols 9×19 mm service pistol from the zastava pistol range. serbia"
+  },
+  {
+    "id": "zastava-ez-9-compact-pistol",
+    "title": "EZ 9 Compact Pistol",
+    "ar_title": "EZ 9 Compact Pistol",
+    "brand": "Zastava Arms",
+    "sector": "Military & Law-Enforcement Firearms",
+    "ar_sector": "الأسلحة النارية العسكرية وإنفاذ القانون",
+    "category": "Pistols",
+    "ar_category": "Pistols",
+    "description": "Compact 9×19 mm service pistol. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "ar_description": "Compact 9×19 mm service pistol. Presented with model-specific imagery from the 2024 Zastava military catalogue.",
+    "image": "zastava/ez-9-compact-pistol.webp",
+    "fallback_image": "zastava/ez-9-compact-pistol.webp",
+    "gallery": [
+      "zastava/ez-9-compact-pistol.webp",
+      "zastava/page-51.webp"
+    ],
+    "solutions": [
+      "Military & Law-Enforcement Firearms"
+    ],
+    "tags": [
+      "Serbia",
+      "Official catalogue",
+      "Military and law-enforcement firearms"
+    ],
+    "pdf": "zastava-military-guns-catalogue-2024.pdf",
+    "page": 51,
+    "source_title": "Zastava Military Guns Catalogue 2024",
+    "brand_url": "https://www.zastava-arms.rs",
+    "source_url": "https://www.zastava-arms.rs",
+    "brand_source_status": "official",
+    "media_credit": "Zastava Arms official catalogue imagery",
+    "official_media": false,
+    "search": "ez 9 compact pistol zastava arms military & law-enforcement firearms pistols compact 9×19 mm service pistol. serbia"
+  },
+  {
+    "brand": "Leonardo",
+    "sector": "Scopes, Thermal & Night Vision",
+    "ar_sector": "المناظير والرؤية الحرارية والليلية",
+    "category": "EO/IR Cameras & Imaging",
+    "ar_category": "الكاميرات والأنظمة الكهروبصرية/الحرارية",
+    "pdf": "leonardo-vehicle-systems.pdf",
+    "source_title": "Leonardo Vehicle Systems",
+    "page": 14,
+    "brand_url": "https://www.leonardo.com/",
+    "brand_source_status": "official",
+    "media_credit": "Leonardo manufacturer catalogue",
+    "official_media": false,
+    "solutions": [
+      "Scanners, Cameras & Imaging",
+      "Communications & Surveillance",
+      "Scopes, Thermal & Night Vision"
+    ],
+    "tags": [
+      "EO/IR",
+      "Surveillance",
+      "Imaging"
+    ],
+    "id": "leonardo-janus-eoir",
+    "title": "JANUS EO/IR Surveillance System",
+    "ar_title": "نظام المراقبة الكهروبصري/الحراري JANUS",
+    "description": "High-performance two-axis gyro-stabilised multisensor for medium- and long-range panoramic day/night surveillance on combat and tactical land platforms.",
+    "ar_description": "نظام استشعار متعدد مثبت جيروسكوبياً بمحورين للمراقبة البانورامية النهارية والليلية متوسطة وبعيدة المدى على المنصات البرية التكتيكية.",
+    "image": "scanners-cameras/leonardo-janus-eoir.webp",
+    "fallback_image": "scanners-cameras/leonardo-janus-eoir.webp",
+    "gallery": [
+      "scanners-cameras/leonardo-janus-eoir.webp",
+      "scanners-cameras/leonardo-surveillance-page-14.jpg"
+    ],
+    "search": "JANUS EO/IR Surveillance System Leonardo EO IR camera scanner imaging surveillance High-performance two-axis gyro-stabilised multisensor for medium- and long-range panoramic day/night surveillance on combat and tactical land platforms."
+  },
+  {
+    "brand": "Leonardo",
+    "sector": "Scopes, Thermal & Night Vision",
+    "ar_sector": "المناظير والرؤية الحرارية والليلية",
+    "category": "EO/IR Cameras & Imaging",
+    "ar_category": "الكاميرات والأنظمة الكهروبصرية/الحرارية",
+    "pdf": "leonardo-vehicle-systems.pdf",
+    "source_title": "Leonardo Vehicle Systems",
+    "page": 14,
+    "brand_url": "https://www.leonardo.com/",
+    "brand_source_status": "official",
+    "media_credit": "Leonardo manufacturer catalogue",
+    "official_media": false,
+    "solutions": [
+      "Scanners, Cameras & Imaging",
+      "Communications & Surveillance",
+      "Scopes, Thermal & Night Vision"
+    ],
+    "tags": [
+      "EO/IR",
+      "Surveillance",
+      "Imaging"
+    ],
+    "id": "leonardo-janus-rsta",
+    "title": "JANUS RSTA Mast-Mounted Surveillance System",
+    "ar_title": "نظام المراقبة المرتفع JANUS RSTA",
+    "description": "Mast-mounted JANUS configuration for tactical surveillance vehicles, border security, coastal monitoring and law-enforcement observation.",
+    "ar_description": "نسخة مثبتة على سارية للمركبات التكتيكية ومراقبة الحدود والسواحل وتطبيقات إنفاذ القانون.",
+    "image": "scanners-cameras/leonardo-janus-rsta.webp",
+    "fallback_image": "scanners-cameras/leonardo-janus-rsta.webp",
+    "gallery": [
+      "scanners-cameras/leonardo-janus-rsta.webp",
+      "scanners-cameras/leonardo-surveillance-page-14.jpg"
+    ],
+    "search": "JANUS RSTA Mast-Mounted Surveillance System Leonardo EO IR camera scanner imaging surveillance Mast-mounted JANUS configuration for tactical surveillance vehicles, border security, coastal monitoring and law-enforcement observation."
+  },
+  {
+    "brand": "Leonardo",
+    "sector": "Scopes, Thermal & Night Vision",
+    "ar_sector": "المناظير والرؤية الحرارية والليلية",
+    "category": "EO/IR Cameras & Imaging",
+    "ar_category": "الكاميرات والأنظمة الكهروبصرية/الحرارية",
+    "pdf": "leonardo-vehicle-systems.pdf",
+    "source_title": "Leonardo Vehicle Systems",
+    "page": 15,
+    "brand_url": "https://www.leonardo.com/",
+    "brand_source_status": "official",
+    "media_credit": "Leonardo manufacturer catalogue",
+    "official_media": false,
+    "solutions": [
+      "Scanners, Cameras & Imaging",
+      "Communications & Surveillance",
+      "Scopes, Thermal & Night Vision"
+    ],
+    "tags": [
+      "EO/IR",
+      "Surveillance",
+      "Imaging"
+    ],
+    "id": "leonardo-nerio-lr",
+    "title": "NERIO-LR Long-Range EO System",
+    "ar_title": "نظام NERIO-LR الكهروبصري بعيد المدى",
+    "description": "Modular long-range electro-optical system combining stabilised thermal imaging, continuously zoomed TV camera and eye-safe laser rangefinding.",
+    "ar_description": "نظام كهروبصري معياري بعيد المدى يجمع التصوير الحراري المثبت وكاميرا تلفزيونية متغيرة الزوم ومحدد مدى ليزري آمن للعين.",
+    "image": "scanners-cameras/leonardo-nerio-lr.webp",
+    "fallback_image": "scanners-cameras/leonardo-nerio-lr.webp",
+    "gallery": [
+      "scanners-cameras/leonardo-nerio-lr.webp",
+      "scanners-cameras/leonardo-surveillance-page-15.jpg"
+    ],
+    "search": "NERIO-LR Long-Range EO System Leonardo EO IR camera scanner imaging surveillance Modular long-range electro-optical system combining stabilised thermal imaging, continuously zoomed TV camera and eye-safe laser rangefinding."
+  },
+  {
+    "brand": "Leonardo",
+    "sector": "Scopes, Thermal & Night Vision",
+    "ar_sector": "المناظير والرؤية الحرارية والليلية",
+    "category": "EO/IR Cameras & Imaging",
+    "ar_category": "الكاميرات والأنظمة الكهروبصرية/الحرارية",
+    "pdf": "leonardo-vehicle-systems.pdf",
+    "source_title": "Leonardo Vehicle Systems",
+    "page": 15,
+    "brand_url": "https://www.leonardo.com/",
+    "brand_source_status": "official",
+    "media_credit": "Leonardo manufacturer catalogue",
+    "official_media": false,
+    "solutions": [
+      "Scanners, Cameras & Imaging",
+      "Communications & Surveillance",
+      "Scopes, Thermal & Night Vision"
+    ],
+    "tags": [
+      "EO/IR",
+      "Surveillance",
+      "Imaging"
+    ],
+    "id": "leonardo-horizon-mwir-camera",
+    "title": "HORIZON MWIR Thermal Imaging Camera",
+    "ar_title": "كاميرا التصوير الحراري HORIZON MWIR",
+    "description": "Long-range MWIR thermal imaging camera for surveillance, reconnaissance and target identification, available with standard- or high-definition detector arrays.",
+    "ar_description": "كاميرا تصوير حراري متوسطة الموجة بعيدة المدى للمراقبة والاستطلاع وتحديد الأهداف مع مصفوفات قياسية أو عالية الدقة.",
+    "image": "scanners-cameras/leonardo-horizon.webp",
+    "fallback_image": "scanners-cameras/leonardo-horizon.webp",
+    "gallery": [
+      "scanners-cameras/leonardo-horizon.webp",
+      "scanners-cameras/leonardo-surveillance-page-15.jpg"
+    ],
+    "search": "HORIZON MWIR Thermal Imaging Camera Leonardo EO IR camera scanner imaging surveillance Long-range MWIR thermal imaging camera for surveillance, reconnaissance and target identification, available with standard- or high-definition detector arrays."
+  },
+  {
+    "brand": "Leonardo",
+    "sector": "Scopes, Thermal & Night Vision",
+    "ar_sector": "المناظير والرؤية الحرارية والليلية",
+    "category": "EO/IR Cameras & Imaging",
+    "ar_category": "الكاميرات والأنظمة الكهروبصرية/الحرارية",
+    "pdf": "leonardo-vehicle-systems.pdf",
+    "source_title": "Leonardo Vehicle Systems",
+    "page": 15,
+    "brand_url": "https://www.leonardo.com/",
+    "brand_source_status": "official",
+    "media_credit": "Leonardo manufacturer catalogue",
+    "official_media": false,
+    "solutions": [
+      "Scanners, Cameras & Imaging",
+      "Communications & Surveillance",
+      "Scopes, Thermal & Night Vision"
+    ],
+    "tags": [
+      "EO/IR",
+      "Surveillance",
+      "Imaging"
+    ],
+    "id": "leonardo-dnvs4",
+    "title": "DNVS 4 Driver Night-Vision Camera System",
+    "ar_title": "نظام كاميرا الرؤية الليلية للسائق DNVS 4",
+    "description": "Passive multispectral wide-angle vehicle vision system combining an uncooled thermal module with colour day/night or low-light camera channels.",
+    "ar_description": "نظام رؤية مركبات سلبي متعدد الأطياف واسع الزاوية يجمع وحدة حرارية غير مبردة مع قنوات كاميرا نهارية/ليلية أو منخفضة الإضاءة.",
+    "image": "scanners-cameras/leonardo-dnvs-4.webp",
+    "fallback_image": "scanners-cameras/leonardo-dnvs-4.webp",
+    "gallery": [
+      "scanners-cameras/leonardo-dnvs-4.webp",
+      "scanners-cameras/leonardo-surveillance-page-15.jpg"
+    ],
+    "search": "DNVS 4 Driver Night-Vision Camera System Leonardo EO IR camera scanner imaging surveillance Passive multispectral wide-angle vehicle vision system combining an uncooled thermal module with colour day/night or low-light camera channels."
+  },
+  {
+    "title": "FLYWEIGHT C320 / Ultra Light Assault Boot",
+    "ar_title": "FLYWEIGHT C320 / Ultra Light Assault Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "FLYWEIGHT C320 / Ultra Light Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "FLYWEIGHT C320 / Ultra Light Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Professional Footwear"
+    ],
+    "id": "belleville-flyweight-c320-ultra-light-assault-boot",
+    "image": "belleville/flyweight-c320-ultra-light-assault-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-c320-ultra-light-assault-boot-view-1.webp",
+    "gallery": [
+      "belleville/flyweight-c320-ultra-light-assault-boot-view-1.webp",
+      "belleville/flyweight-c320-ultra-light-assault-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20C320%20/%20Ultra%20Light%20Assault%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "flyweight c320 / ultra light assault boot belleville boot co. boots & professional footwear military & tactical boots flyweight c320 / ultra light assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "800 ST / Waterproof Steel Toe Flight and Flight Deck Boot",
+    "ar_title": "800 ST / Waterproof Steel Toe Flight and Flight Deck Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "800 ST / Waterproof Steel Toe Flight and Flight Deck Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "800 ST / Waterproof Steel Toe Flight and Flight Deck Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Waterproof",
+      "Steel Toe",
+      "Flight",
+      "Professional Footwear"
+    ],
+    "id": "belleville-800-st-waterproof-steel-toe-flight-and-flight-deck-boot",
+    "image": "belleville/800-st-waterproof-steel-toe-flight-and-flight-deck-boot-view-1.webp",
+    "fallback_image": "belleville/800-st-waterproof-steel-toe-flight-and-flight-deck-boot-view-1.webp",
+    "gallery": [
+      "belleville/800-st-waterproof-steel-toe-flight-and-flight-deck-boot-view-1.webp",
+      "belleville/800-st-waterproof-steel-toe-flight-and-flight-deck-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=800%20ST%20/%20Waterproof%20Steel%20Toe%20Flight%20and%20Flight%20Deck%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "800 st / waterproof steel toe flight and flight deck boot belleville boot co. boots & professional footwear flight & deck boots 800 st / waterproof steel toe flight and flight deck boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "C790 / Waterproof Flight and Combat Boot",
+    "ar_title": "C790 / Waterproof Flight and Combat Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "C790 / Waterproof Flight and Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "C790 / Waterproof Flight and Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Waterproof",
+      "Flight",
+      "Professional Footwear"
+    ],
+    "id": "belleville-c790-waterproof-flight-and-combat-boot",
+    "image": "belleville/c790-waterproof-flight-and-combat-boot-view-1.webp",
+    "fallback_image": "belleville/c790-waterproof-flight-and-combat-boot-view-1.webp",
+    "gallery": [
+      "belleville/c790-waterproof-flight-and-combat-boot-view-1.webp",
+      "belleville/c790-waterproof-flight-and-combat-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C790%20/%20Waterproof%20Flight%20and%20Combat%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "c790 / waterproof flight and combat boot belleville boot co. boots & professional footwear flight & deck boots c790 / waterproof flight and combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "C390 / Hot Weather Combat Boot",
+    "ar_title": "C390 / Hot Weather Combat Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "C390 / Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "C390 / Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Professional Footwear"
+    ],
+    "id": "belleville-c390-hot-weather-combat-boot",
+    "image": "belleville/c390-hot-weather-combat-boot-view-1.webp",
+    "fallback_image": "belleville/c390-hot-weather-combat-boot-view-1.webp",
+    "gallery": [
+      "belleville/c390-hot-weather-combat-boot-view-1.webp",
+      "belleville/c390-hot-weather-combat-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C390%20/%20Hot%20Weather%20Combat%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "c390 / hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots c390 / hot weather combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "Mini-Mil TR105 / Minimalist Training Boot",
+    "ar_title": "Mini-Mil TR105 / Minimalist Training Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "Mini-Mil TR105 / Minimalist Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "Mini-Mil TR105 / Minimalist Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Training",
+      "Minimalist",
+      "Professional Footwear"
+    ],
+    "id": "belleville-mini-mil-tr105-minimalist-training-boot",
+    "image": "belleville/mini-mil-tr105-minimalist-training-boot-view-1.webp",
+    "fallback_image": "belleville/mini-mil-tr105-minimalist-training-boot-view-1.webp",
+    "gallery": [
+      "belleville/mini-mil-tr105-minimalist-training-boot-view-1.webp",
+      "belleville/mini-mil-tr105-minimalist-training-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20TR105%20/%20Minimalist%20Training%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "mini-mil tr105 / minimalist training boot belleville boot co. boots & professional footwear training & athletic footwear mini-mil tr105 / minimalist training boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan training minimalist professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "300 TROP ST / Hot Weather Steel Toe Boot",
+    "ar_title": "300 TROP ST / Hot Weather Steel Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Safety-Toe Boots",
+    "ar_category": "Safety-Toe Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "300 TROP ST / Hot Weather Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "300 TROP ST / Hot Weather Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Steel Toe",
+      "Professional Footwear"
+    ],
+    "id": "belleville-300-trop-st-hot-weather-steel-toe-boot",
+    "image": "belleville/300-trop-st-hot-weather-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/300-trop-st-hot-weather-steel-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/300-trop-st-hot-weather-steel-toe-boot-view-1.webp",
+      "belleville/300-trop-st-hot-weather-steel-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=300%20TROP%20ST%20/%20Hot%20Weather%20Steel%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "300 trop st / hot weather steel toe boot belleville boot co. boots & professional footwear safety-toe boots 300 trop st / hot weather steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "FLYWEIGHT FC320 / Ultra Light Female Assault Boot",
+    "ar_title": "FLYWEIGHT FC320 / Ultra Light Female Assault Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "FLYWEIGHT FC320 / Ultra Light Female Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "FLYWEIGHT FC320 / Ultra Light Female Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Women’s Fit",
+      "Professional Footwear"
+    ],
+    "id": "belleville-flyweight-fc320-ultra-light-female-assault-boot",
+    "image": "belleville/flyweight-fc320-ultra-light-female-assault-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-fc320-ultra-light-female-assault-boot-view-1.webp",
+    "gallery": [
+      "belleville/flyweight-fc320-ultra-light-female-assault-boot-view-1.webp",
+      "belleville/flyweight-fc320-ultra-light-female-assault-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20FC320%20/%20Ultra%20Light%20Female%20Assault%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "flyweight fc320 / ultra light female assault boot belleville boot co. boots & professional footwear military & tactical boots flyweight fc320 / ultra light female assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "KHYBER TR550 / Hot Weather Multi-terrain Boot",
+    "ar_title": "KHYBER TR550 / Hot Weather Multi-terrain Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "KHYBER TR550 / Hot Weather Multi-terrain Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "KHYBER TR550 / Hot Weather Multi-terrain Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Ranger Green",
+      "Hot Weather",
+      "Professional Footwear"
+    ],
+    "id": "belleville-khyber-tr550-hot-weather-multi-terrain-boot",
+    "image": "belleville/khyber-tr550-hot-weather-multi-terrain-boot-view-1.webp",
+    "fallback_image": "belleville/khyber-tr550-hot-weather-multi-terrain-boot-view-1.webp",
+    "gallery": [
+      "belleville/khyber-tr550-hot-weather-multi-terrain-boot-view-1.webp",
+      "belleville/khyber-tr550-hot-weather-multi-terrain-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=KHYBER%20TR550%20/%20Hot%20Weather%20Multi-terrain%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "khyber tr550 / hot weather multi-terrain boot belleville boot co. boots & professional footwear military & tactical boots khyber tr550 / hot weather multi-terrain boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "700 / Waterproof Duty Boot",
+    "ar_title": "700 / Waterproof Duty Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "700 / Waterproof Duty Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "700 / Waterproof Duty Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Waterproof",
+      "Professional Footwear"
+    ],
+    "id": "belleville-700-waterproof-duty-boot",
+    "image": "belleville/700-waterproof-duty-boot-view-1.webp",
+    "fallback_image": "belleville/700-waterproof-duty-boot-view-1.webp",
+    "gallery": [
+      "belleville/700-waterproof-duty-boot-view-1.webp",
+      "belleville/700-waterproof-duty-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=700%20/%20Waterproof%20Duty%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "700 / waterproof duty boot belleville boot co. boots & professional footwear waterproof & insulated boots 700 / waterproof duty boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown waterproof professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "330 ST / Wet Weather Steel Toe Flight Boot",
+    "ar_title": "330 ST / Wet Weather Steel Toe Flight Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "330 ST / Wet Weather Steel Toe Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "330 ST / Wet Weather Steel Toe Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Steel Toe",
+      "Flight",
+      "Professional Footwear"
+    ],
+    "id": "belleville-330-st-wet-weather-steel-toe-flight-boot",
+    "image": "belleville/330-st-wet-weather-steel-toe-flight-boot-view-1.webp",
+    "fallback_image": "belleville/330-st-wet-weather-steel-toe-flight-boot-view-1.webp",
+    "gallery": [
+      "belleville/330-st-wet-weather-steel-toe-flight-boot-view-1.webp",
+      "belleville/330-st-wet-weather-steel-toe-flight-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=330%20ST%20/%20Wet%20Weather%20Steel%20Toe%20Flight%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "330 st / wet weather steel toe flight boot belleville boot co. boots & professional footwear flight & deck boots 330 st / wet weather steel toe flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "390 DES / Hot Weather Combat Boot",
+    "ar_title": "390 DES / Hot Weather Combat Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "390 DES / Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "390 DES / Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Hot Weather",
+      "Professional Footwear"
+    ],
+    "id": "belleville-390-des-hot-weather-combat-boot",
+    "image": "belleville/390-des-hot-weather-combat-boot-view-1.webp",
+    "fallback_image": "belleville/390-des-hot-weather-combat-boot-view-1.webp",
+    "gallery": [
+      "belleville/390-des-hot-weather-combat-boot-view-1.webp",
+      "belleville/390-des-hot-weather-combat-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=390%20DES%20/%20Hot%20Weather%20Combat%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "390 des / hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots 390 des / hot weather combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "C300 ST / Hot Weather Steel Toe Coyote Boot",
+    "ar_title": "C300 ST / Hot Weather Steel Toe Coyote Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Safety-Toe Boots",
+    "ar_category": "Safety-Toe Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "C300 ST / Hot Weather Steel Toe Coyote Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "C300 ST / Hot Weather Steel Toe Coyote Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Steel Toe",
+      "Professional Footwear"
+    ],
+    "id": "belleville-c300-st-hot-weather-steel-toe-coyote-boot",
+    "image": "belleville/c300-st-hot-weather-steel-toe-coyote-boot-view-1.webp",
+    "fallback_image": "belleville/c300-st-hot-weather-steel-toe-coyote-boot-view-1.webp",
+    "gallery": [
+      "belleville/c300-st-hot-weather-steel-toe-coyote-boot-view-1.webp",
+      "belleville/c300-st-hot-weather-steel-toe-coyote-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C300%20ST%20/%20Hot%20Weather%20Steel%20Toe%20Coyote%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "c300 st / hot weather steel toe coyote boot belleville boot co. boots & professional footwear safety-toe boots c300 st / hot weather steel toe coyote boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "TR102 / Minimalist Training Boot",
+    "ar_title": "TR102 / Minimalist Training Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "TR102 / Minimalist Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "TR102 / Minimalist Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Ranger Green",
+      "Training",
+      "Minimalist",
+      "Professional Footwear"
+    ],
+    "id": "belleville-tr102-minimalist-training-boot",
+    "image": "belleville/tr102-minimalist-training-boot-view-1.webp",
+    "fallback_image": "belleville/tr102-minimalist-training-boot-view-1.webp",
+    "gallery": [
+      "belleville/tr102-minimalist-training-boot-view-1.webp",
+      "belleville/tr102-minimalist-training-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR102%20/%20Minimalist%20Training%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "tr102 / minimalist training boot belleville boot co. boots & professional footwear training & athletic footwear tr102 / minimalist training boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green training minimalist professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "590 / USMC Hot Weather Combat Boot (EGA)",
+    "ar_title": "590 / USMC Hot Weather Combat Boot (EGA)",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "590 / USMC Hot Weather Combat Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "590 / USMC Hot Weather Combat Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Hot Weather",
+      "USMC",
+      "EGA",
+      "Professional Footwear"
+    ],
+    "id": "belleville-590-usmc-hot-weather-combat-boot-ega",
+    "image": "belleville/590-usmc-hot-weather-combat-boot-ega-view-1.webp",
+    "fallback_image": "belleville/590-usmc-hot-weather-combat-boot-ega-view-1.webp",
+    "gallery": [
+      "belleville/590-usmc-hot-weather-combat-boot-ega-view-1.webp",
+      "belleville/590-usmc-hot-weather-combat-boot-ega-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=590%20/%20USMC%20Hot%20Weather%20Combat%20Boot%20%28EGA%29",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "590 / usmc hot weather combat boot (ega) belleville boot co. boots & professional footwear military & tactical boots 590 / usmc hot weather combat boot (ega). official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown hot weather usmc ega professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "790 / Waterproof Flight & Combat Boot",
+    "ar_title": "790 / Waterproof Flight & Combat Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "790 / Waterproof Flight & Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "790 / Waterproof Flight & Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Waterproof",
+      "Flight",
+      "Professional Footwear"
+    ],
+    "id": "belleville-790-waterproof-flight-and-combat-boot",
+    "image": "belleville/790-waterproof-flight-and-combat-boot-view-1.webp",
+    "fallback_image": "belleville/790-waterproof-flight-and-combat-boot-view-1.webp",
+    "gallery": [
+      "belleville/790-waterproof-flight-and-combat-boot-view-1.webp",
+      "belleville/790-waterproof-flight-and-combat-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=790%20/%20Waterproof%20Flight%20%26%20Combat%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "790 / waterproof flight & combat boot belleville boot co. boots & professional footwear flight & deck boots 790 / waterproof flight & combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "533 ST / Hot Weather Hybrid Steel Toe Assault Boot",
+    "ar_title": "533 ST / Hot Weather Hybrid Steel Toe Assault Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Safety-Toe Boots",
+    "ar_category": "Safety-Toe Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "533 ST / Hot Weather Hybrid Steel Toe Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "533 ST / Hot Weather Hybrid Steel Toe Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Steel Toe",
+      "Professional Footwear"
+    ],
+    "id": "belleville-533-st-hot-weather-hybrid-steel-toe-assault-boot",
+    "image": "belleville/533-st-hot-weather-hybrid-steel-toe-assault-boot-view-1.webp",
+    "fallback_image": "belleville/533-st-hot-weather-hybrid-steel-toe-assault-boot-view-1.webp",
+    "gallery": [
+      "belleville/533-st-hot-weather-hybrid-steel-toe-assault-boot-view-1.webp",
+      "belleville/533-st-hot-weather-hybrid-steel-toe-assault-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=533%20ST%20/%20Hot%20Weather%20Hybrid%20Steel%20Toe%20Assault%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "533 st / hot weather hybrid steel toe assault boot belleville boot co. boots & professional footwear safety-toe boots 533 st / hot weather hybrid steel toe assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "550 ST / USMC Hot Weather Steel Toe Boot (EGA)",
+    "ar_title": "550 ST / USMC Hot Weather Steel Toe Boot (EGA)",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Safety-Toe Boots",
+    "ar_category": "Safety-Toe Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "550 ST / USMC Hot Weather Steel Toe Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "550 ST / USMC Hot Weather Steel Toe Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Hot Weather",
+      "Steel Toe",
+      "USMC",
+      "EGA",
+      "Professional Footwear"
+    ],
+    "id": "belleville-550-st-usmc-hot-weather-steel-toe-boot-ega",
+    "image": "belleville/550-st-usmc-hot-weather-steel-toe-boot-ega-view-1.webp",
+    "fallback_image": "belleville/550-st-usmc-hot-weather-steel-toe-boot-ega-view-1.webp",
+    "gallery": [
+      "belleville/550-st-usmc-hot-weather-steel-toe-boot-ega-view-1.webp",
+      "belleville/550-st-usmc-hot-weather-steel-toe-boot-ega-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=550%20ST%20/%20USMC%20Hot%20Weather%20Steel%20Toe%20Boot%20%28EGA%29",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "550 st / usmc hot weather steel toe boot (ega) belleville boot co. boots & professional footwear safety-toe boots 550 st / usmc hot weather steel toe boot (ega). official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather steel toe usmc ega professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SABRE C333 / Hot Weather Hybrid Assault Boot",
+    "ar_title": "SABRE C333 / Hot Weather Hybrid Assault Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SABRE C333 / Hot Weather Hybrid Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SABRE C333 / Hot Weather Hybrid Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Professional Footwear"
+    ],
+    "id": "belleville-sabre-c333-hot-weather-hybrid-assault-boot",
+    "image": "belleville/sabre-c333-hot-weather-hybrid-assault-boot-view-1.webp",
+    "fallback_image": "belleville/sabre-c333-hot-weather-hybrid-assault-boot-view-1.webp",
+    "gallery": [
+      "belleville/sabre-c333-hot-weather-hybrid-assault-boot-view-1.webp",
+      "belleville/sabre-c333-hot-weather-hybrid-assault-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SABRE%20C333%20/%20Hot%20Weather%20Hybrid%20Assault%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "sabre c333 / hot weather hybrid assault boot belleville boot co. boots & professional footwear military & tactical boots sabre c333 / hot weather hybrid assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "Chrome TR998Z WP CT / Waterproof Side-Zip Composite Toe Boot",
+    "ar_title": "Chrome TR998Z WP CT / Waterproof Side-Zip Composite Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "Chrome TR998Z WP CT / Waterproof Side-Zip Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "Chrome TR998Z WP CT / Waterproof Side-Zip Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Waterproof",
+      "Composite Toe",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-chrome-tr998z-wp-ct-waterproof-side-zip-composite-toe-boot",
+    "image": "belleville/chrome-tr998z-wp-ct-waterproof-side-zip-composite-toe-boot-view-1.webp",
+    "fallback_image": "belleville/chrome-tr998z-wp-ct-waterproof-side-zip-composite-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/chrome-tr998z-wp-ct-waterproof-side-zip-composite-toe-boot-view-1.webp",
+      "belleville/chrome-tr998z-wp-ct-waterproof-side-zip-composite-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Chrome%20TR998Z%20WP%20CT%20/%20Waterproof%20Side-Zip%20Composite%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "chrome tr998z wp ct / waterproof side-zip composite toe boot belleville boot co. boots & professional footwear waterproof & insulated boots chrome tr998z wp ct / waterproof side-zip composite toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "520 MOTO / Ultra Light Assault Boot (EGA)",
+    "ar_title": "520 MOTO / Ultra Light Assault Boot (EGA)",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "520 MOTO / Ultra Light Assault Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "520 MOTO / Ultra Light Assault Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "EGA",
+      "Professional Footwear"
+    ],
+    "id": "belleville-520-moto-ultra-light-assault-boot-ega",
+    "image": "belleville/520-moto-ultra-light-assault-boot-ega-view-1.webp",
+    "fallback_image": "belleville/520-moto-ultra-light-assault-boot-ega-view-1.webp",
+    "gallery": [
+      "belleville/520-moto-ultra-light-assault-boot-ega-view-1.webp",
+      "belleville/520-moto-ultra-light-assault-boot-ega-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=520%20MOTO%20/%20Ultra%20Light%20Assault%20Boot%20%28EGA%29",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "520 moto / ultra light assault boot (ega) belleville boot co. boots & professional footwear military & tactical boots 520 moto / ultra light assault boot (ega). official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan ega professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "390 TROP / Hot Weather Combat Boot",
+    "ar_title": "390 TROP / Hot Weather Combat Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "390 TROP / Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "390 TROP / Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Hot Weather",
+      "Professional Footwear"
+    ],
+    "id": "belleville-390-trop-hot-weather-combat-boot",
+    "image": "belleville/390-trop-hot-weather-combat-boot-view-1.webp",
+    "fallback_image": "belleville/390-trop-hot-weather-combat-boot-view-1.webp",
+    "gallery": [
+      "belleville/390-trop-hot-weather-combat-boot-view-1.webp",
+      "belleville/390-trop-hot-weather-combat-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=390%20TROP%20/%20Hot%20Weather%20Combat%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "390 trop / hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots 390 trop / hot weather combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "C790 ST / Waterproof Steel Toe Flight and Combat Boot",
+    "ar_title": "C790 ST / Waterproof Steel Toe Flight and Combat Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "C790 ST / Waterproof Steel Toe Flight and Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "C790 ST / Waterproof Steel Toe Flight and Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Waterproof",
+      "Steel Toe",
+      "Flight",
+      "Professional Footwear"
+    ],
+    "id": "belleville-c790-st-waterproof-steel-toe-flight-and-combat-boot",
+    "image": "belleville/c790-st-waterproof-steel-toe-flight-and-combat-boot-view-1.webp",
+    "fallback_image": "belleville/c790-st-waterproof-steel-toe-flight-and-combat-boot-view-1.webp",
+    "gallery": [
+      "belleville/c790-st-waterproof-steel-toe-flight-and-combat-boot-view-1.webp",
+      "belleville/c790-st-waterproof-steel-toe-flight-and-combat-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C790%20ST%20/%20Waterproof%20Steel%20Toe%20Flight%20and%20Combat%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "c790 st / waterproof steel toe flight and combat boot belleville boot co. boots & professional footwear flight & deck boots c790 st / waterproof steel toe flight and combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "330 COY ST / Hot Weather Steel Toe Flight Boot",
+    "ar_title": "330 COY ST / Hot Weather Steel Toe Flight Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "330 COY ST / Hot Weather Steel Toe Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "330 COY ST / Hot Weather Steel Toe Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Steel Toe",
+      "Flight",
+      "Professional Footwear"
+    ],
+    "id": "belleville-330-coy-st-hot-weather-steel-toe-flight-boot",
+    "image": "belleville/330-coy-st-hot-weather-steel-toe-flight-boot-view-1.webp",
+    "fallback_image": "belleville/330-coy-st-hot-weather-steel-toe-flight-boot-view-1.webp",
+    "gallery": [
+      "belleville/330-coy-st-hot-weather-steel-toe-flight-boot-view-1.webp",
+      "belleville/330-coy-st-hot-weather-steel-toe-flight-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=330%20COY%20ST%20/%20Hot%20Weather%20Steel%20Toe%20Flight%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "330 coy st / hot weather steel toe flight boot belleville boot co. boots & professional footwear flight & deck boots 330 coy st / hot weather steel toe flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "FLYWEIGHT C312 ST / Hot Weather Tactical Steel Toe Boot",
+    "ar_title": "FLYWEIGHT C312 ST / Hot Weather Tactical Steel Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Safety-Toe Boots",
+    "ar_category": "Safety-Toe Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "FLYWEIGHT C312 ST / Hot Weather Tactical Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "FLYWEIGHT C312 ST / Hot Weather Tactical Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Steel Toe",
+      "Professional Footwear"
+    ],
+    "id": "belleville-flyweight-c312-st-hot-weather-tactical-steel-toe-boot",
+    "image": "belleville/flyweight-c312-st-hot-weather-tactical-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-c312-st-hot-weather-tactical-steel-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/flyweight-c312-st-hot-weather-tactical-steel-toe-boot-view-1.webp",
+      "belleville/flyweight-c312-st-hot-weather-tactical-steel-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20C312%20ST%20/%20Hot%20Weather%20Tactical%20Steel%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "flyweight c312 st / hot weather tactical steel toe boot belleville boot co. boots & professional footwear safety-toe boots flyweight c312 st / hot weather tactical steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "770 / Insulated Waterproof Duty Boot",
+    "ar_title": "770 / Insulated Waterproof Duty Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "770 / Insulated Waterproof Duty Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "770 / Insulated Waterproof Duty Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Waterproof",
+      "Insulated",
+      "Professional Footwear"
+    ],
+    "id": "belleville-770-insulated-waterproof-duty-boot",
+    "image": "belleville/770-insulated-waterproof-duty-boot-view-1.webp",
+    "fallback_image": "belleville/770-insulated-waterproof-duty-boot-view-1.webp",
+    "gallery": [
+      "belleville/770-insulated-waterproof-duty-boot-view-1.webp",
+      "belleville/770-insulated-waterproof-duty-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=770%20/%20Insulated%20Waterproof%20Duty%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "770 / insulated waterproof duty boot belleville boot co. boots & professional footwear waterproof & insulated boots 770 / insulated waterproof duty boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "690 / Waterproof Flight Boot",
+    "ar_title": "690 / Waterproof Flight Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "690 / Waterproof Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "690 / Waterproof Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Waterproof",
+      "Flight",
+      "Professional Footwear"
+    ],
+    "id": "belleville-690-waterproof-flight-boot",
+    "image": "belleville/690-waterproof-flight-boot-view-1.webp",
+    "fallback_image": "belleville/690-waterproof-flight-boot-view-1.webp",
+    "gallery": [
+      "belleville/690-waterproof-flight-boot-view-1.webp",
+      "belleville/690-waterproof-flight-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=690%20/%20Waterproof%20Flight%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "690 / waterproof flight boot belleville boot co. boots & professional footwear flight & deck boots 690 / waterproof flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "KHYBER TR550WPINS / Waterproof Insulated Multi-Terrain Boot",
+    "ar_title": "KHYBER TR550WPINS / Waterproof Insulated Multi-Terrain Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "KHYBER TR550WPINS / Waterproof Insulated Multi-Terrain Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "KHYBER TR550WPINS / Waterproof Insulated Multi-Terrain Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Waterproof",
+      "Insulated",
+      "Professional Footwear"
+    ],
+    "id": "belleville-khyber-tr550wpins-waterproof-insulated-multi-terrain-boot",
+    "image": "belleville/khyber-tr550wpins-waterproof-insulated-multi-terrain-boot-view-1.webp",
+    "fallback_image": "belleville/khyber-tr550wpins-waterproof-insulated-multi-terrain-boot-view-1.webp",
+    "gallery": [
+      "belleville/khyber-tr550wpins-waterproof-insulated-multi-terrain-boot-view-1.webp",
+      "belleville/khyber-tr550wpins-waterproof-insulated-multi-terrain-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=KHYBER%20TR550WPINS%20/%20Waterproof%20Insulated%20Multi-Terrain%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "khyber tr550wpins / waterproof insulated multi-terrain boot belleville boot co. boots & professional footwear waterproof & insulated boots khyber tr550wpins / waterproof insulated multi-terrain boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "C793 / Waterproof Assault Flight Boot",
+    "ar_title": "C793 / Waterproof Assault Flight Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "C793 / Waterproof Assault Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "C793 / Waterproof Assault Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Waterproof",
+      "Flight",
+      "Professional Footwear"
+    ],
+    "id": "belleville-c793-waterproof-assault-flight-boot",
+    "image": "belleville/c793-waterproof-assault-flight-boot-view-1.webp",
+    "fallback_image": "belleville/c793-waterproof-assault-flight-boot-view-1.webp",
+    "gallery": [
+      "belleville/c793-waterproof-assault-flight-boot-view-1.webp",
+      "belleville/c793-waterproof-assault-flight-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C793%20/%20Waterproof%20Assault%20Flight%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "c793 / waterproof assault flight boot belleville boot co. boots & professional footwear flight & deck boots c793 / waterproof assault flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "500 / USMC Waterproof Combat Boot (EGA)",
+    "ar_title": "500 / USMC Waterproof Combat Boot (EGA)",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "500 / USMC Waterproof Combat Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "500 / USMC Waterproof Combat Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Waterproof",
+      "USMC",
+      "EGA",
+      "Professional Footwear"
+    ],
+    "id": "belleville-500-usmc-waterproof-combat-boot-ega",
+    "image": "belleville/500-usmc-waterproof-combat-boot-ega-view-1.webp",
+    "fallback_image": "belleville/500-usmc-waterproof-combat-boot-ega-view-1.webp",
+    "gallery": [
+      "belleville/500-usmc-waterproof-combat-boot-ega-view-1.webp",
+      "belleville/500-usmc-waterproof-combat-boot-ega-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=500%20/%20USMC%20Waterproof%20Combat%20Boot%20%28EGA%29",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "500 / usmc waterproof combat boot (ega) belleville boot co. boots & professional footwear waterproof & insulated boots 500 / usmc waterproof combat boot (ega). official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown waterproof usmc ega professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "330 DES ST / Hot Weather Steel Toe Flight Boot",
+    "ar_title": "330 DES ST / Hot Weather Steel Toe Flight Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "330 DES ST / Hot Weather Steel Toe Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "330 DES ST / Hot Weather Steel Toe Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Hot Weather",
+      "Steel Toe",
+      "Flight",
+      "Professional Footwear"
+    ],
+    "id": "belleville-330-des-st-hot-weather-steel-toe-flight-boot",
+    "image": "belleville/330-des-st-hot-weather-steel-toe-flight-boot-view-1.webp",
+    "fallback_image": "belleville/330-des-st-hot-weather-steel-toe-flight-boot-view-1.webp",
+    "gallery": [
+      "belleville/330-des-st-hot-weather-steel-toe-flight-boot-view-1.webp",
+      "belleville/330-des-st-hot-weather-steel-toe-flight-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=330%20DES%20ST%20/%20Hot%20Weather%20Steel%20Toe%20Flight%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "330 des st / hot weather steel toe flight boot belleville boot co. boots & professional footwear flight & deck boots 330 des st / hot weather steel toe flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan hot weather steel toe flight professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "C795 / 200g Insulated Waterproof Boot",
+    "ar_title": "C795 / 200g Insulated Waterproof Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "C795 / 200g Insulated Waterproof Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "C795 / 200g Insulated Waterproof Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Waterproof",
+      "Insulated",
+      "Professional Footwear"
+    ],
+    "id": "belleville-c795-200g-insulated-waterproof-boot",
+    "image": "belleville/c795-200g-insulated-waterproof-boot-view-1.webp",
+    "fallback_image": "belleville/c795-200g-insulated-waterproof-boot-view-1.webp",
+    "gallery": [
+      "belleville/c795-200g-insulated-waterproof-boot-view-1.webp",
+      "belleville/c795-200g-insulated-waterproof-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C795%20/%20200g%20Insulated%20Waterproof%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "c795 / 200g insulated waterproof boot belleville boot co. boots & professional footwear waterproof & insulated boots c795 / 200g insulated waterproof boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "880 ST / 200g Insulated Waterproof Steel Toe Boot",
+    "ar_title": "880 ST / 200g Insulated Waterproof Steel Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "880 ST / 200g Insulated Waterproof Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "880 ST / 200g Insulated Waterproof Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Waterproof",
+      "Insulated",
+      "Steel Toe",
+      "Professional Footwear"
+    ],
+    "id": "belleville-880-st-200g-insulated-waterproof-steel-toe-boot",
+    "image": "belleville/880-st-200g-insulated-waterproof-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/880-st-200g-insulated-waterproof-steel-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/880-st-200g-insulated-waterproof-steel-toe-boot-view-1.webp",
+      "belleville/880-st-200g-insulated-waterproof-steel-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=880%20ST%20/%20200g%20Insulated%20Waterproof%20Steel%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "880 st / 200g insulated waterproof steel toe boot belleville boot co. boots & professional footwear waterproof & insulated boots 880 st / 200g insulated waterproof steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof insulated steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "510 MEF / Ultralight Marine Corps Combat Boot (EGA)",
+    "ar_title": "510 MEF / Ultralight Marine Corps Combat Boot (EGA)",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "510 MEF / Ultralight Marine Corps Combat Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "510 MEF / Ultralight Marine Corps Combat Boot (EGA). Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Ranger Green",
+      "EGA",
+      "Professional Footwear"
+    ],
+    "id": "belleville-510-mef-ultralight-marine-corps-combat-boot-ega",
+    "image": "belleville/510-mef-ultralight-marine-corps-combat-boot-ega-view-1.webp",
+    "fallback_image": "belleville/510-mef-ultralight-marine-corps-combat-boot-ega-view-1.webp",
+    "gallery": [
+      "belleville/510-mef-ultralight-marine-corps-combat-boot-ega-view-1.webp",
+      "belleville/510-mef-ultralight-marine-corps-combat-boot-ega-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=510%20MEF%20/%20Ultralight%20Marine%20Corps%20Combat%20Boot%20%28EGA%29",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "510 mef / ultralight marine corps combat boot (ega) belleville boot co. boots & professional footwear military & tactical boots 510 mef / ultralight marine corps combat boot (ega). official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green ega professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "KHYBER TR960Z WP / Lightweight Waterproof Side-Zip Tactical Boot",
+    "ar_title": "KHYBER TR960Z WP / Lightweight Waterproof Side-Zip Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "KHYBER TR960Z WP / Lightweight Waterproof Side-Zip Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "KHYBER TR960Z WP / Lightweight Waterproof Side-Zip Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Waterproof",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-khyber-tr960z-wp-lightweight-waterproof-side-zip-tactical-boot",
+    "image": "belleville/khyber-tr960z-wp-lightweight-waterproof-side-zip-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/khyber-tr960z-wp-lightweight-waterproof-side-zip-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/khyber-tr960z-wp-lightweight-waterproof-side-zip-tactical-boot-view-1.webp",
+      "belleville/khyber-tr960z-wp-lightweight-waterproof-side-zip-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=KHYBER%20TR960Z%20WP%20/%20Lightweight%20Waterproof%20Side-Zip%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "khyber tr960z wp / lightweight waterproof side-zip tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots khyber tr960z wp / lightweight waterproof side-zip tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "Guardian TR536 CT / Hot Weather Lightweight Composite Toe Boot",
+    "ar_title": "Guardian TR536 CT / Hot Weather Lightweight Composite Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Safety-Toe Boots",
+    "ar_category": "Safety-Toe Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "Guardian TR536 CT / Hot Weather Lightweight Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "Guardian TR536 CT / Hot Weather Lightweight Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Hot Weather",
+      "Composite Toe",
+      "Professional Footwear"
+    ],
+    "id": "belleville-guardian-tr536-ct-hot-weather-lightweight-composite-toe-boot",
+    "image": "belleville/guardian-tr536-ct-hot-weather-lightweight-composite-toe-boot-view-1.webp",
+    "fallback_image": "belleville/guardian-tr536-ct-hot-weather-lightweight-composite-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/guardian-tr536-ct-hot-weather-lightweight-composite-toe-boot-view-1.webp",
+      "belleville/guardian-tr536-ct-hot-weather-lightweight-composite-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Guardian%20TR536%20CT%20/%20Hot%20Weather%20Lightweight%20Composite%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "guardian tr536 ct / hot weather lightweight composite toe boot belleville boot co. boots & professional footwear safety-toe boots guardian tr536 ct / hot weather lightweight composite toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan hot weather composite toe professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "MAXX 6Z / 6 inch Maximalist Tactical Boot",
+    "ar_title": "MAXX 6Z / 6 inch Maximalist Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "MAXX 6Z / 6 inch Maximalist Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "MAXX 6Z / 6 inch Maximalist Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Professional Footwear"
+    ],
+    "id": "belleville-maxx-6z-6-inch-maximalist-tactical-boot",
+    "image": "belleville/maxx-6z-6-inch-maximalist-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/maxx-6z-6-inch-maximalist-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/maxx-6z-6-inch-maximalist-tactical-boot-view-1.webp",
+      "belleville/maxx-6z-6-inch-maximalist-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=MAXX%206Z%20/%206%20inch%20Maximalist%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "maxx 6z / 6 inch maximalist tactical boot belleville boot co. boots & professional footwear military & tactical boots maxx 6z / 6 inch maximalist tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "AMRAP TR501 / Athletic Training Boot",
+    "ar_title": "AMRAP TR501 / Athletic Training Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "AMRAP TR501 / Athletic Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "AMRAP TR501 / Athletic Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Training",
+      "Athletic",
+      "Professional Footwear"
+    ],
+    "id": "belleville-amrap-tr501-athletic-training-boot",
+    "image": "belleville/amrap-tr501-athletic-training-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-tr501-athletic-training-boot-view-1.webp",
+    "gallery": [
+      "belleville/amrap-tr501-athletic-training-boot-view-1.webp",
+      "belleville/amrap-tr501-athletic-training-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20TR501%20/%20Athletic%20Training%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "amrap tr501 / athletic training boot belleville boot co. boots & professional footwear training & athletic footwear amrap tr501 / athletic training boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black training athletic professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "495 ST / Navy General Purpose Steel Toe Boot",
+    "ar_title": "495 ST / Navy General Purpose Steel Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Safety-Toe Boots",
+    "ar_category": "Safety-Toe Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "495 ST / Navy General Purpose Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "495 ST / Navy General Purpose Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Steel Toe",
+      "Professional Footwear"
+    ],
+    "id": "belleville-495-st-navy-general-purpose-steel-toe-boot",
+    "image": "belleville/495-st-navy-general-purpose-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/495-st-navy-general-purpose-steel-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/495-st-navy-general-purpose-steel-toe-boot-view-1.webp",
+      "belleville/495-st-navy-general-purpose-steel-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=495%20ST%20/%20Navy%20General%20Purpose%20Steel%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "495 st / navy general purpose steel toe boot belleville boot co. boots & professional footwear safety-toe boots 495 st / navy general purpose steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "FLYWEIGHT TR596Z CT / Hot Weather Side-Zip Composite Toe Boot",
+    "ar_title": "FLYWEIGHT TR596Z CT / Hot Weather Side-Zip Composite Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Tactical Side-Zip Boots",
+    "ar_category": "Tactical Side-Zip Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "FLYWEIGHT TR596Z CT / Hot Weather Side-Zip Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "FLYWEIGHT TR596Z CT / Hot Weather Side-Zip Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Hot Weather",
+      "Composite Toe",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-flyweight-tr596z-ct-hot-weather-side-zip-composite-toe-boot",
+    "image": "belleville/flyweight-tr596z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-tr596z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/flyweight-tr596z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
+      "belleville/flyweight-tr596z-ct-hot-weather-side-zip-composite-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20TR596Z%20CT%20/%20Hot%20Weather%20Side-Zip%20Composite%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "flyweight tr596z ct / hot weather side-zip composite toe boot belleville boot co. boots & professional footwear tactical side-zip boots flyweight tr596z ct / hot weather side-zip composite toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown hot weather composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SPEAR POINT BV918ZWP CT / Waterproof Composite Toe Side-Zip Tactical Boot",
+    "ar_title": "SPEAR POINT BV918ZWP CT / Waterproof Composite Toe Side-Zip Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SPEAR POINT BV918ZWP CT / Waterproof Composite Toe Side-Zip Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SPEAR POINT BV918ZWP CT / Waterproof Composite Toe Side-Zip Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Waterproof",
+      "Composite Toe",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-spear-point-bv918zwp-ct-waterproof-composite-toe-side-zip-tactical-boot",
+    "image": "belleville/spear-point-bv918zwp-ct-waterproof-composite-toe-side-zip-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv918zwp-ct-waterproof-composite-toe-side-zip-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/spear-point-bv918zwp-ct-waterproof-composite-toe-side-zip-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv918zwp-ct-waterproof-composite-toe-side-zip-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV918ZWP%20CT%20/%20Waterproof%20Composite%20Toe%20Side-Zip%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "spear point bv918zwp ct / waterproof composite toe side-zip tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots spear point bv918zwp ct / waterproof composite toe side-zip tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan waterproof composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "BV503PR / CANOPY Olive Drab Jungle Boot",
+    "ar_title": "BV503PR / CANOPY Olive Drab Jungle Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Jungle & Hot-Weather Boots",
+    "ar_category": "Jungle & Hot-Weather Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "BV503PR / CANOPY Olive Drab Jungle Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed olive drab / black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "BV503PR / CANOPY Olive Drab Jungle Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed olive drab / black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Olive Drab / Black",
+      "Jungle",
+      "Professional Footwear"
+    ],
+    "id": "belleville-bv503pr-canopy-olive-drab-jungle-boot",
+    "image": "belleville/bv503pr-canopy-olive-drab-jungle-boot-view-1.webp",
+    "fallback_image": "belleville/bv503pr-canopy-olive-drab-jungle-boot-view-1.webp",
+    "gallery": [
+      "belleville/bv503pr-canopy-olive-drab-jungle-boot-view-1.webp",
+      "belleville/bv503pr-canopy-olive-drab-jungle-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=BV503PR%20/%20CANOPY%20Olive%20Drab%20Jungle%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "bv503pr / canopy olive drab jungle boot belleville boot co. boots & professional footwear jungle & hot-weather boots bv503pr / canopy olive drab jungle boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed olive drab / black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. olive drab / black jungle professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SABRE 533 / Hot Weather Hybrid Assault Boot",
+    "ar_title": "SABRE 533 / Hot Weather Hybrid Assault Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SABRE 533 / Hot Weather Hybrid Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SABRE 533 / Hot Weather Hybrid Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Hot Weather",
+      "Professional Footwear"
+    ],
+    "id": "belleville-sabre-533-hot-weather-hybrid-assault-boot",
+    "image": "belleville/sabre-533-hot-weather-hybrid-assault-boot-view-1.webp",
+    "fallback_image": "belleville/sabre-533-hot-weather-hybrid-assault-boot-view-1.webp",
+    "gallery": [
+      "belleville/sabre-533-hot-weather-hybrid-assault-boot-view-1.webp",
+      "belleville/sabre-533-hot-weather-hybrid-assault-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SABRE%20533%20/%20Hot%20Weather%20Hybrid%20Assault%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "sabre 533 / hot weather hybrid assault boot belleville boot co. boots & professional footwear military & tactical boots sabre 533 / hot weather hybrid assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SABRE 763 / 6 inch Waterproof Hybrid Assault Boot",
+    "ar_title": "SABRE 763 / 6 inch Waterproof Hybrid Assault Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SABRE 763 / 6 inch Waterproof Hybrid Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SABRE 763 / 6 inch Waterproof Hybrid Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Ranger Green",
+      "Waterproof",
+      "Professional Footwear"
+    ],
+    "id": "belleville-sabre-763-6-inch-waterproof-hybrid-assault-boot",
+    "image": "belleville/sabre-763-6-inch-waterproof-hybrid-assault-boot-view-1.webp",
+    "fallback_image": "belleville/sabre-763-6-inch-waterproof-hybrid-assault-boot-view-1.webp",
+    "gallery": [
+      "belleville/sabre-763-6-inch-waterproof-hybrid-assault-boot-view-1.webp",
+      "belleville/sabre-763-6-inch-waterproof-hybrid-assault-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SABRE%20763%20/%206%20inch%20Waterproof%20Hybrid%20Assault%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "sabre 763 / 6 inch waterproof hybrid assault boot belleville boot co. boots & professional footwear waterproof & insulated boots sabre 763 / 6 inch waterproof hybrid assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green waterproof professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "KHYBER TR960Z / Hot Weather Lightweight Side-Zip Tactical Boot",
+    "ar_title": "KHYBER TR960Z / Hot Weather Lightweight Side-Zip Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Tactical Side-Zip Boots",
+    "ar_category": "Tactical Side-Zip Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "KHYBER TR960Z / Hot Weather Lightweight Side-Zip Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "KHYBER TR960Z / Hot Weather Lightweight Side-Zip Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Hot Weather",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-khyber-tr960z-hot-weather-lightweight-side-zip-tactical-boot",
+    "image": "belleville/khyber-tr960z-hot-weather-lightweight-side-zip-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/khyber-tr960z-hot-weather-lightweight-side-zip-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/khyber-tr960z-hot-weather-lightweight-side-zip-tactical-boot-view-1.webp",
+      "belleville/khyber-tr960z-hot-weather-lightweight-side-zip-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=KHYBER%20TR960Z%20/%20Hot%20Weather%20Lightweight%20Side-Zip%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "khyber tr960z / hot weather lightweight side-zip tactical boot belleville boot co. boots & professional footwear tactical side-zip boots khyber tr960z / hot weather lightweight side-zip tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "C775 / Insulated Waterproof Boot",
+    "ar_title": "C775 / Insulated Waterproof Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "C775 / Insulated Waterproof Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "C775 / Insulated Waterproof Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Waterproof",
+      "Insulated",
+      "Professional Footwear"
+    ],
+    "id": "belleville-c775-insulated-waterproof-boot",
+    "image": "belleville/c775-insulated-waterproof-boot-view-1.webp",
+    "fallback_image": "belleville/c775-insulated-waterproof-boot-view-1.webp",
+    "gallery": [
+      "belleville/c775-insulated-waterproof-boot-view-1.webp",
+      "belleville/c775-insulated-waterproof-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C775%20/%20Insulated%20Waterproof%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "c775 / insulated waterproof boot belleville boot co. boots & professional footwear waterproof & insulated boots c775 / insulated waterproof boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "C775ST / Insulated Steel Toe Waterproof Boot",
+    "ar_title": "C775ST / Insulated Steel Toe Waterproof Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "C775ST / Insulated Steel Toe Waterproof Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "C775ST / Insulated Steel Toe Waterproof Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Waterproof",
+      "Insulated",
+      "Steel Toe",
+      "Professional Footwear"
+    ],
+    "id": "belleville-c775st-insulated-steel-toe-waterproof-boot",
+    "image": "belleville/c775st-insulated-steel-toe-waterproof-boot-view-1.webp",
+    "fallback_image": "belleville/c775st-insulated-steel-toe-waterproof-boot-view-1.webp",
+    "gallery": [
+      "belleville/c775st-insulated-steel-toe-waterproof-boot-view-1.webp",
+      "belleville/c775st-insulated-steel-toe-waterproof-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C775ST%20/%20Insulated%20Steel%20Toe%20Waterproof%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "c775st / insulated steel toe waterproof boot belleville boot co. boots & professional footwear waterproof & insulated boots c775st / insulated steel toe waterproof boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof insulated steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SPEAR POINT BV508Z CT / Hot Weather Composite Toe Side-Zip Boot",
+    "ar_title": "SPEAR POINT BV508Z CT / Hot Weather Composite Toe Side-Zip Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Tactical Side-Zip Boots",
+    "ar_category": "Tactical Side-Zip Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SPEAR POINT BV508Z CT / Hot Weather Composite Toe Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SPEAR POINT BV508Z CT / Hot Weather Composite Toe Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Hot Weather",
+      "Composite Toe",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-spear-point-bv508z-ct-hot-weather-composite-toe-side-zip-boot",
+    "image": "belleville/spear-point-bv508z-ct-hot-weather-composite-toe-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv508z-ct-hot-weather-composite-toe-side-zip-boot-view-1.webp",
+    "gallery": [
+      "belleville/spear-point-bv508z-ct-hot-weather-composite-toe-side-zip-boot-view-1.webp",
+      "belleville/spear-point-bv508z-ct-hot-weather-composite-toe-side-zip-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV508Z%20CT%20/%20Hot%20Weather%20Composite%20Toe%20Side-Zip%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "spear point bv508z ct / hot weather composite toe side-zip boot belleville boot co. boots & professional footwear tactical side-zip boots spear point bv508z ct / hot weather composite toe side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "MAXX 8Z / 8 inch Maximalist Tactical Boot",
+    "ar_title": "MAXX 8Z / 8 inch Maximalist Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "MAXX 8Z / 8 inch Maximalist Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "MAXX 8Z / 8 inch Maximalist Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Ranger Green",
+      "Professional Footwear"
+    ],
+    "id": "belleville-maxx-8z-8-inch-maximalist-tactical-boot",
+    "image": "belleville/maxx-8z-8-inch-maximalist-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/maxx-8z-8-inch-maximalist-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/maxx-8z-8-inch-maximalist-tactical-boot-view-1.webp",
+      "belleville/maxx-8z-8-inch-maximalist-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=MAXX%208Z%20/%208%20inch%20Maximalist%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "maxx 8z / 8 inch maximalist tactical boot belleville boot co. boots & professional footwear military & tactical boots maxx 8z / 8 inch maximalist tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "JUNGLE RUNNER TR900",
+    "ar_title": "JUNGLE RUNNER TR900",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Jungle & Hot-Weather Boots",
+    "ar_category": "Jungle & Hot-Weather Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "JUNGLE RUNNER TR900. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "JUNGLE RUNNER TR900. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Jungle",
+      "Professional Footwear"
+    ],
+    "id": "belleville-jungle-runner-tr900-jungle-runner-tr900",
+    "image": "belleville/jungle-runner-tr900-jungle-runner-tr900-view-1.webp",
+    "fallback_image": "belleville/jungle-runner-tr900-jungle-runner-tr900-view-1.webp",
+    "gallery": [
+      "belleville/jungle-runner-tr900-jungle-runner-tr900-view-1.webp",
+      "belleville/jungle-runner-tr900-jungle-runner-tr900-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=JUNGLE%20RUNNER%20TR900",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "jungle runner tr900 belleville boot co. boots & professional footwear jungle & hot-weather boots jungle runner tr900. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown jungle professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "FLYWEIGHT C312Z CT / Hot Weather Side-Zip Composite Toe Boot",
+    "ar_title": "FLYWEIGHT C312Z CT / Hot Weather Side-Zip Composite Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Tactical Side-Zip Boots",
+    "ar_category": "Tactical Side-Zip Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "FLYWEIGHT C312Z CT / Hot Weather Side-Zip Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "FLYWEIGHT C312Z CT / Hot Weather Side-Zip Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Composite Toe",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-flyweight-c312z-ct-hot-weather-side-zip-composite-toe-boot",
+    "image": "belleville/flyweight-c312z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-c312z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/flyweight-c312z-ct-hot-weather-side-zip-composite-toe-boot-view-1.webp",
+      "belleville/flyweight-c312z-ct-hot-weather-side-zip-composite-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20C312Z%20CT%20/%20Hot%20Weather%20Side-Zip%20Composite%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "flyweight c312z ct / hot weather side-zip composite toe boot belleville boot co. boots & professional footwear tactical side-zip boots flyweight c312z ct / hot weather side-zip composite toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather composite toe side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "339 ST / US Navy Aviator Boot",
+    "ar_title": "339 ST / US Navy Aviator Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "339 ST / US Navy Aviator Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "339 ST / US Navy Aviator Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Aviation",
+      "Professional Footwear"
+    ],
+    "id": "belleville-339-st-us-navy-aviator-boot",
+    "image": "belleville/339-st-us-navy-aviator-boot-view-1.webp",
+    "fallback_image": "belleville/339-st-us-navy-aviator-boot-view-1.webp",
+    "gallery": [
+      "belleville/339-st-us-navy-aviator-boot-view-1.webp",
+      "belleville/339-st-us-navy-aviator-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=339%20ST%20/%20US%20Navy%20Aviator%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "339 st / us navy aviator boot belleville boot co. boots & professional footwear flight & deck boots 339 st / us navy aviator boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black aviation professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "AMRAP BV970ZWPT / Vapor Boot",
+    "ar_title": "AMRAP BV970ZWPT / Vapor Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "AMRAP BV970ZWPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "AMRAP BV970ZWPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Professional Footwear"
+    ],
+    "id": "belleville-amrap-bv970zwpt-vapor-boot",
+    "image": "belleville/amrap-bv970zwpt-vapor-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-bv970zwpt-vapor-boot-view-1.webp",
+    "gallery": [
+      "belleville/amrap-bv970zwpt-vapor-boot-view-1.webp",
+      "belleville/amrap-bv970zwpt-vapor-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20BV970ZWPT%20/%20Vapor%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "amrap bv970zwpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv970zwpt / vapor boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "793 / Waterproof Assault Flight Boot",
+    "ar_title": "793 / Waterproof Assault Flight Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "793 / Waterproof Assault Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "793 / Waterproof Assault Flight Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Ranger Green",
+      "Waterproof",
+      "Flight",
+      "Professional Footwear"
+    ],
+    "id": "belleville-793-waterproof-assault-flight-boot",
+    "image": "belleville/793-waterproof-assault-flight-boot-view-1.webp",
+    "fallback_image": "belleville/793-waterproof-assault-flight-boot-view-1.webp",
+    "gallery": [
+      "belleville/793-waterproof-assault-flight-boot-view-1.webp",
+      "belleville/793-waterproof-assault-flight-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=793%20/%20Waterproof%20Assault%20Flight%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "793 / waterproof assault flight boot belleville boot co. boots & professional footwear flight & deck boots 793 / waterproof assault flight boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green waterproof flight professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SQUALL BV555INS CT / 400g Insulated Composite Toe Boot",
+    "ar_title": "SQUALL BV555INS CT / 400g Insulated Composite Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SQUALL BV555INS CT / 400g Insulated Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SQUALL BV555INS CT / 400g Insulated Composite Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Insulated",
+      "Composite Toe",
+      "Professional Footwear"
+    ],
+    "id": "belleville-squall-bv555ins-ct-400g-insulated-composite-toe-boot",
+    "image": "belleville/squall-bv555ins-ct-400g-insulated-composite-toe-boot-view-1.webp",
+    "fallback_image": "belleville/squall-bv555ins-ct-400g-insulated-composite-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/squall-bv555ins-ct-400g-insulated-composite-toe-boot-view-1.webp",
+      "belleville/squall-bv555ins-ct-400g-insulated-composite-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SQUALL%20BV555INS%20CT%20/%20400g%20Insulated%20Composite%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "squall bv555ins ct / 400g insulated composite toe boot belleville boot co. boots & professional footwear waterproof & insulated boots squall bv555ins ct / 400g insulated composite toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown insulated composite toe professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "TR1040-T / 7 Inch Ultralight Tactical Boot",
+    "ar_title": "TR1040-T / 7 Inch Ultralight Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "TR1040-T / 7 Inch Ultralight Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "TR1040-T / 7 Inch Ultralight Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Professional Footwear"
+    ],
+    "id": "belleville-tr1040-t-7-inch-ultralight-tactical-boot",
+    "image": "belleville/tr1040-t-7-inch-ultralight-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/tr1040-t-7-inch-ultralight-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/tr1040-t-7-inch-ultralight-tactical-boot-view-1.webp",
+      "belleville/tr1040-t-7-inch-ultralight-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR1040-T%20/%207%20Inch%20Ultralight%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "tr1040-t / 7 inch ultralight tactical boot belleville boot co. boots & professional footwear military & tactical boots tr1040-t / 7 inch ultralight tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "AMRAP BV505 / Athletic Field Boot",
+    "ar_title": "AMRAP BV505 / Athletic Field Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "AMRAP BV505 / Athletic Field Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "AMRAP BV505 / Athletic Field Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Athletic",
+      "Professional Footwear"
+    ],
+    "id": "belleville-amrap-bv505-athletic-field-boot",
+    "image": "belleville/amrap-bv505-athletic-field-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-bv505-athletic-field-boot-view-1.webp",
+    "gallery": [
+      "belleville/amrap-bv505-athletic-field-boot-view-1.webp",
+      "belleville/amrap-bv505-athletic-field-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20BV505%20/%20Athletic%20Field%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "amrap bv505 / athletic field boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv505 / athletic field boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown athletic professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "KHYBER TR960 / Hot Weather Lightweight Tactical Boot",
+    "ar_title": "KHYBER TR960 / Hot Weather Lightweight Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "KHYBER TR960 / Hot Weather Lightweight Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "KHYBER TR960 / Hot Weather Lightweight Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Hot Weather",
+      "Professional Footwear"
+    ],
+    "id": "belleville-khyber-tr960-hot-weather-lightweight-tactical-boot",
+    "image": "belleville/khyber-tr960-hot-weather-lightweight-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/khyber-tr960-hot-weather-lightweight-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/khyber-tr960-hot-weather-lightweight-tactical-boot-view-1.webp",
+      "belleville/khyber-tr960-hot-weather-lightweight-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=KHYBER%20TR960%20/%20Hot%20Weather%20Lightweight%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "khyber tr960 / hot weather lightweight tactical boot belleville boot co. boots & professional footwear military & tactical boots khyber tr960 / hot weather lightweight tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "BV903PR / CANOPY Jungle Boot",
+    "ar_title": "BV903PR / CANOPY Jungle Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Jungle & Hot-Weather Boots",
+    "ar_category": "Jungle & Hot-Weather Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "BV903PR / CANOPY Jungle Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "BV903PR / CANOPY Jungle Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Ranger Green",
+      "Jungle",
+      "Professional Footwear"
+    ],
+    "id": "belleville-bv903pr-canopy-jungle-boot",
+    "image": "belleville/bv903pr-canopy-jungle-boot-view-1.webp",
+    "fallback_image": "belleville/bv903pr-canopy-jungle-boot-view-1.webp",
+    "gallery": [
+      "belleville/bv903pr-canopy-jungle-boot-view-1.webp",
+      "belleville/bv903pr-canopy-jungle-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=BV903PR%20/%20CANOPY%20Jungle%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "bv903pr / canopy jungle boot belleville boot co. boots & professional footwear jungle & hot-weather boots bv903pr / canopy jungle boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green jungle professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "F390 DES / Women's Hot Weather Combat Boot",
+    "ar_title": "F390 DES / Women's Hot Weather Combat Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "F390 DES / Women's Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "F390 DES / Women's Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Hot Weather",
+      "Women’s Fit",
+      "Professional Footwear"
+    ],
+    "id": "belleville-f390-des-women-s-hot-weather-combat-boot",
+    "image": "belleville/f390-des-women-s-hot-weather-combat-boot-view-1.webp",
+    "fallback_image": "belleville/f390-des-women-s-hot-weather-combat-boot-view-1.webp",
+    "gallery": [
+      "belleville/f390-des-women-s-hot-weather-combat-boot-view-1.webp",
+      "belleville/f390-des-women-s-hot-weather-combat-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=F390%20DES%20/%20Women%27s%20Hot%20Weather%20Combat%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "f390 des / women's hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots f390 des / women's hot weather combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan hot weather women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "FC390 / Women's Hot Weather Combat Boot",
+    "ar_title": "FC390 / Women's Hot Weather Combat Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "FC390 / Women's Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "FC390 / Women's Hot Weather Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Women’s Fit",
+      "Professional Footwear"
+    ],
+    "id": "belleville-fc390-women-s-hot-weather-combat-boot",
+    "image": "belleville/fc390-women-s-hot-weather-combat-boot-view-1.webp",
+    "fallback_image": "belleville/fc390-women-s-hot-weather-combat-boot-view-1.webp",
+    "gallery": [
+      "belleville/fc390-women-s-hot-weather-combat-boot-view-1.webp",
+      "belleville/fc390-women-s-hot-weather-combat-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FC390%20/%20Women%27s%20Hot%20Weather%20Combat%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "fc390 / women's hot weather combat boot belleville boot co. boots & professional footwear military & tactical boots fc390 / women's hot weather combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SPEAR POINT BV518 / Lightweight Hot Weather Tactical Boot",
+    "ar_title": "SPEAR POINT BV518 / Lightweight Hot Weather Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SPEAR POINT BV518 / Lightweight Hot Weather Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SPEAR POINT BV518 / Lightweight Hot Weather Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Professional Footwear"
+    ],
+    "id": "belleville-spear-point-bv518-lightweight-hot-weather-tactical-boot",
+    "image": "belleville/spear-point-bv518-lightweight-hot-weather-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv518-lightweight-hot-weather-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/spear-point-bv518-lightweight-hot-weather-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv518-lightweight-hot-weather-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV518%20/%20Lightweight%20Hot%20Weather%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "spear point bv518 / lightweight hot weather tactical boot belleville boot co. boots & professional footwear military & tactical boots spear point bv518 / lightweight hot weather tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "AMRAP BV570ZWPT / Vapor Boot",
+    "ar_title": "AMRAP BV570ZWPT / Vapor Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "AMRAP BV570ZWPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "AMRAP BV570ZWPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Professional Footwear"
+    ],
+    "id": "belleville-amrap-bv570zwpt-vapor-boot",
+    "image": "belleville/amrap-bv570zwpt-vapor-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-bv570zwpt-vapor-boot-view-1.webp",
+    "gallery": [
+      "belleville/amrap-bv570zwpt-vapor-boot-view-1.webp",
+      "belleville/amrap-bv570zwpt-vapor-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20BV570ZWPT%20/%20Vapor%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "amrap bv570zwpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv570zwpt / vapor boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "C755-B / Extreme Cold Weather Waterproof & Insulated Boot",
+    "ar_title": "C755-B / Extreme Cold Weather Waterproof & Insulated Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "C755-B / Extreme Cold Weather Waterproof & Insulated Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "C755-B / Extreme Cold Weather Waterproof & Insulated Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Waterproof",
+      "Insulated",
+      "Professional Footwear"
+    ],
+    "id": "belleville-c755-b-extreme-cold-weather-waterproof-and-insulated-boot",
+    "image": "belleville/c755-b-extreme-cold-weather-waterproof-and-insulated-boot-view-1.webp",
+    "fallback_image": "belleville/c755-b-extreme-cold-weather-waterproof-and-insulated-boot-view-1.webp",
+    "gallery": [
+      "belleville/c755-b-extreme-cold-weather-waterproof-and-insulated-boot-view-1.webp",
+      "belleville/c755-b-extreme-cold-weather-waterproof-and-insulated-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=C755-B%20/%20Extreme%20Cold%20Weather%20Waterproof%20%26%20Insulated%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "c755-b / extreme cold weather waterproof & insulated boot belleville boot co. boots & professional footwear waterproof & insulated boots c755-b / extreme cold weather waterproof & insulated boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof insulated professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "QRF DELTA C6 / Mid-Cut Approach Boot",
+    "ar_title": "QRF DELTA C6 / Mid-Cut Approach Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "QRF DELTA C6 / Mid-Cut Approach Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "QRF DELTA C6 / Mid-Cut Approach Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Professional Footwear"
+    ],
+    "id": "belleville-qrf-delta-c6-mid-cut-approach-boot",
+    "image": "belleville/qrf-delta-c6-mid-cut-approach-boot-view-1.webp",
+    "fallback_image": "belleville/qrf-delta-c6-mid-cut-approach-boot-view-1.webp",
+    "gallery": [
+      "belleville/qrf-delta-c6-mid-cut-approach-boot-view-1.webp",
+      "belleville/qrf-delta-c6-mid-cut-approach-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=QRF%20DELTA%20C6%20/%20Mid-Cut%20Approach%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "qrf delta c6 / mid-cut approach boot belleville boot co. boots & professional footwear training & athletic footwear qrf delta c6 / mid-cut approach boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "TR1040-ZWP / 7 Inch Waterproof Ultralight Tactical Side-Zip Boot",
+    "ar_title": "TR1040-ZWP / 7 Inch Waterproof Ultralight Tactical Side-Zip Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "TR1040-ZWP / 7 Inch Waterproof Ultralight Tactical Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "TR1040-ZWP / 7 Inch Waterproof Ultralight Tactical Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Waterproof",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-tr1040-zwp-7-inch-waterproof-ultralight-tactical-side-zip-boot",
+    "image": "belleville/tr1040-zwp-7-inch-waterproof-ultralight-tactical-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/tr1040-zwp-7-inch-waterproof-ultralight-tactical-side-zip-boot-view-1.webp",
+    "gallery": [
+      "belleville/tr1040-zwp-7-inch-waterproof-ultralight-tactical-side-zip-boot-view-1.webp",
+      "belleville/tr1040-zwp-7-inch-waterproof-ultralight-tactical-side-zip-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR1040-ZWP%20/%207%20Inch%20Waterproof%20Ultralight%20Tactical%20Side-Zip%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "tr1040-zwp / 7 inch waterproof ultralight tactical side-zip boot belleville boot co. boots & professional footwear waterproof & insulated boots tr1040-zwp / 7 inch waterproof ultralight tactical side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "TR966 / Hot Weather Lightweight Tactical Boot",
+    "ar_title": "TR966 / Hot Weather Lightweight Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "TR966 / Hot Weather Lightweight Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "TR966 / Hot Weather Lightweight Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Professional Footwear"
+    ],
+    "id": "belleville-tr966-hot-weather-lightweight-tactical-boot",
+    "image": "belleville/tr966-hot-weather-lightweight-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/tr966-hot-weather-lightweight-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/tr966-hot-weather-lightweight-tactical-boot-view-1.webp",
+      "belleville/tr966-hot-weather-lightweight-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR966%20/%20Hot%20Weather%20Lightweight%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "tr966 / hot weather lightweight tactical boot belleville boot co. boots & professional footwear military & tactical boots tr966 / hot weather lightweight tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SPEAR POINT BV915Z / Lightweight Side-Zip 5 inch Tactical Boot",
+    "ar_title": "SPEAR POINT BV915Z / Lightweight Side-Zip 5 inch Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Tactical Side-Zip Boots",
+    "ar_category": "Tactical Side-Zip Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SPEAR POINT BV915Z / Lightweight Side-Zip 5 inch Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SPEAR POINT BV915Z / Lightweight Side-Zip 5 inch Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-spear-point-bv915z-lightweight-side-zip-5-inch-tactical-boot",
+    "image": "belleville/spear-point-bv915z-lightweight-side-zip-5-inch-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv915z-lightweight-side-zip-5-inch-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/spear-point-bv915z-lightweight-side-zip-5-inch-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv915z-lightweight-side-zip-5-inch-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV915Z%20/%20Lightweight%20Side-Zip%205%20inch%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "spear point bv915z / lightweight side-zip 5 inch tactical boot belleville boot co. boots & professional footwear tactical side-zip boots spear point bv915z / lightweight side-zip 5 inch tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "ARMR LTE C290 / Ultralight Combat & Training Boot",
+    "ar_title": "ARMR LTE C290 / Ultralight Combat & Training Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "ARMR LTE C290 / Ultralight Combat & Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "ARMR LTE C290 / Ultralight Combat & Training Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Training",
+      "Professional Footwear"
+    ],
+    "id": "belleville-armr-lte-c290-ultralight-combat-and-training-boot",
+    "image": "belleville/armr-lte-c290-ultralight-combat-and-training-boot-view-1.webp",
+    "fallback_image": "belleville/armr-lte-c290-ultralight-combat-and-training-boot-view-1.webp",
+    "gallery": [
+      "belleville/armr-lte-c290-ultralight-combat-and-training-boot-view-1.webp",
+      "belleville/armr-lte-c290-ultralight-combat-and-training-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=ARMR%20LTE%20C290%20/%20Ultralight%20Combat%20%26%20Training%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "armr lte c290 / ultralight combat & training boot belleville boot co. boots & professional footwear training & athletic footwear armr lte c290 / ultralight combat & training boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown training professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "FLYWEIGHT C315 ST / Steel Toe Boot",
+    "ar_title": "FLYWEIGHT C315 ST / Steel Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Safety-Toe Boots",
+    "ar_category": "Safety-Toe Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "FLYWEIGHT C315 ST / Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "FLYWEIGHT C315 ST / Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Steel Toe",
+      "Professional Footwear"
+    ],
+    "id": "belleville-flyweight-c315-st-steel-toe-boot",
+    "image": "belleville/flyweight-c315-st-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-c315-st-steel-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/flyweight-c315-st-steel-toe-boot-view-1.webp",
+      "belleville/flyweight-c315-st-steel-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20C315%20ST%20/%20Steel%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "flyweight c315 st / steel toe boot belleville boot co. boots & professional footwear safety-toe boots flyweight c315 st / steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "F495 ST / Navy Female General Purpose Steel Toe Boot",
+    "ar_title": "F495 ST / Navy Female General Purpose Steel Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Safety-Toe Boots",
+    "ar_category": "Safety-Toe Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "F495 ST / Navy Female General Purpose Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "F495 ST / Navy Female General Purpose Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Steel Toe",
+      "Women’s Fit",
+      "Professional Footwear"
+    ],
+    "id": "belleville-f495-st-navy-female-general-purpose-steel-toe-boot",
+    "image": "belleville/f495-st-navy-female-general-purpose-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/f495-st-navy-female-general-purpose-steel-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/f495-st-navy-female-general-purpose-steel-toe-boot-view-1.webp",
+      "belleville/f495-st-navy-female-general-purpose-steel-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=F495%20ST%20/%20Navy%20Female%20General%20Purpose%20Steel%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "f495 st / navy female general purpose steel toe boot belleville boot co. boots & professional footwear safety-toe boots f495 st / navy female general purpose steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black steel toe women’s fit professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "AMRAP BV570WPT / Vapor Boot",
+    "ar_title": "AMRAP BV570WPT / Vapor Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "AMRAP BV570WPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "AMRAP BV570WPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Professional Footwear"
+    ],
+    "id": "belleville-amrap-bv570wpt-vapor-boot",
+    "image": "belleville/amrap-bv570wpt-vapor-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-bv570wpt-vapor-boot-view-1.webp",
+    "gallery": [
+      "belleville/amrap-bv570wpt-vapor-boot-view-1.webp",
+      "belleville/amrap-bv570wpt-vapor-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20BV570WPT%20/%20Vapor%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "amrap bv570wpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv570wpt / vapor boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "AMRAP BV670WPT / Vapor Boot",
+    "ar_title": "AMRAP BV670WPT / Vapor Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "AMRAP BV670WPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "AMRAP BV670WPT / Vapor Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Professional Footwear"
+    ],
+    "id": "belleville-amrap-bv670wpt-vapor-boot",
+    "image": "belleville/amrap-bv670wpt-vapor-boot-view-1.webp",
+    "fallback_image": "belleville/amrap-bv670wpt-vapor-boot-view-1.webp",
+    "gallery": [
+      "belleville/amrap-bv670wpt-vapor-boot-view-1.webp",
+      "belleville/amrap-bv670wpt-vapor-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=AMRAP%20BV670WPT%20/%20Vapor%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "amrap bv670wpt / vapor boot belleville boot co. boots & professional footwear training & athletic footwear amrap bv670wpt / vapor boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "QRF ALPHA C9 / Hot Weather Assault Boot",
+    "ar_title": "QRF ALPHA C9 / Hot Weather Assault Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Military & Tactical Boots",
+    "ar_category": "Military & Tactical Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "QRF ALPHA C9 / Hot Weather Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "QRF ALPHA C9 / Hot Weather Assault Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Hot Weather",
+      "Professional Footwear"
+    ],
+    "id": "belleville-qrf-alpha-c9-hot-weather-assault-boot",
+    "image": "belleville/qrf-alpha-c9-hot-weather-assault-boot-view-1.webp",
+    "fallback_image": "belleville/qrf-alpha-c9-hot-weather-assault-boot-view-1.webp",
+    "gallery": [
+      "belleville/qrf-alpha-c9-hot-weather-assault-boot-view-1.webp",
+      "belleville/qrf-alpha-c9-hot-weather-assault-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=QRF%20ALPHA%20C9%20/%20Hot%20Weather%20Assault%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "qrf alpha c9 / hot weather assault boot belleville boot co. boots & professional footwear military & tactical boots qrf alpha c9 / hot weather assault boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown hot weather professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "Mini-Mil MM002 / Barefoot Activity Shoe",
+    "ar_title": "Mini-Mil MM002 / Barefoot Activity Shoe",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "Mini-Mil MM002 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "Mini-Mil MM002 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Professional Footwear"
+    ],
+    "id": "belleville-mini-mil-mm002-barefoot-activity-shoe",
+    "image": "belleville/mini-mil-mm002-barefoot-activity-shoe-view-1.webp",
+    "fallback_image": "belleville/mini-mil-mm002-barefoot-activity-shoe-view-1.webp",
+    "gallery": [
+      "belleville/mini-mil-mm002-barefoot-activity-shoe-view-1.webp",
+      "belleville/mini-mil-mm002-barefoot-activity-shoe-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20MM002%20/%20Barefoot%20Activity%20Shoe",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "mini-mil mm002 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm002 / barefoot activity shoe. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "Chrome TR998Z WP / Waterproof Side-Zip Boot",
+    "ar_title": "Chrome TR998Z WP / Waterproof Side-Zip Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "Chrome TR998Z WP / Waterproof Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "Chrome TR998Z WP / Waterproof Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Waterproof",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-chrome-tr998z-wp-waterproof-side-zip-boot",
+    "image": "belleville/chrome-tr998z-wp-waterproof-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/chrome-tr998z-wp-waterproof-side-zip-boot-view-1.webp",
+    "gallery": [
+      "belleville/chrome-tr998z-wp-waterproof-side-zip-boot-view-1.webp",
+      "belleville/chrome-tr998z-wp-waterproof-side-zip-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Chrome%20TR998Z%20WP%20/%20Waterproof%20Side-Zip%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "chrome tr998z wp / waterproof side-zip boot belleville boot co. boots & professional footwear waterproof & insulated boots chrome tr998z wp / waterproof side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "Mini-Mil MM003 / Barefoot Activity Shoe",
+    "ar_title": "Mini-Mil MM003 / Barefoot Activity Shoe",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "Mini-Mil MM003 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "Mini-Mil MM003 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Professional Footwear"
+    ],
+    "id": "belleville-mini-mil-mm003-barefoot-activity-shoe",
+    "image": "belleville/mini-mil-mm003-barefoot-activity-shoe-view-1.webp",
+    "fallback_image": "belleville/mini-mil-mm003-barefoot-activity-shoe-view-1.webp",
+    "gallery": [
+      "belleville/mini-mil-mm003-barefoot-activity-shoe-view-1.webp",
+      "belleville/mini-mil-mm003-barefoot-activity-shoe-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20MM003%20/%20Barefoot%20Activity%20Shoe",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "mini-mil mm003 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm003 / barefoot activity shoe. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "Mini-Mil MM005 WP / Blackout Barefoot Activity Shoe",
+    "ar_title": "Mini-Mil MM005 WP / Blackout Barefoot Activity Shoe",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "Mini-Mil MM005 WP / Blackout Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "Mini-Mil MM005 WP / Blackout Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Professional Footwear"
+    ],
+    "id": "belleville-mini-mil-mm005-wp-blackout-barefoot-activity-shoe",
+    "image": "belleville/mini-mil-mm005-wp-blackout-barefoot-activity-shoe-view-1.webp",
+    "fallback_image": "belleville/mini-mil-mm005-wp-blackout-barefoot-activity-shoe-view-1.webp",
+    "gallery": [
+      "belleville/mini-mil-mm005-wp-blackout-barefoot-activity-shoe-view-1.webp",
+      "belleville/mini-mil-mm005-wp-blackout-barefoot-activity-shoe-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20MM005%20WP%20/%20Blackout%20Barefoot%20Activity%20Shoe",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "mini-mil mm005 wp / blackout barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm005 wp / blackout barefoot activity shoe. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SPEAR POINT BV918Z WP / Lightweight Side-Zip 8 inch Waterproof Tactical Boot",
+    "ar_title": "SPEAR POINT BV918Z WP / Lightweight Side-Zip 8 inch Waterproof Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SPEAR POINT BV918Z WP / Lightweight Side-Zip 8 inch Waterproof Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SPEAR POINT BV918Z WP / Lightweight Side-Zip 8 inch Waterproof Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Ranger Green",
+      "Waterproof",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-spear-point-bv918z-wp-lightweight-side-zip-8-inch-waterproof-tactical-boot",
+    "image": "belleville/spear-point-bv918z-wp-lightweight-side-zip-8-inch-waterproof-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv918z-wp-lightweight-side-zip-8-inch-waterproof-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/spear-point-bv918z-wp-lightweight-side-zip-8-inch-waterproof-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv918z-wp-lightweight-side-zip-8-inch-waterproof-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV918Z%20WP%20/%20Lightweight%20Side-Zip%208%20inch%20Waterproof%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "spear point bv918z wp / lightweight side-zip 8 inch waterproof tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots spear point bv918z wp / lightweight side-zip 8 inch waterproof tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "FLYWEIGHT FX2 / Hot Weather Flight-Combat Boot",
+    "ar_title": "FLYWEIGHT FX2 / Hot Weather Flight-Combat Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Flight & Deck Boots",
+    "ar_category": "Flight & Deck Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "FLYWEIGHT FX2 / Hot Weather Flight-Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "FLYWEIGHT FX2 / Hot Weather Flight-Combat Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Hot Weather",
+      "Flight",
+      "Professional Footwear"
+    ],
+    "id": "belleville-flyweight-fx2-hot-weather-flight-combat-boot",
+    "image": "belleville/flyweight-fx2-hot-weather-flight-combat-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-fx2-hot-weather-flight-combat-boot-view-1.webp",
+    "gallery": [
+      "belleville/flyweight-fx2-hot-weather-flight-combat-boot-view-1.webp",
+      "belleville/flyweight-fx2-hot-weather-flight-combat-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20FX2%20/%20Hot%20Weather%20Flight-Combat%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "flyweight fx2 / hot weather flight-combat boot belleville boot co. boots & professional footwear flight & deck boots flyweight fx2 / hot weather flight-combat boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown hot weather flight professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "Mini-Mil MM004 / Barefoot Activity Shoe",
+    "ar_title": "Mini-Mil MM004 / Barefoot Activity Shoe",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "Mini-Mil MM004 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "Mini-Mil MM004 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Professional Footwear"
+    ],
+    "id": "belleville-mini-mil-mm004-barefoot-activity-shoe",
+    "image": "belleville/mini-mil-mm004-barefoot-activity-shoe-view-1.webp",
+    "fallback_image": "belleville/mini-mil-mm004-barefoot-activity-shoe-view-1.webp",
+    "gallery": [
+      "belleville/mini-mil-mm004-barefoot-activity-shoe-view-1.webp",
+      "belleville/mini-mil-mm004-barefoot-activity-shoe-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20MM004%20/%20Barefoot%20Activity%20Shoe",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "mini-mil mm004 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm004 / barefoot activity shoe. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SPEAR POINT BV915Z WP / Lightweight Side-Zip Waterproof Tactical Boot",
+    "ar_title": "SPEAR POINT BV915Z WP / Lightweight Side-Zip Waterproof Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Waterproof & Insulated Boots",
+    "ar_category": "Waterproof & Insulated Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SPEAR POINT BV915Z WP / Lightweight Side-Zip Waterproof Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SPEAR POINT BV915Z WP / Lightweight Side-Zip Waterproof Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Coyote Brown",
+      "Waterproof",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-spear-point-bv915z-wp-lightweight-side-zip-waterproof-tactical-boot",
+    "image": "belleville/spear-point-bv915z-wp-lightweight-side-zip-waterproof-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv915z-wp-lightweight-side-zip-waterproof-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/spear-point-bv915z-wp-lightweight-side-zip-waterproof-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv915z-wp-lightweight-side-zip-waterproof-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV915Z%20WP%20/%20Lightweight%20Side-Zip%20Waterproof%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "spear point bv915z wp / lightweight side-zip waterproof tactical boot belleville boot co. boots & professional footwear waterproof & insulated boots spear point bv915z wp / lightweight side-zip waterproof tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed coyote brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. coyote brown waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "TR1040-LSZ / 7 Inch Ultralight Tactical Side-Zip Boot",
+    "ar_title": "TR1040-LSZ / 7 Inch Ultralight Tactical Side-Zip Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Tactical Side-Zip Boots",
+    "ar_category": "Tactical Side-Zip Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "TR1040-LSZ / 7 Inch Ultralight Tactical Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "TR1040-LSZ / 7 Inch Ultralight Tactical Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-tr1040-lsz-7-inch-ultralight-tactical-side-zip-boot",
+    "image": "belleville/tr1040-lsz-7-inch-ultralight-tactical-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/tr1040-lsz-7-inch-ultralight-tactical-side-zip-boot-view-1.webp",
+    "gallery": [
+      "belleville/tr1040-lsz-7-inch-ultralight-tactical-side-zip-boot-view-1.webp",
+      "belleville/tr1040-lsz-7-inch-ultralight-tactical-side-zip-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR1040-LSZ%20/%207%20Inch%20Ultralight%20Tactical%20Side-Zip%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "tr1040-lsz / 7 inch ultralight tactical side-zip boot belleville boot co. boots & professional footwear tactical side-zip boots tr1040-lsz / 7 inch ultralight tactical side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "TR Chrome TR918Z / 8 inch Hot Weather Side-Zip Boot",
+    "ar_title": "TR Chrome TR918Z / 8 inch Hot Weather Side-Zip Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Tactical Side-Zip Boots",
+    "ar_category": "Tactical Side-Zip Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "TR Chrome TR918Z / 8 inch Hot Weather Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "TR Chrome TR918Z / 8 inch Hot Weather Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Hot Weather",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-tr-chrome-tr918z-8-inch-hot-weather-side-zip-boot",
+    "image": "belleville/tr-chrome-tr918z-8-inch-hot-weather-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/tr-chrome-tr918z-8-inch-hot-weather-side-zip-boot-view-1.webp",
+    "gallery": [
+      "belleville/tr-chrome-tr918z-8-inch-hot-weather-side-zip-boot-view-1.webp",
+      "belleville/tr-chrome-tr918z-8-inch-hot-weather-side-zip-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=TR%20Chrome%20TR918Z%20/%208%20inch%20Hot%20Weather%20Side-Zip%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "tr chrome tr918z / 8 inch hot weather side-zip boot belleville boot co. boots & professional footwear tactical side-zip boots tr chrome tr918z / 8 inch hot weather side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "CLASS-A TR908Z WP / Waterproof High-Shine Side-Zip Boot",
+    "ar_title": "CLASS-A TR908Z WP / Waterproof High-Shine Side-Zip Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Duty & Dress Footwear",
+    "ar_category": "Duty & Dress Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "CLASS-A TR908Z WP / Waterproof High-Shine Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "CLASS-A TR908Z WP / Waterproof High-Shine Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Waterproof",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-class-a-tr908z-wp-waterproof-high-shine-side-zip-boot",
+    "image": "belleville/class-a-tr908z-wp-waterproof-high-shine-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/class-a-tr908z-wp-waterproof-high-shine-side-zip-boot-view-1.webp",
+    "gallery": [
+      "belleville/class-a-tr908z-wp-waterproof-high-shine-side-zip-boot-view-1.webp",
+      "belleville/class-a-tr908z-wp-waterproof-high-shine-side-zip-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=CLASS-A%20TR908Z%20WP%20/%20Waterproof%20High-Shine%20Side-Zip%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "class-a tr908z wp / waterproof high-shine side-zip boot belleville boot co. boots & professional footwear duty & dress footwear class-a tr908z wp / waterproof high-shine side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black waterproof side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SPEAR POINT BV918Z / Lightweight Side-Zip 8 inch Tactical Boot",
+    "ar_title": "SPEAR POINT BV918Z / Lightweight Side-Zip 8 inch Tactical Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Tactical Side-Zip Boots",
+    "ar_category": "Tactical Side-Zip Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SPEAR POINT BV918Z / Lightweight Side-Zip 8 inch Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SPEAR POINT BV918Z / Lightweight Side-Zip 8 inch Tactical Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Desert Tan",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-spear-point-bv918z-lightweight-side-zip-8-inch-tactical-boot",
+    "image": "belleville/spear-point-bv918z-lightweight-side-zip-8-inch-tactical-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv918z-lightweight-side-zip-8-inch-tactical-boot-view-1.webp",
+    "gallery": [
+      "belleville/spear-point-bv918z-lightweight-side-zip-8-inch-tactical-boot-view-1.webp",
+      "belleville/spear-point-bv918z-lightweight-side-zip-8-inch-tactical-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV918Z%20/%20Lightweight%20Side-Zip%208%20inch%20Tactical%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "spear point bv918z / lightweight side-zip 8 inch tactical boot belleville boot co. boots & professional footwear tactical side-zip boots spear point bv918z / lightweight side-zip 8 inch tactical boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed desert tan image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. desert tan side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "CLASS-A TR906Z / Hot Weather High-Shine Side-Zip Boot",
+    "ar_title": "CLASS-A TR906Z / Hot Weather High-Shine Side-Zip Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Duty & Dress Footwear",
+    "ar_category": "Duty & Dress Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "CLASS-A TR906Z / Hot Weather High-Shine Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "CLASS-A TR906Z / Hot Weather High-Shine Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Hot Weather",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-class-a-tr906z-hot-weather-high-shine-side-zip-boot",
+    "image": "belleville/class-a-tr906z-hot-weather-high-shine-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/class-a-tr906z-hot-weather-high-shine-side-zip-boot-view-1.webp",
+    "gallery": [
+      "belleville/class-a-tr906z-hot-weather-high-shine-side-zip-boot-view-1.webp",
+      "belleville/class-a-tr906z-hot-weather-high-shine-side-zip-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=CLASS-A%20TR906Z%20/%20Hot%20Weather%20High-Shine%20Side-Zip%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "class-a tr906z / hot weather high-shine side-zip boot belleville boot co. boots & professional footwear duty & dress footwear class-a tr906z / hot weather high-shine side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "CLASS-A TR908Z / Hot Weather High-Shine Side-Zip Boot",
+    "ar_title": "CLASS-A TR908Z / Hot Weather High-Shine Side-Zip Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Duty & Dress Footwear",
+    "ar_category": "Duty & Dress Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "CLASS-A TR908Z / Hot Weather High-Shine Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "CLASS-A TR908Z / Hot Weather High-Shine Side-Zip Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Hot Weather",
+      "Side Zipper",
+      "Professional Footwear"
+    ],
+    "id": "belleville-class-a-tr908z-hot-weather-high-shine-side-zip-boot",
+    "image": "belleville/class-a-tr908z-hot-weather-high-shine-side-zip-boot-view-1.webp",
+    "fallback_image": "belleville/class-a-tr908z-hot-weather-high-shine-side-zip-boot-view-1.webp",
+    "gallery": [
+      "belleville/class-a-tr908z-hot-weather-high-shine-side-zip-boot-view-1.webp",
+      "belleville/class-a-tr908z-hot-weather-high-shine-side-zip-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=CLASS-A%20TR908Z%20/%20Hot%20Weather%20High-Shine%20Side-Zip%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "class-a tr908z / hot weather high-shine side-zip boot belleville boot co. boots & professional footwear duty & dress footwear class-a tr908z / hot weather high-shine side-zip boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black hot weather side zipper professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "Mini-Mil MM001 / Barefoot Activity Shoe",
+    "ar_title": "Mini-Mil MM001 / Barefoot Activity Shoe",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Training & Athletic Footwear",
+    "ar_category": "Training & Athletic Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "Mini-Mil MM001 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "Mini-Mil MM001 / Barefoot Activity Shoe. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Ranger Green",
+      "Professional Footwear"
+    ],
+    "id": "belleville-mini-mil-mm001-barefoot-activity-shoe",
+    "image": "belleville/mini-mil-mm001-barefoot-activity-shoe-view-1.webp",
+    "fallback_image": "belleville/mini-mil-mm001-barefoot-activity-shoe-view-1.webp",
+    "gallery": [
+      "belleville/mini-mil-mm001-barefoot-activity-shoe-view-1.webp",
+      "belleville/mini-mil-mm001-barefoot-activity-shoe-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=Mini-Mil%20MM001%20/%20Barefoot%20Activity%20Shoe",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "mini-mil mm001 / barefoot activity shoe belleville boot co. boots & professional footwear training & athletic footwear mini-mil mm001 / barefoot activity shoe. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed ranger green image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. ranger green professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "FLYWEIGHT MXG / Hot Weather Tactical Steel Toe Boot",
+    "ar_title": "FLYWEIGHT MXG / Hot Weather Tactical Steel Toe Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Safety-Toe Boots",
+    "ar_category": "Safety-Toe Boots",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "FLYWEIGHT MXG / Hot Weather Tactical Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "FLYWEIGHT MXG / Hot Weather Tactical Steel Toe Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Aviator Brown",
+      "Hot Weather",
+      "Steel Toe",
+      "Professional Footwear"
+    ],
+    "id": "belleville-flyweight-mxg-hot-weather-tactical-steel-toe-boot",
+    "image": "belleville/flyweight-mxg-hot-weather-tactical-steel-toe-boot-view-1.webp",
+    "fallback_image": "belleville/flyweight-mxg-hot-weather-tactical-steel-toe-boot-view-1.webp",
+    "gallery": [
+      "belleville/flyweight-mxg-hot-weather-tactical-steel-toe-boot-view-1.webp",
+      "belleville/flyweight-mxg-hot-weather-tactical-steel-toe-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=FLYWEIGHT%20MXG%20/%20Hot%20Weather%20Tactical%20Steel%20Toe%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "flyweight mxg / hot weather tactical steel toe boot belleville boot co. boots & professional footwear safety-toe boots flyweight mxg / hot weather tactical steel toe boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed aviator brown image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. aviator brown hot weather steel toe professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SPEAR POINT BV911 CT / Quick Release Station Boot",
+    "ar_title": "SPEAR POINT BV911 CT / Quick Release Station Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Duty & Dress Footwear",
+    "ar_category": "Duty & Dress Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SPEAR POINT BV911 CT / Quick Release Station Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SPEAR POINT BV911 CT / Quick Release Station Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Professional Footwear"
+    ],
+    "id": "belleville-spear-point-bv911-ct-quick-release-station-boot",
+    "image": "belleville/spear-point-bv911-ct-quick-release-station-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv911-ct-quick-release-station-boot-view-1.webp",
+    "gallery": [
+      "belleville/spear-point-bv911-ct-quick-release-station-boot-view-1.webp",
+      "belleville/spear-point-bv911-ct-quick-release-station-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV911%20CT%20/%20Quick%20Release%20Station%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "spear point bv911 ct / quick release station boot belleville boot co. boots & professional footwear duty & dress footwear spear point bv911 ct / quick release station boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "SPEAR POINT BV911 / Quick Release Station Boot",
+    "ar_title": "SPEAR POINT BV911 / Quick Release Station Boot",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Duty & Dress Footwear",
+    "ar_category": "Duty & Dress Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "SPEAR POINT BV911 / Quick Release Station Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "SPEAR POINT BV911 / Quick Release Station Boot. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Professional Footwear"
+    ],
+    "id": "belleville-spear-point-bv911-quick-release-station-boot",
+    "image": "belleville/spear-point-bv911-quick-release-station-boot-view-1.webp",
+    "fallback_image": "belleville/spear-point-bv911-quick-release-station-boot-view-1.webp",
+    "gallery": [
+      "belleville/spear-point-bv911-quick-release-station-boot-view-1.webp",
+      "belleville/spear-point-bv911-quick-release-station-boot-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=SPEAR%20POINT%20BV911%20/%20Quick%20Release%20Station%20Boot",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "spear point bv911 / quick release station boot belleville boot co. boots & professional footwear duty & dress footwear spear point bv911 / quick release station boot. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black professional footwear boots & professional footwear clothing, bags & load-carrying"
+  },
+  {
+    "title": "BV202 / Uniform Dress Oxford",
+    "ar_title": "BV202 / Uniform Dress Oxford",
+    "brand": "Belleville Boot Co.",
+    "sector": "Boots & Professional Footwear",
+    "ar_sector": "الأحذية المهنية والتكتيكية",
+    "category": "Duty & Dress Footwear",
+    "ar_category": "Duty & Dress Footwear",
+    "pdf": "",
+    "page": "Official web listing",
+    "description": "BV202 / Uniform Dress Oxford. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "ar_description": "BV202 / Uniform Dress Oxford. Official Belleville model information is linked for confirmation of current sizing, colour, certification and technical details. The displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography.",
+    "tags": [
+      "Black",
+      "Dress",
+      "Oxford",
+      "Professional Footwear"
+    ],
+    "id": "belleville-bv202-uniform-dress-oxford",
+    "image": "belleville/bv202-uniform-dress-oxford-view-1.webp",
+    "fallback_image": "belleville/bv202-uniform-dress-oxford-view-1.webp",
+    "gallery": [
+      "belleville/bv202-uniform-dress-oxford-view-1.webp",
+      "belleville/bv202-uniform-dress-oxford-view-2.webp"
+    ],
+    "source_title": "Belleville Boot Co. official product listing",
+    "source_url": "https://www.bellevilleboot.com/index.php?l=search_list&s%5Bsearch%5D=BV202%20/%20Uniform%20Dress%20Oxford",
+    "brand_url": "https://www.bellevilleboot.com/",
+    "brand_source_status": "official",
+    "media_credit": "Belleville official model information; locally created illustrative catalogue render.",
+    "official_media": false,
+    "visual_type": "illustrative",
+    "solutions": [
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying"
+    ],
+    "search": "bv202 / uniform dress oxford belleville boot co. boots & professional footwear duty & dress footwear bv202 / uniform dress oxford. official belleville model information is linked for confirmation of current sizing, colour, certification and technical details. the displayed black image is a locally created representative catalogue rendering matched to the model name and footwear class, not manufacturer photography. black dress oxford professional footwear boots & professional footwear clothing, bags & load-carrying"
   }
 ];
