@@ -1,18 +1,15 @@
-DIRA AL MUSTAQBAL — NEW LOGO WEBSITE PATCH
+DIRA AL MUSTAQBAL — PROFESSIONAL + LARGER LOGO PATCH
 
-This patch updates:
-- The logo in the top navigation on every page
-- The logo in every footer
-- The image beside the About / company information section
-- The browser favicon
-
-INSTALLATION
 1. Extract this ZIP.
-2. Open the extracted folder.
-3. Copy everything inside it into your local dira-al-mustaqbal repository folder.
-4. Choose Merge folders and Replace files when Windows asks.
-5. Open GitHub Desktop, review the changed files, then Commit and Push.
-6. Wait around 1–3 minutes and refresh the website with Ctrl + F5.
+2. Open the extracted dira-professional-logo-v2-patch folder.
+3. Copy everything inside into your local dira-al-mustaqbal repository folder.
+4. Select Merge folders and Replace files when Windows asks.
+5. Commit and push through GitHub Desktop.
+6. Wait for GitHub Pages to finish publishing, then press Ctrl + F5 on the website.
 
-The new asset is:
-assets/images/dira-website-logo.png
+What changed:
+- Replaced the business-card-style logo image with clean transparent logo files.
+- Removed the white box, rounded card border and vertical side line from the website logo.
+- Made the top navigation logo significantly larger on desktop, tablet and mobile.
+- Uses a white logo in the dark navigation/footer and a black logo in the About section.
+- Improved header spacing, shadows and responsive menu positioning.
