@@ -90,13 +90,23 @@ window.BRAND_DATA = [
     "url": "https://www.chinaarmysupplier.com/",
     "status": "official",
     "country": "China",
-    "description": "Military, police, EOD and public-security equipment solutions.",
-    "product_count": 23,
+    "description": "Military uniforms, ballistic protection, police equipment, footwear, outdoor systems, protected vehicles, EOD, communications, surveillance, airborne and field-logistics solutions.",
+    "product_count": 149,
     "sectors": [
-      "Law Enforcement & Evidence"
+      "Boots & Professional Footwear",
+      "Clothing, Bags & Load-Carrying",
+      "EMS & Medical Response",
+      "Firefighting & Rescue",
+      "Land & Vehicle Systems",
+      "Law Enforcement & Evidence",
+      "Rescue & Emergency",
+      "Scopes, Thermal & Night Vision",
+      "Tactical & Protective",
+      "Training Systems",
+      "Unmanned & Surveillance"
     ],
-    "image": "cxxm-eod/cxxm-bomb-container-trailer.webp",
-    "fallback_image": "cxxm-eod/cxxm-bomb-container-trailer.webp"
+    "image": "xinxing-catalogue/cxbd-02-woodland-combat-uniform.webp",
+    "fallback_image": "xinxing-catalogue/cxbd-02-woodland-combat-uniform.webp"
   },
   {
     "name": "CXXC",

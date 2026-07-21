@@ -583,5 +583,18 @@ window.CATALOGUE_DATA = [
     "ar_description": "Military augmented reality, robotics, exoskeletons and remote weapon-station technology.",
     "pages": "10",
     "available": true
+  },
+  {
+    "title": "China Xinxing Military, Police & High-Tech Products",
+    "ar_title": "كتالوج منتجات China Xinxing العسكرية والشرطية والتقنية",
+    "brand": "China Xinxing Xiamen",
+    "category": "Protective & Defence Equipment",
+    "ar_category": "معدات الحماية والدفاع",
+    "filename": "china-xinxing-xiamen-product-catalogue.pdf",
+    "thumb": "china-xinxing-xiamen-products.jpg",
+    "description": "Comprehensive catalogue covering uniforms, ballistic protection, police gear, footwear, outdoor equipment, vehicles, EOD, communications, night vision, logistics, border security and field infrastructure.",
+    "ar_description": "كتالوج شامل للملابس والحماية الباليستية ومعدات الشرطة والأحذية والمعدات الميدانية والمركبات وإبطال المتفجرات والاتصالات والرؤية الليلية واللوجستيات وأمن الحدود والبنية الميدانية.",
+    "pages": "135",
+    "available": true
   }
 ];
