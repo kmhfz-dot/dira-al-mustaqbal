@@ -1,0 +1,227 @@
+.pwa-install-launcher {
+  position: fixed;
+  right: 20px;
+  bottom: calc(20px + env(safe-area-inset-bottom, 0px));
+  z-index: 72;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 50px;
+  padding: 7px 17px 7px 8px;
+  border: 1px solid #ffffff42;
+  border-radius: 999px;
+  background: #080b0ef2;
+  color: #fff;
+  box-shadow: 0 16px 42px #0006;
+  font: 700 12px/1 Inter, Arial, sans-serif;
+  letter-spacing: .045em;
+  cursor: pointer;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  transition: transform .2s ease, background .2s ease, opacity .2s ease;
+}
+
+.pwa-install-launcher:hover,
+.pwa-install-launcher:focus-visible {
+  transform: translateY(-2px);
+  background: #171d22;
+}
+
+.pwa-install-launcher:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 3px;
+}
+
+.pwa-install-launcher[hidden] {
+  display: none;
+}
+
+.pwa-install-launcher img {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+}
+
+.pwa-install-dialog {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: grid;
+  place-items: end center;
+  padding: 18px;
+}
+
+.pwa-install-dialog[hidden] {
+  display: none;
+}
+
+.pwa-install-backdrop {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  background: #030507c9;
+  cursor: pointer;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+}
+
+.pwa-install-sheet {
+  position: relative;
+  width: min(520px, 100%);
+  max-height: calc(100vh - 36px);
+  overflow: auto;
+  border: 1px solid #ffffff24;
+  border-radius: 22px;
+  background: #0d1217;
+  color: #fff;
+  box-shadow: 0 35px 100px #000a;
+  padding: 28px;
+  padding-bottom: calc(28px + env(safe-area-inset-bottom, 0px));
+}
+
+.pwa-install-sheet-head {
+  display: grid;
+  grid-template-columns: 64px 1fr auto;
+  gap: 15px;
+  align-items: center;
+  padding-bottom: 23px;
+  border-bottom: 1px solid #ffffff18;
+}
+
+.pwa-install-sheet-head img {
+  width: 64px;
+  height: 64px;
+  border-radius: 15px;
+}
+
+.pwa-install-sheet-head small {
+  display: block;
+  margin-bottom: 6px;
+  color: #b9c1c8;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+}
+
+.pwa-install-sheet h2 {
+  margin: 0;
+  font-size: 22px;
+  line-height: 1.15;
+}
+
+.pwa-install-close {
+  align-self: start;
+  width: 38px;
+  height: 38px;
+  border: 1px solid #ffffff30;
+  border-radius: 50%;
+  background: transparent;
+  color: #fff;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.pwa-install-steps {
+  display: grid;
+  gap: 11px;
+  margin: 22px 0 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: pwa-step;
+}
+
+.pwa-install-steps li {
+  counter-increment: pwa-step;
+  display: grid;
+  grid-template-columns: 34px 1fr;
+  gap: 13px;
+  align-items: start;
+  color: #d9dee2;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.pwa-install-steps li::before {
+  content: counter(pwa-step);
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #b98d2e;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.pwa-install-note {
+  margin: 20px 0 0;
+  padding: 13px 14px;
+  border-left: 3px solid #b98d2e;
+  background: #ffffff0a;
+  color: #aeb7be;
+  font-size: 11px;
+  line-height: 1.55;
+}
+
+body.pwa-install-open {
+  overflow: hidden;
+}
+
+body.ar .pwa-install-launcher {
+  right: auto;
+  left: 20px;
+  padding: 7px 8px 7px 17px;
+  font-family: "Noto Kufi Arabic", Arial, sans-serif;
+}
+
+body.ar .pwa-install-sheet {
+  direction: rtl;
+  font-family: "Noto Kufi Arabic", Arial, sans-serif;
+}
+
+body.ar .pwa-install-note {
+  border-left: 0;
+  border-right: 3px solid #b98d2e;
+}
+
+@media (min-width: 700px) {
+  .pwa-install-dialog {
+    place-items: center;
+  }
+}
+
+@media (max-width: 560px) {
+  .pwa-install-launcher {
+    right: 12px;
+    bottom: calc(12px + env(safe-area-inset-bottom, 0px));
+    min-height: 46px;
+    padding-right: 14px;
+  }
+
+  .pwa-install-launcher img {
+    width: 32px;
+    height: 32px;
+  }
+
+  .pwa-install-sheet {
+    border-radius: 18px;
+    padding: 21px;
+  }
+
+  .pwa-install-sheet-head {
+    grid-template-columns: 54px 1fr auto;
+  }
+
+  .pwa-install-sheet-head img {
+    width: 54px;
+    height: 54px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pwa-install-launcher {
+    transition: none;
+  }
+}

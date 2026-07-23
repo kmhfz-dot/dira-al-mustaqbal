@@ -1,0 +1,77 @@
+{
+  "name": "Dira Al Mustaqbal Trading",
+  "short_name": "Dira",
+  "description": "Defense, security, tactical and rescue solutions from Dira Al Mustaqbal Trading.",
+  "id": "/dira-al-mustaqbal/",
+  "start_url": "/dira-al-mustaqbal/?source=pwa",
+  "scope": "/dira-al-mustaqbal/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "background_color": "#080b0e",
+  "theme_color": "#080b0e",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "business",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/dira-al-mustaqbal/assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dira-al-mustaqbal/assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dira-al-mustaqbal/assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Browse Products",
+      "short_name": "Products",
+      "url": "/dira-al-mustaqbal/products.html",
+      "icons": [
+        {
+          "src": "/dira-al-mustaqbal/assets/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "View Brochures",
+      "short_name": "Brochures",
+      "url": "/dira-al-mustaqbal/catalogue.html",
+      "icons": [
+        {
+          "src": "/dira-al-mustaqbal/assets/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Contact Dira",
+      "short_name": "Contact",
+      "url": "/dira-al-mustaqbal/#contact",
+      "icons": [
+        {
+          "src": "/dira-al-mustaqbal/assets/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
