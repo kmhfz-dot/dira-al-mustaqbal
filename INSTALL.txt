@@ -1,0 +1,14 @@
+Dira Al Mustaqbal — Logo and PHAZZER Update
+
+1. Extract this ZIP.
+2. Open the extracted "dira-logo-phazzer-update" folder.
+3. Copy everything inside it.
+4. Paste into your existing "dira-al-mustaqbal" repository folder.
+5. Choose "Replace the files in the destination" and merge the folders.
+6. Open GitHub Desktop.
+7. Confirm the six changed files, commit to main, and click Push origin.
+
+This update:
+- Adds the gold-bullet DIRA logo to the header, footer, about section, and favicon.
+- Replaces the homepage PHAZZER feature image.
+- Replaces the PHAZZER product-browser image with the same supplied photograph.
